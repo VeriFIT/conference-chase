@@ -74,11 +74,11 @@
               "rebuttal_start": "2026-07-02",
               "rebuttal_end": "2026-07-09",
               "notification": "2026-07-23",
-              "final_version": "2026-10-10",
+              "final_version": "2026-09-10",
               "cfp": "https://conf.researchr.org/track/aplas-atva-2026/atva-2026#Call-for-Papers",
               "submission_link": "https://atva26.hotcrp.com/",
-              "page_limit": "18 pages LNCS format, excluding references (regular papers); tool papers 4–18 pages excl. references",
-              "notes": "Abstract registration required by May 19 (23:59 AoE); two-stage review with early-rejection notification Jun 11, 2026; double-blind for regular papers, single-blind for tool papers; camera-ready Oct 10, 2026 per official dates page (the May CFP email said Sep 10)."
+              "page_limit": "18 pages LNCS format excluding references (regular papers); 4-18 pages excluding references (tool papers)",
+              "notes": "Titles+abstracts due May 19 (registration required), full papers May 21, all deadlines AoE. Two-stage review: early-rejection notification Jun 11, 2026; author response Jul 2-9; notification Jul 23; camera-ready Sep 10, 2026 per the official dates page (an earlier CFP mailing said Oct 10). Double-blind for regular papers, single-blind for tool papers; PC-member submissions allowed. Tool-paper artifact submission May 28 (mandatory), optional artifact submission for accepted regular papers Aug 6, artifact notification Sep 8."
             }
           ],
           "source": "https://conf.researchr.org/dates/aplas-atva-2026",
@@ -87,8 +87,22 @@
           "location": "Hong Kong SAR, China (HKUST)",
           "cfp": "https://conf.researchr.org/track/aplas-atva-2026/atva-2026#Call-for-Papers",
           "confidence": "high",
-          "notes": "ATVA 2026 = 24th edition, co-located with APLAS 2026. Main paper deadline (May 21, 2026) has already passed as of 2026-10-01; no ATVA 2027 edition/CFP has been announced yet, so this is the most recently announced edition (conference itself still upcoming, Dec 1–4, 2026). Single submission cycle; tool papers and artifact evaluation are separate categories, not rounds. A separate non-archival 'Spotlights of Verification' event has an abstract deadline of Oct 8, 2026 (notification Oct 20, event Dec 1) — not part of the main paper track.",
-          "last_checked": "2026-10-01"
+          "notes": "ATVA 2026 (24th edition, co-located with APLAS 2026 at HKUST, Hong Kong SAR, Dec 1-4, 2026) is the most recently announced edition: its single main-track submission deadline (May 21, 2026) has already passed as of 2026-10-01, and no ATVA 2027 edition/CFP has been announced (no atva-2027 site on conf.researchr.org; the ATVA series page at atva-conference.org still points to 2025/2026). The conference itself is still upcoming. Single submission cycle - tool papers and artifact evaluation are separate categories, not rounds. Still-open but non-main-track deadlines: 'Spotlights of Verification' (non-archival, co-located) abstracts Oct 8, 2026, notification Oct 20, event Dec 1; SRC/posters revised extended abstracts Nov 7, 2026.",
+          "last_checked": "2026-10-01",
+          "pc_chairs": [
+            {
+              "name": "Lei Bu",
+              "affiliation": "Nanjing University, China"
+            },
+            {
+              "name": "Benjamin Lucien Kaminski",
+              "affiliation": "Saarland University; University College London, Germany"
+            },
+            {
+              "name": "Jan Kretinsky",
+              "affiliation": null
+            }
+          ]
         }
       ]
     },
@@ -119,13 +133,13 @@
               "final_version": "2027-05-18",
               "cfp": "https://conferences.i-cav.org/2027/cfp/",
               "submission_link": null,
-              "page_limit": "18 pages LNCS excl. references and appendices (regular and tool papers; application/industrial papers 10 pages); camera-ready up to 20 pages (12 for application papers)",
-              "notes": "Single cycle, two-stage review: early rejection notification 2027-03-04; author response only for papers advancing to stage 2. Artifact registration: tool papers 2027-03-08, non-tool papers 2027-04-26. HotCRP submission link to be added once available. Main conference (excluding workshops) 2027-07-21 to 2027-07-23."
+              "page_limit": "18 pages LNCS excl. references and appendices (regular and tool papers; application/industrial/case-study papers 10 pages); camera-ready up to 20 pages (12 for application papers)",
+              "notes": "Single cycle, two-stage review (2 reviews in stage 1; early rejection notification 2027-03-04; only papers advancing to stage 2 get an author response option). No separate abstract deadline announced. Submissions via HotCRP — link to be added to the CFP once available. Max 5 submissions per author. Artifact registration: tool papers 2027-03-08 (mandatory for tool papers), non-tool papers 2027-04-26. Early registration deadline 2027-05-18. Conference incl. workshops 19–23 Jul 2027; main conference 21–23 Jul 2027 at KIT Amsterdam."
             }
           ],
           "source": "https://conferences.i-cav.org/2027/cfp/",
           "confidence": "high",
-          "notes": "39th CAV, first edition held in the Netherlands, at KIT Amsterdam. Dates read from the official CFP page (updated 22 Sep 2026).",
+          "notes": "39th CAV, first edition held in the Netherlands (KIT, Amsterdam). All dates read from the official CFP/homepage (CFP updated 22 Sep 2026). PC chairs Marieke Huisman (University of Twente) and Joost-Pieter Katoen (RWTH Aachen University & University of Twente) also serve as general chairs per the organization page.",
           "last_checked": "2026-10-01"
         }
       ]
@@ -166,14 +180,20 @@
               "final_version": "2026-05-08",
               "cfp": "https://easychair.org/cfp/CIAA2026",
               "submission_link": "https://easychair.org/conferences/?conf=ciaa2026",
-              "page_limit": "12 pages in Springer LNCS style, excluding title/abstract page and bibliography (appendix at PC's discretion)",
-              "notes": "Paper deadline extended from 2026-03-20 to 2026-03-27; notification extended from 2026-04-24 to 2026-05-01. No abstract deadline and no author-response/rebuttal period were announced; no deadline time/timezone stated."
+              "page_limit": "12 pages in Springer LNCS style, excluding title/abstract page and bibliography (appendix at PC's discretion; longer only with prior PC chair approval)",
+              "notes": "Paper deadline extended from 2026-03-20 to 2026-03-27; notification extended from 2026-04-24 to 2026-05-01. No abstract deadline and no author-response/rebuttal period announced; no deadline time/timezone stated. A separate Tool Track existed but is not a main-track cycle."
             }
           ],
           "source": "https://research.cs.queensu.ca/ciaa2026/",
           "confidence": "high",
-          "notes": "CIAA 2026 (30th edition, Queen's University, co-located with DCFS 2026) already took place 2026-08-05/08; as of 2026-10-01 no CFP, venue or dates have been announced for the next edition (CIAA 2027) on the official series site (informatik.uni-giessen.de/ciaa), WikiCFP or EasyChair, so this most recently announced edition is reported. A separate Tool Track existed but is not a main-track cycle.",
-          "last_checked": "2026-10-01"
+          "notes": "CIAA 2026 (30th edition, Queen's University, co-located with DCFS 2026) already took place 2026-08-05/08 and its proceedings are published by Springer LNCS. As of 2026-10-01 no next edition (CIAA 2027) has been announced: the official series site (informatik.uni-giessen.de/ciaa) still lists only 2025/2026, and WikiCFP, EasyChair Smart CFP and other aggregators show no CIAA 2027 entry (the DCFS series site likewise lists no 2027 workshop). Therefore the most recently announced edition, CIAA 2026, is reported here; all its dates were re-verified on the official Queen's site and the EasyChair CFP.",
+          "last_checked": "2026-10-01",
+          "pc_chairs": [
+            {
+              "name": "Taylor J. Smith",
+              "affiliation": "St. Francis Xavier University, Canada"
+            }
+          ]
         }
       ]
     },
@@ -200,7 +220,7 @@
               "submission_link": null,
               "page_limit": null,
               "timezone": null,
-              "notes": "No call for papers published yet (as of 2026-10-01): no official CONCUR 2027 website exists, so all submission dates are unknown. For reference, the previous edition CONCUR 2026 (37th, Liverpool, 1-4 Sep 2026) had abstracts 2026-04-20, submissions 2026-04-27 (AoE), rebuttal 2026-06-01/03, notification 2026-06-15, camera-ready 2026-06-29, 15 pages LIPIcs excl. references/appendices, EasyChair conf=concur2026 (https://confest-2026.github.io/concur/call-for-papers)."
+              "notes": "No CFP published yet (checked 2026-10-01): no official CONCUR 2027 / CONQEST 2027 website exists (concur2027.org does not resolve, concur2027.github.io and conqest2027.github.io are 404, and the concurrency-theory.org CONCUR series page still lists only up to CONCUR 2026; WikiCFP has no 2027 entry). All submission dates therefore unknown. For reference, the previous edition CONCUR 2026 (37th, Liverpool, 1-4 Sep 2026) had abstracts 2026-04-20, submissions 2026-04-27 (AoE), rebuttal 2026-06-01/03, notification 2026-06-15, camera-ready 2026-06-29, 15 pages LIPIcs excl. references/appendices, EasyChair conf=concur2026 (https://confest-2026.github.io/concur/call-for-papers)."
             }
           ],
           "source": "https://www.cs.vu.nl/~wanf/profactivities.html",
@@ -210,7 +230,7 @@
           "conference_end": "2027-09-10",
           "link": null,
           "cfp": null,
-          "notes": "CONCUR 2027 (next edition, 38th in the series) is announced only as a save-the-date: it will take place 6-10 September 2027 in Lucca, Italy, as part of the joint event 'CONQEST 2027' (CONCUR + QEST/FORMATS); General Chair Patricia Bouyer, PC Chair Jaco van de Pol (per Openresearch, which lists the same 2027-09-06/10 dates). Confirmed by the CONCUR Steering Committee chair's page (Wan Fokkink). No official edition website or CFP yet, hence no submission/rebuttal/notification dates; expect the CFP in early 2027 (previous editions had April deadlines). The CONCUR 2026 edition (Liverpool, 1-4 Sep 2026) has already been held, so its deadline is not upcoming.",
+          "notes": "CONCUR 2027 (next edition, 38th in the series) is announced only as a save-the-date: 6-10 September 2027 in Lucca, Italy, as part of the joint event 'CONQEST 2027' (CONCUR + QEST/FORMATS). Confirmed by the chair of the CONCUR Steering Committee (Wan Fokkink, VU Amsterdam): 'The CONCUR 2027 conference will take place in Lucca in Italy, 6-10 September 2027, as part of CONQEST 2027'. Openresearch lists the same dates with General Chair Patricia Bouyer and PC Chair Jaco van de Pol, but that page could not be fetched (bot check), so PC chairs are reported as null. No official edition website or call for papers exists yet, hence no abstract/submission/rebuttal/notification/camera-ready dates, submission link or page limit; expect the CFP in early 2027 (recent editions had April deadlines). CONCUR 2026 (Liverpool, 1-4 Sep 2026) has already been held, so its deadline is not upcoming.",
           "last_checked": "2026-10-01"
         }
       ]
@@ -236,7 +256,7 @@
               "cfp": "https://csl2027.github.io/index.html#call-for-papers",
               "submission_link": "https://form.sdu.dk/CSL2027/",
               "page_limit": "15 pages in LIPIcs style, excluding appendices and references",
-              "notes": "Single cycle, double-blind, LIPIcs proceedings. Abstract and paper deadlines were midnight AoE and have already passed (HotCRP confirms submissions closed); notification 15 Oct 2026 (Brighton time); camera-ready still TBD."
+              "notes": "Single cycle, lightweight double-blind, LIPIcs proceedings. All deadlines were midnight AoE and have passed (HotCRP shows submission closed; its recorded deadlines were extended to 9 Jul 2026 abstract registration and 22 Jul 2026 full paper). Notification 15 Oct 2026 (Brighton time) is still upcoming; camera-ready date TBD. No author-response/rebuttal period is stated in the CFP."
             }
           ],
           "source": "https://csl2027.github.io/",
@@ -245,8 +265,18 @@
           "conference_start": "2027-01-25",
           "conference_end": "2027-01-29",
           "link": "https://csl2027.github.io/",
-          "notes": "CSL 2026 (Paris, 23-28 Feb 2026) has already taken place and CSL 2027's paper deadline (15 Jul 2026) has also passed; no CSL 2028 edition/CFP has been announced yet (EACSL lists only up to 2026/2027), so CSL 2027 (35th EACSL Annual Conference, University of Sussex) is the most recently announced edition. No author-response/rebuttal period is stated in the CFP.",
-          "last_checked": "2026-10-01"
+          "notes": "No CSL edition with an upcoming submission deadline exists as of 2026-10-01: CSL 2026 (Paris, 23-28 Feb 2026) already took place and CSL 2027's paper deadline (15 Jul 2026, extended to 22 Jul in HotCRP) has passed, so CSL 2027 (35th EACSL Annual Conference, University of Sussex, Brighton) is the most recently announced edition with dates. CSL 2028 has been announced only as venue/organisers (Porto; local organisers João Barbosa and Sandra Alves, PC chairs TBA) per the EACSL 2026 membership meeting minutes — no website, CFP or dates yet, and the EACSL CSL list still ends at 2026. PC chair affiliations are as given in the official CSL 2027 calls for papers (the website's committee section lists the names).",
+          "last_checked": "2026-10-01",
+          "pc_chairs": [
+            {
+              "name": "Corina Cîrstea",
+              "affiliation": "University of Southampton, UK"
+            },
+            {
+              "name": "Yannick Forster",
+              "affiliation": "Inria Paris, France"
+            }
+          ]
         }
       ]
     },
@@ -296,7 +326,7 @@
           "conference_start": "2027-04-12",
           "conference_end": "2027-04-15",
           "location": "Copenhagen, Denmark",
-          "cfp": "https://etaps.org/2027/cfp/",
+          "cfp": "https://etaps.org/2027/cfp",
           "rounds": [
             {
               "name": "Round 1",
@@ -308,8 +338,8 @@
               "notification": "2026-08-06",
               "final_version": "2027-01-25",
               "submission_link": "https://esop27.hotcrp.com/",
-              "page_limit": "No page limit at submission (LNCS/PACMPL/TOPLAS formats); camera-ready max 25 pages LNCS excl. references",
-              "notes": "Deadline already passed. Outcomes: Accept / Reject / Revise (revisions due by Round 2 deadline); rejected Round 1 papers may not be resubmitted to Round 2. Journal-First TOPLAS submissions were due before this deadline."
+              "page_limit": "No page limit at submission (LNCS, PACMPL, or TOPLAS formats); camera-ready max 25 pages LNCS excl. bibliography",
+              "notes": "Deadline already passed. Outcomes: Accept / Reject / Revise (revisions due by the Round 2 deadline, Oct 15, 2026); papers rejected in Round 1 may NOT be resubmitted to Round 2. Journal-First (TOPLAS) submissions were due before the Round 1 deadline. No mandatory artifact submission."
             },
             {
               "name": "Round 2",
@@ -321,14 +351,20 @@
               "notification": "2026-12-22",
               "final_version": "2027-01-25",
               "submission_link": "https://esop27.hotcrp.com/",
-              "page_limit": "No page limit at submission (LNCS/PACMPL/TOPLAS formats); camera-ready max 25 pages LNCS excl. references",
-              "notes": "Upcoming deadline (firm, no extensions). Direct Round 2 submissions are accepted or rejected. Voluntary artifact submission Jan 11, 2027; artifact notification Feb 11, 2027. Double-blind."
+              "page_limit": "No page limit at submission (LNCS, PACMPL, or TOPLAS formats); camera-ready max 25 pages LNCS excl. bibliography",
+              "notes": "UPCOMING deadline (Thursday, Oct 15, 2026; firm, no extensions). Direct Round 2 submissions are accepted or rejected only. Double-blind. Voluntary post-acceptance artifact submission Jan 11, 2027; artifact notification Feb 11, 2027 (5-page experience report optional)."
             }
           ],
-          "source": "https://etaps.org/2027/esop",
+          "source": "https://etaps.org/2027/conferences/esop/",
           "confidence": "high",
-          "notes": "ESOP 2027 is part of ETAPS 2027 (30th edition), Copenhagen, Denmark, April 10-15, 2027 (satellite events Apr 10-11; main conferences Apr 12-15). All ETAPS deadlines are AoE and stated as firm. ESOP page lists it as the 36th ESOP while the HotCRP site says 35th; numbering discrepancy on official pages.",
-          "last_checked": "2026-10-01"
+          "notes": "ESOP 2027 (36th ESOP, per official page) is part of ETAPS 2027 (30th edition), Copenhagen, Denmark, April 10-15, 2027 (satellite events Apr 10-11; main conferences Apr 12-15), hosted by University of Copenhagen, IT University of Copenhagen and Aalborg University. All dates are AoE and stated as firm (no extensions). ESOP-specific call: https://etaps.org/2027/esop (redirects to https://etaps.org/2027/conferences/esop/); joint CFP: https://etaps.org/2027/cfp. Single PC chair (Azalea Raad). No abstract deadline is mentioned. Submission via HotCRP (esop27.hotcrp.com).",
+          "last_checked": "2026-10-01",
+          "pc_chairs": [
+            {
+              "name": "Azalea Raad",
+              "affiliation": "Imperial College London"
+            }
+          ]
         }
       ]
     },
@@ -357,12 +393,12 @@
               "cfp": null,
               "submission_link": null,
               "page_limit": null,
-              "notes": "No call for papers or submission deadlines published yet (as of 2026-10-01); only venue and conference dates are announced by FME."
+              "notes": "No call for papers or submission deadlines published as of 2026-10-01: FME's official 'Upcoming Formal Methods Events' page lists FM 2027 (Athens, 18-22 Oct 2027) with empty Abstract Due / Full Paper Due / Notification columns, and no FM 2027 edition website or CFP exists (conf.researchr.org/home/fm-2027 does not exist). The only FM 2027 item on fmeurope.org is the Call for Organizers of 14 Sep 2025 (proposals were due 15 Jan 2026)."
             }
           ],
           "source": "https://www.fmeurope.org/feature/upcoming_conferences/",
           "confidence": "medium",
-          "notes": "FM 2027 will be the 28th International Symposium on Formal Methods (Athens, Greece, 18-22 October 2027), listed on FME's official 'Upcoming Formal Methods Events' page; the abstract/paper/notification/camera-ready deadlines are blank there and no FM 2027 edition website or CFP exists yet (FME's last FM 2027 news item is the Call for Organizers of Sep 2025). The previous edition, FM 2026 (Tokyo, 18-22 May 2026), already took place, so its deadlines are past. FM 2028 is pre-announced for Twente, Netherlands, 6-10 Nov 2028.",
+          "notes": "FM 2027 will be the 28th International Symposium on Formal Methods (Athens, Greece, 18-22 October 2027), per FME's official upcoming-events page; it is the next edition with no announced submission deadline (FM 2026, Tokyo, 18-22 May 2026, already took place). PC chairs, CFP URL, submission system and page limit are not yet announced (FME's Call for Organizers notes PC chairs are invited by the FME chair, so they appear late). FM 2028 is pre-announced for Twente, Netherlands, 6-10 Nov 2028, also without deadlines.",
           "last_checked": "2026-10-01"
         }
       ]
@@ -426,8 +462,39 @@
         {
           "year": 2027,
           "location": "Copenhagen, Denmark",
-          "rounds": [],
-          "last_checked": "2026-10-01"
+          "rounds": [
+            {
+              "name": "Main",
+              "submission_deadline": "2026-10-15",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-12-07",
+              "rebuttal_end": "2026-12-09",
+              "notification": "2026-12-22",
+              "final_version": "2027-01-25",
+              "cfp": "https://etaps.org/2027/cfp/",
+              "submission_link": "https://easychair.org/conferences/?conf=fossacs2027",
+              "page_limit": "max 18 pages LNCS format, excluding bibliography",
+              "notes": "Single-cycle conference. Double-blind reviewing with author rebuttal phase. Voluntary artifact submission: 2027-01-11; artifact notification: 2027-02-11 (does not affect acceptance). All ETAPS dates are AoE and firm."
+            }
+          ],
+          "last_checked": "2026-10-01",
+          "link": "https://etaps.org/2027/",
+          "cfp": "https://etaps.org/2027/cfp/",
+          "conference_start": "2027-04-12",
+          "conference_end": "2027-04-15",
+          "pc_chairs": [
+            {
+              "name": "Alexandra Silva",
+              "affiliation": "Cornell University and UCL, USA/UK"
+            },
+            {
+              "name": "Joël Ouaknine",
+              "affiliation": "Max Planck Institute for Software Systems (MPI-SWS), Saarbrücken, Germany"
+            }
+          ],
+          "source": "https://etaps.org/2027/cfp/",
+          "confidence": "high",
+          "notes": "FoSSaCS 2027 = 29th International Conference on Foundations of Software Science and Computation Structures, held within ETAPS 2027 (30th ETAPS, Copenhagen, Denmark, 10-15 April 2027; satellite events 10-11 April, main conferences 12-15 April). Proceedings in Springer LNCS/ARCoSS (gold open access)."
         }
       ]
     },
@@ -1191,8 +1258,60 @@
       "name": "USENIX Security Symposium",
       "category": "SE & security",
       "homepage": null,
-      "last_checked": null,
-      "editions": []
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2027,
+          "link": "https://www.usenix.org/conference/usenixsecurity27",
+          "cfp": "https://www.usenix.org/conference/usenixsecurity27/call-for-papers",
+          "location": "Denver, CO, USA",
+          "conference_start": "2027-08-11",
+          "conference_end": "2027-08-13",
+          "pc_chairs": [
+            {
+              "name": "Adam Doupé",
+              "affiliation": "Arizona State University"
+            },
+            {
+              "name": "Andrei Sabelfeld",
+              "affiliation": "Chalmers University of Technology"
+            }
+          ],
+          "rounds": [
+            {
+              "name": "Cycle 1",
+              "abstract_deadline": "2026-08-18",
+              "submission_deadline": "2026-08-25",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-11-05",
+              "rebuttal_end": "2026-11-12",
+              "notification": "2026-12-03",
+              "final_version": "2027-01-14",
+              "cfp": "https://www.usenix.org/conference/usenixsecurity27/call-for-papers",
+              "submission_link": "https://sec27cycle1.usenix.hotcrp.com/",
+              "page_limit": "13 pages body text (excl. references and appendices); camera-ready max 20 pages total",
+              "notes": "Deadline already passed as of 2026-10-01; review still ongoing (early-reject notification Oct 6, 2026; rebuttal Nov 5-12, 2026; notification Dec 3, 2026; shepherded approval due Dec 15, 2026). Mandatory registration with fixed title/authors/abstract/topics one week before submission; submission artifacts due Aug 28, 2026 (3-day grace period)."
+            },
+            {
+              "name": "Cycle 2",
+              "abstract_deadline": "2027-01-19",
+              "submission_deadline": "2027-01-26",
+              "timezone": "AoE",
+              "rebuttal_start": "2027-04-08",
+              "rebuttal_end": "2027-04-15",
+              "notification": "2027-05-06",
+              "final_version": "2027-06-03",
+              "cfp": "https://www.usenix.org/conference/usenixsecurity27/call-for-papers",
+              "page_limit": "13 pages body text (excl. references and appendices); camera-ready max 20 pages total",
+              "notes": "Upcoming cycle. Mandatory registration (fixed title, authors, non-blank abstract, topics) due Jan 19, 2027; submission artifacts due Jan 29, 2027; early-reject notification Mar 9, 2027; shepherded approval due May 18, 2027. Cycle 2 HotCRP submission site not yet linked on the CFP page. Max 7 papers per author per cycle."
+            }
+          ],
+          "source": "https://www.usenix.org/conference/usenixsecurity27/call-for-papers",
+          "confidence": "high",
+          "notes": "36th USENIX Security Symposium, Aug 11-13, 2027, Hyatt Regency Denver at Colorado Convention Center. Two submission cycles; all accepted papers appear in the '27 proceedings. Dates read from the official CFP page (and matching official CFP PDF sec27_cfp-070826.pdf); all deadlines AoE.",
+          "last_checked": "2026-10-01"
+        }
+      ]
     },
     {
       "id": "vmcai",
@@ -1200,8 +1319,45 @@
       "name": "Verification, Model Checking, and Abstract Interpretation",
       "category": "Formal methods",
       "homepage": null,
-      "last_checked": null,
-      "editions": []
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2027,
+          "conference_start": "2027-01-11",
+          "conference_end": "2027-01-12",
+          "location": "Mexico City, Mexico",
+          "link": "https://conf.researchr.org/home/VMCAI-2027",
+          "cfp": "https://conf.researchr.org/home/VMCAI-2027#call-Call-for-Papers",
+          "pc_chairs": [
+            {
+              "name": "Dominik Klumpp",
+              "affiliation": "LIX, CNRS, Ecole Polytechnique, France"
+            },
+            {
+              "name": "Caterina Urban",
+              "affiliation": "Inria - École Normale Supérieure, France"
+            }
+          ],
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": "2026-09-23",
+              "submission_deadline": "2026-09-30",
+              "timezone": "AoE",
+              "notification": "2026-11-06",
+              "final_version": "2026-11-20",
+              "cfp": "https://conf.researchr.org/home/VMCAI-2027#call-Call-for-Papers",
+              "submission_link": "https://easychair.org/conferences/?conf=vmcai2027",
+              "page_limit": "20 pages (LNCS format, excluding references); tool papers 12 pages; case studies 20 pages",
+              "notes": "Paper (abstract) registration required 2026-09-23; paper submission 2026-09-30 per the official Important Dates pages (VMCAI 2027 and POPL 2027). The published CFP / mailing-list announcements stated 'Paper submission: September 16, 2026 (AoE)', so the deadline appears to have been extended. No author-response/rebuttal period is announced for papers (only for artifacts: response period ends 2026-10-02/2026-10-09, artifact notification 2026-11-06). Double-blind review; optional artifact submission alongside the paper."
+            }
+          ],
+          "source": "https://conf.researchr.org/dates/VMCAI-2027",
+          "confidence": "medium",
+          "notes": "VMCAI 2027 (28th edition, co-located with POPL 2027) is the most recently announced edition: its paper submission deadline (2026-09-30 per the official dates page; 2026-09-16 AoE per the CFP) has just passed as of 2026-10-01, and no VMCAI 2028 edition/CFP has been announced yet. Single submission cycle. Remaining upcoming dates: artifact response period end 2026-10-09, notification 2026-11-06, camera-ready 2026-11-20.",
+          "last_checked": "2026-10-01"
+        }
+      ]
     }
   ]
 }
