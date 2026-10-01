@@ -50,7 +50,7 @@ jobs:
     timeout-minutes: 20
     strategy:
       fail-fast: false
-      max-parallel: 5 # at most 5 agents run at the same time
+      max-parallel: 1 # one agent at a time (the LLM API key limits parallel requests)
       matrix:
         id: ${{ fromJSON(needs.select.outputs.ids) }}
     steps:

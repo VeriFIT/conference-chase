@@ -10,7 +10,7 @@ languages, logic & theory, SE & security) and shows them on a GitHub Pages site.
   submission deadline, rebuttal period, notification, final version, submission link,
   page limit, optional round-specific CFP).
 - **Agent** (`agent/`): a weekly GitHub Actions workflow picks the stalest conferences, runs one
-  LLM agent per conference (at most 5 in parallel) that searches the web and reads the official
+  LLM agent per conference (one at a time) that searches the web and reads the official
   CFP, then merges the results into the JSON and commits them.
 
 ## Setup
