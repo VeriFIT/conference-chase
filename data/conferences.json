@@ -8,37 +8,10 @@
   ],
   "conferences": [
     {
-      "id": "cav",
-      "acronym": "CAV",
-      "name": "Computer Aided Verification",
-      "category": "Formal methods",
-      "homepage": "http://i-cav.org/",
-      "last_checked": null,
-      "editions": []
-    },
-    {
-      "id": "tacas",
-      "acronym": "TACAS",
-      "name": "Tools and Algorithms for the Construction and Analysis of Systems",
-      "category": "Formal methods",
-      "homepage": "https://etaps.org/",
-      "last_checked": null,
-      "editions": []
-    },
-    {
-      "id": "fm",
-      "acronym": "FM",
-      "name": "International Symposium on Formal Methods",
-      "category": "Formal methods",
-      "homepage": "https://www.fmeurope.org/",
-      "last_checked": null,
-      "editions": []
-    },
-    {
-      "id": "vmcai",
-      "acronym": "VMCAI",
-      "name": "Verification, Model Checking, and Abstract Interpretation",
-      "category": "Formal methods",
+      "id": "ase",
+      "acronym": "ASE",
+      "name": "Automated Software Engineering",
+      "category": "SE & security",
       "homepage": null,
       "last_checked": null,
       "editions": []
@@ -49,26 +22,287 @@
       "name": "Automated Technology for Verification and Analysis",
       "category": "Formal methods",
       "homepage": null,
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2026,
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": "2026-05-19T23:59",
+              "submission_deadline": "2026-05-21T23:59",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-07-02",
+              "rebuttal_end": "2026-07-09",
+              "notification": "2026-07-23",
+              "final_version": "2026-10-10",
+              "cfp": "https://conf.researchr.org/track/aplas-atva-2026/atva-2026#Call-for-Papers",
+              "submission_link": "https://atva26.hotcrp.com/",
+              "page_limit": "18 pages LNCS format, excluding references (regular papers); tool papers 4–18 pages excl. references",
+              "notes": "Abstract registration required by May 19 (23:59 AoE); two-stage review with early-rejection notification Jun 11, 2026; double-blind for regular papers, single-blind for tool papers; camera-ready Oct 10, 2026 per official dates page (the May CFP email said Sep 10)."
+            }
+          ],
+          "source": "https://conf.researchr.org/dates/aplas-atva-2026",
+          "conference_start": "2026-12-01",
+          "conference_end": "2026-12-04",
+          "location": "Hong Kong SAR, China (HKUST)",
+          "cfp": "https://conf.researchr.org/track/aplas-atva-2026/atva-2026#Call-for-Papers",
+          "confidence": "high",
+          "notes": "ATVA 2026 = 24th edition, co-located with APLAS 2026. Main paper deadline (May 21, 2026) has already passed as of 2026-10-01; no ATVA 2027 edition/CFP has been announced yet, so this is the most recently announced edition (conference itself still upcoming, Dec 1–4, 2026). Single submission cycle; tool papers and artifact evaluation are separate categories, not rounds. A separate non-archival 'Spotlights of Verification' event has an abstract deadline of Oct 8, 2026 (notification Oct 20, event Dec 1) — not part of the main paper track.",
+          "last_checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "cav",
+      "acronym": "CAV",
+      "name": "Computer Aided Verification",
+      "category": "Formal methods",
+      "homepage": "http://i-cav.org/",
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2027,
+          "link": "https://conferences.i-cav.org/2027/",
+          "cfp": "https://conferences.i-cav.org/2027/cfp/",
+          "location": "Amsterdam, The Netherlands",
+          "conference_start": "2027-07-19",
+          "conference_end": "2027-07-23",
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": null,
+              "submission_deadline": "2027-01-20T23:59",
+              "timezone": "AoE",
+              "rebuttal_start": "2027-04-05",
+              "rebuttal_end": "2027-04-08",
+              "notification": "2027-04-23",
+              "final_version": "2027-05-18",
+              "cfp": "https://conferences.i-cav.org/2027/cfp/",
+              "submission_link": null,
+              "page_limit": "18 pages LNCS excl. references and appendices (regular and tool papers; application/industrial papers 10 pages); camera-ready up to 20 pages (12 for application papers)",
+              "notes": "Single cycle, two-stage review: early rejection notification 2027-03-04; author response only for papers advancing to stage 2. Artifact registration: tool papers 2027-03-08, non-tool papers 2027-04-26. HotCRP submission link to be added once available. Main conference (excluding workshops) 2027-07-21 to 2027-07-23."
+            }
+          ],
+          "source": "https://conferences.i-cav.org/2027/cfp/",
+          "confidence": "high",
+          "notes": "39th CAV, first edition held in the Netherlands, at KIT Amsterdam. Dates read from the official CFP page (updated 22 Sep 2026).",
+          "last_checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "ccs",
+      "acronym": "CCS",
+      "name": "ACM Conference on Computer and Communications Security",
+      "category": "SE & security",
+      "homepage": "https://www.sigsac.org/ccs.html",
       "last_checked": null,
       "editions": []
     },
     {
-      "id": "ifm",
-      "acronym": "iFM",
-      "name": "Integrated Formal Methods",
-      "category": "Formal methods",
+      "id": "ciaa",
+      "acronym": "CIAA",
+      "name": "Implementation and Application of Automata",
+      "category": "Logic & theory",
+      "homepage": null,
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2026,
+          "link": "https://research.cs.queensu.ca/ciaa2026/",
+          "cfp": "https://easychair.org/cfp/CIAA2026",
+          "location": "Kingston, Ontario, Canada",
+          "conference_start": "2026-08-05",
+          "conference_end": "2026-08-08",
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": null,
+              "submission_deadline": "2026-03-27",
+              "timezone": null,
+              "rebuttal_start": null,
+              "rebuttal_end": null,
+              "notification": "2026-05-01",
+              "final_version": "2026-05-08",
+              "cfp": "https://easychair.org/cfp/CIAA2026",
+              "submission_link": "https://easychair.org/conferences/?conf=ciaa2026",
+              "page_limit": "12 pages in Springer LNCS style, excluding title/abstract page and bibliography (appendix at PC's discretion)",
+              "notes": "Paper deadline extended from 2026-03-20 to 2026-03-27; notification extended from 2026-04-24 to 2026-05-01. No abstract deadline and no author-response/rebuttal period were announced; no deadline time/timezone stated."
+            }
+          ],
+          "source": "https://research.cs.queensu.ca/ciaa2026/",
+          "confidence": "high",
+          "notes": "CIAA 2026 (30th edition, Queen's University, co-located with DCFS 2026) already took place 2026-08-05/08; as of 2026-10-01 no CFP, venue or dates have been announced for the next edition (CIAA 2027) on the official series site (informatik.uni-giessen.de/ciaa), WikiCFP or EasyChair, so this most recently announced edition is reported. A separate Tool Track existed but is not a main-track cycle.",
+          "last_checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "concur",
+      "acronym": "CONCUR",
+      "name": "International Conference on Concurrency Theory",
+      "category": "Logic & theory",
+      "homepage": null,
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2027,
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": null,
+              "submission_deadline": null,
+              "rebuttal_start": null,
+              "rebuttal_end": null,
+              "notification": null,
+              "final_version": null,
+              "cfp": null,
+              "submission_link": null,
+              "page_limit": null,
+              "timezone": null,
+              "notes": "No call for papers published yet (as of 2026-10-01): no official CONCUR 2027 website exists, so all submission dates are unknown. For reference, the previous edition CONCUR 2026 (37th, Liverpool, 1-4 Sep 2026) had abstracts 2026-04-20, submissions 2026-04-27 (AoE), rebuttal 2026-06-01/03, notification 2026-06-15, camera-ready 2026-06-29, 15 pages LIPIcs excl. references/appendices, EasyChair conf=concur2026 (https://confest-2026.github.io/concur/call-for-papers)."
+            }
+          ],
+          "source": "https://www.cs.vu.nl/~wanf/profactivities.html",
+          "confidence": "medium",
+          "location": "Lucca, Italy",
+          "conference_start": "2027-09-06",
+          "conference_end": "2027-09-10",
+          "link": null,
+          "cfp": null,
+          "notes": "CONCUR 2027 (next edition, 38th in the series) is announced only as a save-the-date: it will take place 6-10 September 2027 in Lucca, Italy, as part of the joint event 'CONQEST 2027' (CONCUR + QEST/FORMATS); General Chair Patricia Bouyer, PC Chair Jaco van de Pol (per Openresearch, which lists the same 2027-09-06/10 dates). Confirmed by the CONCUR Steering Committee chair's page (Wan Fokkink). No official edition website or CFP yet, hence no submission/rebuttal/notification dates; expect the CFP in early 2027 (previous editions had April deadlines). The CONCUR 2026 edition (Liverpool, 1-4 Sep 2026) has already been held, so its deadline is not upcoming.",
+          "last_checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "csl",
+      "acronym": "CSL",
+      "name": "Computer Science Logic",
+      "category": "Logic & theory",
+      "homepage": null,
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2027,
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": "2026-07-08",
+              "submission_deadline": "2026-07-15",
+              "timezone": "AoE",
+              "notification": "2026-10-15",
+              "final_version": null,
+              "cfp": "https://csl2027.github.io/index.html#call-for-papers",
+              "submission_link": "https://form.sdu.dk/CSL2027/",
+              "page_limit": "15 pages in LIPIcs style, excluding appendices and references",
+              "notes": "Single cycle, double-blind, LIPIcs proceedings. Abstract and paper deadlines were midnight AoE and have already passed (HotCRP confirms submissions closed); notification 15 Oct 2026 (Brighton time); camera-ready still TBD."
+            }
+          ],
+          "source": "https://csl2027.github.io/",
+          "confidence": "high",
+          "location": "Brighton, UK",
+          "conference_start": "2027-01-25",
+          "conference_end": "2027-01-29",
+          "link": "https://csl2027.github.io/",
+          "notes": "CSL 2026 (Paris, 23-28 Feb 2026) has already taken place and CSL 2027's paper deadline (15 Jul 2026) has also passed; no CSL 2028 edition/CFP has been announced yet (EACSL lists only up to 2026/2027), so CSL 2027 (35th EACSL Annual Conference, University of Sussex) is the most recently announced edition. No author-response/rebuttal period is stated in the CFP.",
+          "last_checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "dlt",
+      "acronym": "DLT",
+      "name": "Developments in Language Theory",
+      "category": "Logic & theory",
       "homepage": null,
       "last_checked": null,
       "editions": []
     },
     {
-      "id": "sas",
-      "acronym": "SAS",
-      "name": "Static Analysis Symposium",
+      "id": "esop",
+      "acronym": "ESOP",
+      "name": "European Symposium on Programming",
+      "category": "Programming languages",
+      "homepage": "https://etaps.org/",
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2027,
+          "conference_start": "2027-04-12",
+          "conference_end": "2027-04-15",
+          "location": "Copenhagen, Denmark",
+          "cfp": "https://etaps.org/2027/cfp/",
+          "rounds": [
+            {
+              "name": "Round 1",
+              "abstract_deadline": null,
+              "submission_deadline": "2026-05-28",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-07-20",
+              "rebuttal_end": "2026-07-22",
+              "notification": "2026-08-06",
+              "final_version": "2027-01-25",
+              "submission_link": "https://esop27.hotcrp.com/",
+              "page_limit": "No page limit at submission (LNCS/PACMPL/TOPLAS formats); camera-ready max 25 pages LNCS excl. references",
+              "notes": "Deadline already passed. Outcomes: Accept / Reject / Revise (revisions due by Round 2 deadline); rejected Round 1 papers may not be resubmitted to Round 2. Journal-First TOPLAS submissions were due before this deadline."
+            },
+            {
+              "name": "Round 2",
+              "abstract_deadline": null,
+              "submission_deadline": "2026-10-15",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-12-07",
+              "rebuttal_end": "2026-12-09",
+              "notification": "2026-12-22",
+              "final_version": "2027-01-25",
+              "submission_link": "https://esop27.hotcrp.com/",
+              "page_limit": "No page limit at submission (LNCS/PACMPL/TOPLAS formats); camera-ready max 25 pages LNCS excl. references",
+              "notes": "Upcoming deadline (firm, no extensions). Direct Round 2 submissions are accepted or rejected. Voluntary artifact submission Jan 11, 2027; artifact notification Feb 11, 2027. Double-blind."
+            }
+          ],
+          "source": "https://etaps.org/2027/esop",
+          "confidence": "high",
+          "notes": "ESOP 2027 is part of ETAPS 2027 (30th edition), Copenhagen, Denmark, April 10-15, 2027 (satellite events Apr 10-11; main conferences Apr 12-15). All ETAPS deadlines are AoE and stated as firm. ESOP page lists it as the 36th ESOP while the HotCRP site says 35th; numbering discrepancy on official pages.",
+          "last_checked": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "id": "fm",
+      "acronym": "FM",
+      "name": "International Symposium on Formal Methods",
       "category": "Formal methods",
-      "homepage": null,
-      "last_checked": null,
-      "editions": []
+      "homepage": "https://www.fmeurope.org/",
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2027,
+          "location": "Athens, Greece",
+          "conference_start": "2027-10-18",
+          "conference_end": "2027-10-22",
+          "link": null,
+          "cfp": null,
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": null,
+              "submission_deadline": null,
+              "notification": null,
+              "final_version": null,
+              "cfp": null,
+              "submission_link": null,
+              "page_limit": null,
+              "notes": "No call for papers or submission deadlines published yet (as of 2026-10-01); only venue and conference dates are announced by FME."
+            }
+          ],
+          "source": "https://www.fmeurope.org/feature/upcoming_conferences/",
+          "confidence": "medium",
+          "notes": "FM 2027 will be the 28th International Symposium on Formal Methods (Athens, Greece, 18-22 October 2027), listed on FME's official 'Upcoming Formal Methods Events' page; the abstract/paper/notification/camera-ready deadlines are blank there and no FM 2027 edition website or CFP exists yet (FME's last FM 2027 news item is the Call for Organizers of Sep 2025). The previous edition, FM 2026 (Tokyo, 18-22 May 2026), already took place, so its deadlines are past. FM 2028 is pre-announced for Twente, Netherlands, 6-10 Nov 2028.",
+          "last_checked": "2026-10-01"
+        }
+      ]
     },
     {
       "id": "fmcad",
@@ -80,64 +314,19 @@
       "editions": []
     },
     {
-      "id": "popl",
-      "acronym": "POPL",
-      "name": "Principles of Programming Languages",
-      "category": "Programming languages",
-      "homepage": "https://www.sigplan.org/Conferences/POPL/",
-      "last_checked": null,
-      "editions": []
-    },
-    {
-      "id": "pldi",
-      "acronym": "PLDI",
-      "name": "Programming Language Design and Implementation",
-      "category": "Programming languages",
-      "homepage": "https://www.sigplan.org/Conferences/PLDI/",
-      "last_checked": null,
-      "editions": []
-    },
-    {
-      "id": "oopsla",
-      "acronym": "OOPSLA",
-      "name": "Object-Oriented Programming, Systems, Languages, and Applications",
-      "category": "Programming languages",
-      "homepage": "https://www.sigplan.org/Conferences/OOPSLA/",
-      "last_checked": null,
-      "editions": []
-    },
-    {
-      "id": "icfp",
-      "acronym": "ICFP",
-      "name": "International Conference on Functional Programming",
-      "category": "Programming languages",
-      "homepage": "https://www.sigplan.org/Conferences/ICFP/",
-      "last_checked": null,
-      "editions": []
-    },
-    {
-      "id": "esop",
-      "acronym": "ESOP",
-      "name": "European Symposium on Programming",
-      "category": "Programming languages",
+      "id": "fossacs",
+      "acronym": "FoSSaCS",
+      "name": "Foundations of Software Science and Computation Structures",
+      "category": "Logic & theory",
       "homepage": "https://etaps.org/",
       "last_checked": null,
       "editions": []
     },
     {
-      "id": "lics",
-      "acronym": "LICS",
-      "name": "Logic in Computer Science",
-      "category": "Logic & theory",
-      "homepage": "https://lics.siglog.org/",
-      "last_checked": null,
-      "editions": []
-    },
-    {
-      "id": "concur",
-      "acronym": "CONCUR",
-      "name": "International Conference on Concurrency Theory",
-      "category": "Logic & theory",
+      "id": "fse",
+      "acronym": "FSE",
+      "name": "ACM International Conference on the Foundations of Software Engineering",
+      "category": "SE & security",
       "homepage": null,
       "last_checked": null,
       "editions": []
@@ -152,56 +341,11 @@
       "editions": []
     },
     {
-      "id": "fossacs",
-      "acronym": "FoSSaCS",
-      "name": "Foundations of Software Science and Computation Structures",
-      "category": "Logic & theory",
-      "homepage": "https://etaps.org/",
-      "last_checked": null,
-      "editions": []
-    },
-    {
-      "id": "stacs",
-      "acronym": "STACS",
-      "name": "Symposium on Theoretical Aspects of Computer Science",
-      "category": "Logic & theory",
-      "homepage": null,
-      "last_checked": null,
-      "editions": []
-    },
-    {
-      "id": "mfcs",
-      "acronym": "MFCS",
-      "name": "Mathematical Foundations of Computer Science",
-      "category": "Logic & theory",
-      "homepage": null,
-      "last_checked": null,
-      "editions": []
-    },
-    {
-      "id": "csl",
-      "acronym": "CSL",
-      "name": "Computer Science Logic",
-      "category": "Logic & theory",
-      "homepage": null,
-      "last_checked": null,
-      "editions": []
-    },
-    {
-      "id": "dlt",
-      "acronym": "DLT",
-      "name": "Developments in Language Theory",
-      "category": "Logic & theory",
-      "homepage": null,
-      "last_checked": null,
-      "editions": []
-    },
-    {
-      "id": "ciaa",
-      "acronym": "CIAA",
-      "name": "Implementation and Application of Automata",
-      "category": "Logic & theory",
-      "homepage": null,
+      "id": "icfp",
+      "acronym": "ICFP",
+      "name": "International Conference on Functional Programming",
+      "category": "Programming languages",
+      "homepage": "https://www.sigplan.org/Conferences/ICFP/",
       "last_checked": null,
       "editions": []
     },
@@ -215,37 +359,73 @@
       "editions": []
     },
     {
-      "id": "fse",
-      "acronym": "FSE",
-      "name": "ACM International Conference on the Foundations of Software Engineering",
-      "category": "SE & security",
+      "id": "ifm",
+      "acronym": "iFM",
+      "name": "Integrated Formal Methods",
+      "category": "Formal methods",
       "homepage": null,
       "last_checked": null,
       "editions": []
     },
     {
-      "id": "ase",
-      "acronym": "ASE",
-      "name": "Automated Software Engineering",
-      "category": "SE & security",
+      "id": "lics",
+      "acronym": "LICS",
+      "name": "Logic in Computer Science",
+      "category": "Logic & theory",
+      "homepage": "https://lics.siglog.org/",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "mfcs",
+      "acronym": "MFCS",
+      "name": "Mathematical Foundations of Computer Science",
+      "category": "Logic & theory",
       "homepage": null,
       "last_checked": null,
       "editions": []
     },
     {
-      "id": "ccs",
-      "acronym": "CCS",
-      "name": "ACM Conference on Computer and Communications Security",
+      "id": "ndss",
+      "acronym": "NDSS",
+      "name": "Network and Distributed System Security Symposium",
       "category": "SE & security",
-      "homepage": "https://www.sigsac.org/ccs.html",
+      "homepage": "https://www.ndss-symposium.org/",
       "last_checked": null,
       "editions": []
     },
     {
-      "id": "usenix-security",
-      "acronym": "USENIX Security",
-      "name": "USENIX Security Symposium",
-      "category": "SE & security",
+      "id": "oopsla",
+      "acronym": "OOPSLA",
+      "name": "Object-Oriented Programming, Systems, Languages, and Applications",
+      "category": "Programming languages",
+      "homepage": "https://www.sigplan.org/Conferences/OOPSLA/",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "pldi",
+      "acronym": "PLDI",
+      "name": "Programming Language Design and Implementation",
+      "category": "Programming languages",
+      "homepage": "https://www.sigplan.org/Conferences/PLDI/",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "popl",
+      "acronym": "POPL",
+      "name": "Principles of Programming Languages",
+      "category": "Programming languages",
+      "homepage": "https://www.sigplan.org/Conferences/POPL/",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "sas",
+      "acronym": "SAS",
+      "name": "Static Analysis Symposium",
+      "category": "Formal methods",
       "homepage": null,
       "last_checked": null,
       "editions": []
@@ -260,11 +440,38 @@
       "editions": []
     },
     {
-      "id": "ndss",
-      "acronym": "NDSS",
-      "name": "Network and Distributed System Security Symposium",
+      "id": "stacs",
+      "acronym": "STACS",
+      "name": "Symposium on Theoretical Aspects of Computer Science",
+      "category": "Logic & theory",
+      "homepage": null,
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "tacas",
+      "acronym": "TACAS",
+      "name": "Tools and Algorithms for the Construction and Analysis of Systems",
+      "category": "Formal methods",
+      "homepage": "https://etaps.org/",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "usenix-security",
+      "acronym": "USENIX Security",
+      "name": "USENIX Security Symposium",
       "category": "SE & security",
-      "homepage": "https://www.ndss-symposium.org/",
+      "homepage": null,
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "vmcai",
+      "acronym": "VMCAI",
+      "name": "Verification, Model Checking, and Abstract Interpretation",
+      "category": "Formal methods",
+      "homepage": null,
       "last_checked": null,
       "editions": []
     }
