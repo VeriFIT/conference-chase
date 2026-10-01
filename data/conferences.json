@@ -1,0 +1,272 @@
+{
+  "updated": "2026-10-01",
+  "categories": [
+    "Formal methods",
+    "Programming languages",
+    "Logic & theory",
+    "SE & security"
+  ],
+  "conferences": [
+    {
+      "id": "cav",
+      "acronym": "CAV",
+      "name": "Computer Aided Verification",
+      "category": "Formal methods",
+      "homepage": "http://i-cav.org/",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "tacas",
+      "acronym": "TACAS",
+      "name": "Tools and Algorithms for the Construction and Analysis of Systems",
+      "category": "Formal methods",
+      "homepage": "https://etaps.org/",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "fm",
+      "acronym": "FM",
+      "name": "International Symposium on Formal Methods",
+      "category": "Formal methods",
+      "homepage": "https://www.fmeurope.org/",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "vmcai",
+      "acronym": "VMCAI",
+      "name": "Verification, Model Checking, and Abstract Interpretation",
+      "category": "Formal methods",
+      "homepage": null,
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "atva",
+      "acronym": "ATVA",
+      "name": "Automated Technology for Verification and Analysis",
+      "category": "Formal methods",
+      "homepage": null,
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "ifm",
+      "acronym": "iFM",
+      "name": "Integrated Formal Methods",
+      "category": "Formal methods",
+      "homepage": null,
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "sas",
+      "acronym": "SAS",
+      "name": "Static Analysis Symposium",
+      "category": "Formal methods",
+      "homepage": null,
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "fmcad",
+      "acronym": "FMCAD",
+      "name": "Formal Methods in Computer-Aided Design",
+      "category": "Formal methods",
+      "homepage": "https://fmcad.org/",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "popl",
+      "acronym": "POPL",
+      "name": "Principles of Programming Languages",
+      "category": "Programming languages",
+      "homepage": "https://www.sigplan.org/Conferences/POPL/",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "pldi",
+      "acronym": "PLDI",
+      "name": "Programming Language Design and Implementation",
+      "category": "Programming languages",
+      "homepage": "https://www.sigplan.org/Conferences/PLDI/",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "oopsla",
+      "acronym": "OOPSLA",
+      "name": "Object-Oriented Programming, Systems, Languages, and Applications",
+      "category": "Programming languages",
+      "homepage": "https://www.sigplan.org/Conferences/OOPSLA/",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "icfp",
+      "acronym": "ICFP",
+      "name": "International Conference on Functional Programming",
+      "category": "Programming languages",
+      "homepage": "https://www.sigplan.org/Conferences/ICFP/",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "esop",
+      "acronym": "ESOP",
+      "name": "European Symposium on Programming",
+      "category": "Programming languages",
+      "homepage": "https://etaps.org/",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "lics",
+      "acronym": "LICS",
+      "name": "Logic in Computer Science",
+      "category": "Logic & theory",
+      "homepage": "https://lics.siglog.org/",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "concur",
+      "acronym": "CONCUR",
+      "name": "International Conference on Concurrency Theory",
+      "category": "Logic & theory",
+      "homepage": null,
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "icalp",
+      "acronym": "ICALP",
+      "name": "International Colloquium on Automata, Languages and Programming",
+      "category": "Logic & theory",
+      "homepage": null,
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "fossacs",
+      "acronym": "FoSSaCS",
+      "name": "Foundations of Software Science and Computation Structures",
+      "category": "Logic & theory",
+      "homepage": "https://etaps.org/",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "stacs",
+      "acronym": "STACS",
+      "name": "Symposium on Theoretical Aspects of Computer Science",
+      "category": "Logic & theory",
+      "homepage": null,
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "mfcs",
+      "acronym": "MFCS",
+      "name": "Mathematical Foundations of Computer Science",
+      "category": "Logic & theory",
+      "homepage": null,
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "csl",
+      "acronym": "CSL",
+      "name": "Computer Science Logic",
+      "category": "Logic & theory",
+      "homepage": null,
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "dlt",
+      "acronym": "DLT",
+      "name": "Developments in Language Theory",
+      "category": "Logic & theory",
+      "homepage": null,
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "ciaa",
+      "acronym": "CIAA",
+      "name": "Implementation and Application of Automata",
+      "category": "Logic & theory",
+      "homepage": null,
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "icse",
+      "acronym": "ICSE",
+      "name": "International Conference on Software Engineering",
+      "category": "SE & security",
+      "homepage": "https://www.icse-conferences.org/",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "fse",
+      "acronym": "FSE",
+      "name": "ACM International Conference on the Foundations of Software Engineering",
+      "category": "SE & security",
+      "homepage": null,
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "ase",
+      "acronym": "ASE",
+      "name": "Automated Software Engineering",
+      "category": "SE & security",
+      "homepage": null,
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "ccs",
+      "acronym": "CCS",
+      "name": "ACM Conference on Computer and Communications Security",
+      "category": "SE & security",
+      "homepage": "https://www.sigsac.org/ccs.html",
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "usenix-security",
+      "acronym": "USENIX Security",
+      "name": "USENIX Security Symposium",
+      "category": "SE & security",
+      "homepage": null,
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "sp",
+      "acronym": "IEEE S&P",
+      "name": "IEEE Symposium on Security and Privacy",
+      "category": "SE & security",
+      "homepage": null,
+      "last_checked": null,
+      "editions": []
+    },
+    {
+      "id": "ndss",
+      "acronym": "NDSS",
+      "name": "Network and Distributed System Security Symposium",
+      "category": "SE & security",
+      "homepage": "https://www.ndss-symposium.org/",
+      "last_checked": null,
+      "editions": []
+    }
+  ]
+}

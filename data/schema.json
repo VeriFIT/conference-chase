@@ -1,0 +1,221 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "conference-chase/conferences.schema.json",
+  "title": "Conference deadlines",
+  "type": "object",
+  "required": [
+    "updated",
+    "categories",
+    "conferences"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "updated": {
+      "$ref": "#/$defs/date"
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "conferences": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/conference"
+      }
+    }
+  },
+  "$defs": {
+    "date": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "nullableDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "nullableDeadline": {
+      "description": "Date, optionally with a time (interpreted in the round's timezone).",
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}(T\\d{2}:\\d{2})?$"
+    },
+    "nullableUrl": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^https?://"
+    },
+    "conference": {
+      "type": "object",
+      "required": [
+        "id",
+        "acronym",
+        "name",
+        "category",
+        "editions"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$"
+        },
+        "acronym": {
+          "type": "string",
+          "minLength": 1
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "category": {
+          "type": "string",
+          "minLength": 1
+        },
+        "homepage": {
+          "$ref": "#/$defs/nullableUrl"
+        },
+        "last_checked": {
+          "$ref": "#/$defs/nullableDate"
+        },
+        "editions": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/edition"
+          }
+        }
+      }
+    },
+    "edition": {
+      "type": "object",
+      "required": [
+        "year",
+        "rounds"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "year": {
+          "type": "integer",
+          "minimum": 1950,
+          "maximum": 2200
+        },
+        "link": {
+          "$ref": "#/$defs/nullableUrl"
+        },
+        "cfp": {
+          "$ref": "#/$defs/nullableUrl",
+          "description": "Call for papers page of the main track."
+        },
+        "location": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "conference_start": {
+          "$ref": "#/$defs/nullableDate"
+        },
+        "conference_end": {
+          "$ref": "#/$defs/nullableDate"
+        },
+        "rounds": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/round"
+          }
+        },
+        "source": {
+          "$ref": "#/$defs/nullableUrl"
+        },
+        "confidence": {
+          "enum": [
+            "high",
+            "medium",
+            "low",
+            null
+          ]
+        },
+        "notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "last_checked": {
+          "$ref": "#/$defs/nullableDate"
+        }
+      }
+    },
+    "round": {
+      "type": "object",
+      "required": [
+        "name"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "abstract_deadline": {
+          "$ref": "#/$defs/nullableDeadline"
+        },
+        "submission_deadline": {
+          "$ref": "#/$defs/nullableDeadline"
+        },
+        "timezone": {
+          "description": "AoE, UTC, or a UTC offset like UTC+2 / UTC-7.",
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^(AoE|UTC([+-]\\d{1,2}(:\\d{2})?)?)$"
+        },
+        "rebuttal_start": {
+          "$ref": "#/$defs/nullableDate",
+          "description": "Start of the author response / rebuttal period."
+        },
+        "rebuttal_end": {
+          "$ref": "#/$defs/nullableDate"
+        },
+        "notification": {
+          "$ref": "#/$defs/nullableDate"
+        },
+        "final_version": {
+          "$ref": "#/$defs/nullableDate"
+        },
+        "cfp": {
+          "$ref": "#/$defs/nullableUrl",
+          "description": "Round-specific call for papers; defaults to the edition's cfp."
+        },
+        "submission_link": {
+          "$ref": "#/$defs/nullableUrl",
+          "description": "Submission system (HotCRP, EasyChair, ...)."
+        },
+        "page_limit": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "e.g. '16 pages LNCS excluding references'."
+        },
+        "notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    }
+  }
+}
