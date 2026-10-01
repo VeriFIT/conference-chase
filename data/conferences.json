@@ -319,8 +319,15 @@
       "name": "Foundations of Software Science and Computation Structures",
       "category": "Logic & theory",
       "homepage": "https://etaps.org/",
-      "last_checked": null,
-      "editions": []
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2027,
+          "location": "Copenhagen, Denmark",
+          "rounds": [],
+          "last_checked": "2026-10-01"
+        }
+      ]
     },
     {
       "id": "fse",
@@ -355,8 +362,14 @@
       "name": "International Conference on Software Engineering",
       "category": "SE & security",
       "homepage": "https://www.icse-conferences.org/",
-      "last_checked": null,
-      "editions": []
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2027,
+          "rounds": [],
+          "last_checked": "2026-10-01"
+        }
+      ]
     },
     {
       "id": "ifm",
