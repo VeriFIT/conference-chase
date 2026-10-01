@@ -13,8 +13,47 @@
       "name": "Automated Software Engineering",
       "category": "SE & security",
       "homepage": null,
-      "last_checked": null,
-      "editions": []
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2026,
+          "link": "https://conf.researchr.org/home/ase-2026",
+          "cfp": "https://conf.researchr.org/track/ase-2026/ase-2026-research-track",
+          "location": "Munich, Germany",
+          "conference_start": "2026-10-12",
+          "conference_end": "2026-10-16",
+          "pc_chairs": [
+            {
+              "name": "Shiva Nejati",
+              "affiliation": "University of Ottawa, Canada"
+            },
+            {
+              "name": "Justyna Petke",
+              "affiliation": "University College London, United Kingdom"
+            }
+          ],
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": null,
+              "submission_deadline": "2026-03-26T23:59",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-05-25",
+              "rebuttal_end": "2026-05-27",
+              "notification": "2026-06-18",
+              "final_version": "2026-08-03",
+              "cfp": "https://conf.researchr.org/track/ase-2026/ase-2026-research-track",
+              "submission_link": "https://ase26.hotcrp.com",
+              "page_limit": "10 pages excl. references + up to 2 pages of only references (ACM sigconf, review/anonymous); camera-ready 11 pages + 2 pages",
+              "notes": "Single-cycle research track. Submission deadline (26 Mar 2026, 23:59 AoE; updates allowed until 30 Mar 2026) has already passed. Early rejection notification 25 May 2026; author response 25-27 May 2026; initial notification 18 Jun 2026; major-revision resubmission 16 Jul 2026; major-revision notification 29 Jul 2026; camera-ready 3 Aug 2026. No separate abstract deadline is published (abstracts registered in HotCRP before the paper deadline)."
+            }
+          ],
+          "source": "https://conf.researchr.org/dates/ase-2026",
+          "confidence": "high",
+          "notes": "ASE 2026 (41st IEEE/ACM ASE, Munich, 12-16 Oct 2026) is the most recently announced edition: its research-track submission deadline (26 Mar 2026) has passed and no ASE 2027 edition/CFP has been announced by the ASE series (official homepage ase-conferences.org lists only ASE 2026 as upcoming; researchr series page lists no ASE 2027). A third-party aggregator (conferencelists.org) mentions a possible ASE 2027 in El Paso, USA in Oct 2027, but this is unverified and has no official site or dates, so it is not reported. Dates above were read from the official ASE 2026 important-dates page, research-track CFP, submission-instructions page and the HotCRP deadlines page.",
+          "last_checked": "2026-10-01"
+        }
+      ]
     },
     {
       "id": "atva",
@@ -97,7 +136,7 @@
       "name": "ACM Conference on Computer and Communications Security",
       "category": "SE & security",
       "homepage": "https://www.sigsac.org/ccs.html",
-      "last_checked": null,
+      "last_checked": "2026-10-01",
       "editions": []
     },
     {
@@ -217,8 +256,32 @@
       "name": "Developments in Language Theory",
       "category": "Logic & theory",
       "homepage": null,
-      "last_checked": null,
-      "editions": []
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2027,
+          "location": "Saskatoon, Canada",
+          "conference_start": "2027-07-27",
+          "conference_end": "2027-07-30",
+          "cfp": null,
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": null,
+              "submission_deadline": null,
+              "notification": null,
+              "final_version": null,
+              "submission_link": null,
+              "page_limit": null,
+              "notes": "Official 'Important Dates' page lists submission deadline, notification, camera-ready and registration deadlines all as TBA. Submissions will use EasyChair (link 'to be provided later'). Proceedings in Springer LNCS."
+            }
+          ],
+          "source": "https://www.cs.usask.ca/DLT2027/",
+          "confidence": "high",
+          "notes": "DLT 2026 (30th, Rouen, France, 30 June-3 July 2026) already took place, so the next edition is DLT 2027, the 31st International Conference on Developments in Language Theory, at the University of Saskatchewan, Saskatoon, Canada, July 27-30, 2027. The official site currently has no dedicated CFP page (submission guidelines are on the homepage) and no paper submission deadline announced yet; Program Committee is listed as TBA (only the Steering Committee is posted, chaired by Giovanni Pighizzini).",
+          "last_checked": "2026-10-01"
+        }
+      ]
     },
     {
       "id": "esop",
@@ -310,8 +373,47 @@
       "name": "Formal Methods in Computer-Aided Design",
       "category": "Formal methods",
       "homepage": "https://fmcad.org/",
-      "last_checked": null,
-      "editions": []
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2026,
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": "2026-05-04",
+              "submission_deadline": "2026-05-11",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-06-30",
+              "rebuttal_end": "2026-07-05",
+              "notification": "2026-07-19",
+              "final_version": "2026-08-01",
+              "cfp": "https://fmcad.org/FMCAD26/cfp/",
+              "submission_link": "https://easychair.org/conferences/?conf=fmcad2026",
+              "page_limit": "9 pages (long) or 5 pages (short) excluding references, IEEE Transactions format; two categories: Regular and Tool & Case Study papers",
+              "notes": "Abstract deadline originally 2026-04-26 and paper deadline 2026-05-03; both extended on 2026-04-24. All deadlines 23:59 AoE. Reviews due 2026-06-22; PC discussion 2026-07-06 to 2026-07-17. Single-blind review, single submission cycle."
+            }
+          ],
+          "cfp": "https://fmcad.org/FMCAD26/cfp/",
+          "link": "https://fmcad.org/FMCAD26/",
+          "location": "Graz, Austria",
+          "conference_start": "2026-09-14",
+          "conference_end": "2026-09-18",
+          "pc_chairs": [
+            {
+              "name": "Bruno Dutertre",
+              "affiliation": "AWS, USA"
+            },
+            {
+              "name": "Bettina Könighofer",
+              "affiliation": "TU Graz, Austria"
+            }
+          ],
+          "source": "https://fmcad.org/FMCAD26/important_dates",
+          "confidence": "high",
+          "notes": "FMCAD'27 (next edition) is NOT yet announced: no site, venue, or CFP exists on fmcad.org, fmcad.or.at, WikiCFP, or aggregator lists as of 2026-10-01. Therefore the most recently announced edition, FMCAD'26, is reported — but it already took place (14-18 Sep 2026, Graz) and its submission deadline (11 May 2026) has passed. Dates above are the final values from the official Important Dates page (initial dates were 26 Apr / 3 May 2026). Program chairs Bruno Dutertre and Bettina Könighofer are listed as 'Program Chairs' on the official committees page (FMCAD has combined program/organizing chairs). FMCAD'26 was co-located with VSTTE 2026 (VSTTE day 14 Sep, joint tutorial day 15 Sep, main FMCAD days 16-18 Sep); acceptance rate 31.7% (71 accepted of 224 submissions).",
+          "last_checked": "2026-10-01"
+        }
+      ]
     },
     {
       "id": "fossacs",
@@ -335,8 +437,47 @@
       "name": "ACM International Conference on the Foundations of Software Engineering",
       "category": "SE & security",
       "homepage": null,
-      "last_checked": null,
-      "editions": []
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2027,
+          "link": "https://conf.researchr.org/home/fse-2027",
+          "cfp": "https://conf.researchr.org/track/fse-2027/fse-2027-papers",
+          "location": "Shenzhen, China",
+          "conference_start": "2027-07-12",
+          "conference_end": "2027-07-16",
+          "pc_chairs": [
+            {
+              "name": "Michael Pradel",
+              "affiliation": "CISPA Helmholtz Center for Information Security, Germany"
+            },
+            {
+              "name": "Baishakhi Ray",
+              "affiliation": "Columbia University, United States"
+            }
+          ],
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": null,
+              "submission_deadline": "2026-10-02",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-12-14",
+              "rebuttal_end": "2026-12-18",
+              "notification": "2027-01-22",
+              "final_version": null,
+              "cfp": "https://conf.researchr.org/track/fse-2027/fse-2027-papers",
+              "submission_link": "https://fse2027.hotcrp.com/",
+              "page_limit": "18 pages all text and figures + 4 pages references (ACM acmsmall format); major revisions up to 20 + 4 pages",
+              "notes": "Single-cycle research track. Initial decision accept/reject/major revision; major-revision submission due 2027-03-05, final notification 2027-03-31. Double-anonymous (heavy) review; no separate abstract deadline stated."
+            }
+          ],
+          "source": "https://conf.researchr.org/dates/fse-2027",
+          "confidence": "high",
+          "notes": "Dates read from the official FSE 2027 conf.researchr.org dates/CFP pages; all research-track deadlines are AoE (UTC-12h). No camera-ready date announced for the research track. FSE 2026 (Montréal) has already taken place, so FSE 2027 is the next edition.",
+          "last_checked": "2026-10-01"
+        }
+      ]
     },
     {
       "id": "icalp",
@@ -344,8 +485,82 @@
       "name": "International Colloquium on Automata, Languages and Programming",
       "category": "Logic & theory",
       "homepage": null,
-      "last_checked": null,
-      "editions": []
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2027,
+          "conference_start": "2027-07-05",
+          "conference_end": "2027-07-09",
+          "location": "Kraków, Poland",
+          "cfp": "https://icalp.uj.edu.pl/track-b/",
+          "pc_chairs": [
+            {
+              "name": "Saket Saurabh",
+              "affiliation": "Institute of Mathematical Sciences, Chennai, India (Track A co-chair)"
+            },
+            {
+              "name": "Jukka Suomela",
+              "affiliation": "Aalto University, Finland (Track A co-chair)"
+            },
+            {
+              "name": "Manuel Bodirsky",
+              "affiliation": "TU Dresden, Germany (Track B co-chair)"
+            },
+            {
+              "name": "Ichiro Hasuo",
+              "affiliation": "National Institute of Informatics, Japan (Track B co-chair)"
+            }
+          ],
+          "rounds": [
+            {
+              "name": "Track A (Algorithms, Complexity and Games) — single round",
+              "abstract_deadline": null,
+              "submission_deadline": null,
+              "timezone": null,
+              "rebuttal_start": null,
+              "rebuttal_end": null,
+              "notification": null,
+              "final_version": null,
+              "cfp": null,
+              "submission_link": null,
+              "page_limit": "No page limit stated for Track A yet (Track B: no limit, first 10 pages after title page are the core)",
+              "notes": "Official site lists Track A dates as TBA; Track A has only one round. PC co-chair Jukka Suomela indicated the Track A deadline will be 'in February as usual' (i.e. expected Feb 2027), but no date is announced on the official site."
+            },
+            {
+              "name": "Track B (Automata, Logic, Semantics and Theory of Programming) — Round 1",
+              "abstract_deadline": null,
+              "submission_deadline": "2026-09-15",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-11-05",
+              "rebuttal_end": "2026-11-09",
+              "notification": "2026-12-08",
+              "final_version": null,
+              "cfp": "https://icalp.uj.edu.pl/track-b/",
+              "submission_link": "https://icalp27-b.hotcrp.com/",
+              "page_limit": "No page limit; LIPIcs-style recommended, material beyond title page + abstract + first 10 pages read at committee's discretion",
+              "notes": "Deadline has passed (HotCRP confirms registration closed). Decision in round 1 is final; rejected papers cannot be resubmitted to round 2. Double-blind; rebuttal phase for Track B only."
+            },
+            {
+              "name": "Track B — Round 2 (and only round for Track A)",
+              "abstract_deadline": null,
+              "submission_deadline": null,
+              "timezone": null,
+              "rebuttal_start": null,
+              "rebuttal_end": null,
+              "notification": null,
+              "final_version": null,
+              "cfp": "https://icalp.uj.edu.pl/track-b/",
+              "submission_link": null,
+              "page_limit": "No page limit (as per Track B guidelines); first 10 pages after title page are the core",
+              "notes": "All dates listed as TBA on the official site (submissions, rebuttal, notification, camera-ready). A paper may be submitted to only one of the two Track B rounds."
+            }
+          ],
+          "source": "https://icalp.uj.edu.pl/track-b/",
+          "confidence": "high",
+          "notes": "54th EATCS ICALP, hosted by Jagiellonian University, Kraków, 5-9 July 2027. Track B uses a two-round process for the first time (Track A has one round). Round 1 deadline (15 Sep 2026 AoE) has already passed as of 1 Oct 2026; the upcoming deadlines (Track A and Track B round 2) are not yet announced — third-party sources suggest February 2027 but the official site says TBA. Workshops expected 4 July 2027 (workshop CFP to be issued in fall).",
+          "last_checked": "2026-10-01"
+        }
+      ]
     },
     {
       "id": "icfp",
@@ -353,8 +568,43 @@
       "name": "International Conference on Functional Programming",
       "category": "Programming languages",
       "homepage": "https://www.sigplan.org/Conferences/ICFP/",
-      "last_checked": null,
-      "editions": []
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2027,
+          "link": "https://icfp27.sigplan.org/",
+          "cfp": "https://icfp27.sigplan.org/track/icfp-2027-icfp-papers",
+          "location": "Nijmegen, The Netherlands",
+          "conference_start": "2027-09-26",
+          "conference_end": "2027-10-01",
+          "pc_chairs": [
+            {
+              "name": "Steve Zdancewic",
+              "affiliation": "University of Pennsylvania, United States"
+            }
+          ],
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": null,
+              "submission_deadline": "2027-02-25",
+              "timezone": "AoE",
+              "rebuttal_start": "2027-04-19",
+              "rebuttal_end": "2027-04-22",
+              "notification": "2027-06-11",
+              "final_version": "2027-07-01",
+              "cfp": "https://icfp27.sigplan.org/track/icfp-2027-icfp-papers",
+              "submission_link": "https://icfp27.hotcrp.com",
+              "page_limit": "25 pages for full papers/Functional Pearls, 12 pages for Experience Reports (ACM 'acmsmall' template; bibliography and appendix not counted)",
+              "notes": "Single cycle, double-blind. Reviews released Mon 19 Apr 2027; author response 19-22 Apr 2027 (AoE); notification of conditional acceptance Fri 7 May 2027; revised (conditionally accepted) papers due Tue 1 Jun 2027; final notification Fri 11 Jun 2027; camera-ready Thu 1 Jul 2027. No abstract deadline. Reserve-reviewer registration on TPMS required for one senior author per submission."
+            }
+          ],
+          "source": "https://icfp27.sigplan.org/dates",
+          "confidence": "high",
+          "notes": "ICFP 2026 (Indianapolis, Aug 24-29, 2026) already occurred, so ICFP 2027 is the next edition with an upcoming deadline. Main conference runs Mon-Wed (Sep 27-29, 2027); co-located events Sun 26 Sep and Thu 1 Oct. PC chair listed as 'Program Chair' Steve Zdancewic; Éric Tanter (University of Chile) is Associate Chair, not counted as PC chair.",
+          "last_checked": "2026-10-01"
+        }
+      ]
     },
     {
       "id": "icse",
@@ -377,8 +627,47 @@
       "name": "Integrated Formal Methods",
       "category": "Formal methods",
       "homepage": null,
-      "last_checked": null,
-      "editions": []
+      "last_checked": "2026-10-01",
+      "editions": [
+        {
+          "year": 2027,
+          "rounds": [
+            {
+              "name": "Main",
+              "submission_deadline": "2026-10-15",
+              "timezone": "AoE",
+              "notification": "2026-12-22",
+              "final_version": "2027-01-25",
+              "cfp": "https://etaps.org/2027/ifs",
+              "submission_link": "https://easychair.org/conferences/?conf=ifs27",
+              "page_limit": "Long papers: 16 pages + 2 pages of references (LNCS format); short papers: 8 pages + 1-2 pages of references; optional appendix up to 6 pages for some categories",
+              "abstract_deadline": null,
+              "rebuttal_start": null,
+              "rebuttal_end": null,
+              "notes": "Successor of iFM (merged with FASE). No abstract deadline and no author-rebuttal phase for iFS (rebuttal applies only to ESOP, FoSSaCS, TACAS). Voluntary artifact submission 2027-01-11, artifact notification 2027-02-11. Deadlines are firm."
+            }
+          ],
+          "link": "https://etaps.org/2027/",
+          "cfp": "https://etaps.org/2027/cfp",
+          "location": "Copenhagen, Denmark",
+          "conference_start": "2027-04-12",
+          "conference_end": "2027-04-15",
+          "pc_chairs": [
+            {
+              "name": "Erika Ábrahám",
+              "affiliation": "RWTH Aachen University, Germany"
+            },
+            {
+              "name": "Marsha Chechik",
+              "affiliation": "University of Toronto, Canada"
+            }
+          ],
+          "source": "https://etaps.org/2027/cfp",
+          "confidence": "high",
+          "notes": "iFM 2025 (Paris) was the last standalone iFM; per the official iFM site the series merged with FASE into the new ETAPS conference iFS (Foundations and Formal Methods for Software and Systems), first edition at ETAPS 2027, Copenhagen, Denmark. ETAPS 2027 runs 10-15 April 2027 (satellite events 10-11 April; main conferences 12-15 April). iFS submission deadline 15 Oct 2026 AoE, notification 22 Dec 2026, camera-ready 25 Jan 2027; double-blind for regular research papers; proceedings in Springer LNCS ARCoSS.",
+          "last_checked": "2026-10-01"
+        }
+      ]
     },
     {
       "id": "lics",
