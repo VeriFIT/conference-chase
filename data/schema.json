@@ -128,6 +128,16 @@
         "conference_end": {
           "$ref": "#/$defs/nullableDate"
         },
+        "pc_chairs": {
+          "description": "Program committee chairs of the main track.",
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "$ref": "#/$defs/person"
+          }
+        },
         "rounds": {
           "type": "array",
           "items": {
@@ -210,6 +220,25 @@
           "description": "e.g. '16 pages LNCS excluding references'."
         },
         "notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "person": {
+      "type": "object",
+      "required": [
+        "name"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "affiliation": {
           "type": [
             "string",
             "null"

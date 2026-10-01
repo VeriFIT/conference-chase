@@ -6,7 +6,7 @@ languages, logic & theory, SE & security) and shows them on a GitHub Pages site.
 - **Site** (`index.html`, `assets/`): plain HTML/CSS/JS with three views — deadline cards
   with countdowns, a 12-month timeline, and a sortable table. It reads `data/conferences.json`.
 - **Data** (`data/conferences.json`, schema in `data/schema.json`): conferences → editions
-  (one per year: website, call-for-papers page, location, dates) → rounds (abstract /
+  (one per year: website, call-for-papers page, location, dates, PC chairs) → rounds (abstract /
   submission deadline, rebuttal period, notification, final version, submission link,
   page limit, optional round-specific CFP).
 - **Agent** (`agent/`): a weekly GitHub Actions workflow picks the stalest conferences, runs one

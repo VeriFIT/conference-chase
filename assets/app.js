@@ -104,7 +104,7 @@ function matchesFilters(conf) {
   if (state.categories.size && !state.categories.has(conf.category)) return false;
   if (!state.query) return true;
   const q = state.query.toLowerCase();
-  return [conf.acronym, conf.name, conf.category, ...conf.editions.map((e) => e.location)]
+  return [conf.acronym, conf.name, conf.category, ...conf.editions.flatMap((e) => [e.location, ...(e.pc_chairs || []).map((p) => p.name)])]
     .some((s) => s && s.toLowerCase().includes(q));
 }
 
@@ -185,6 +185,14 @@ function datesList(round, edition, now) {
     + (round.notes ? `<div class="round-notes">${esc(round.notes)}</div>` : "");
 }
 
+function chairsLine(edition) {
+  const chairs = edition.pc_chairs || [];
+  if (!chairs.length) return "";
+  const names = chairs.map((p) => p.affiliation
+    ? `${esc(p.name)} <span class="chair-aff">(${esc(p.affiliation)})</span>` : esc(p.name)).join(", ");
+  return `<div class="card-chairs"><span class="chairs-label">PC chair${chairs.length > 1 ? "s" : ""}:</span> ${names}</div>`;
+}
+
 function card(conf, next, now) {
   const { edition, round } = next;
   const cd = countdown(next.submission, now);
@@ -202,6 +210,7 @@ function card(conf, next, now) {
   return `<article class="card${cd.cls === "past" ? " is-past" : ""}" style="--c:${categoryColor(conf.category)}">
       ${cardHead(conf, edition)}
       ${meta ? `<div class="card-meta">${meta}</div>` : ""}
+      ${chairsLine(edition)}
       <div class="countdown ${cd.cls}" data-deadline="${next.submission.getTime()}"
         data-prefix="${edition.rounds.length > 1 ? esc(`${round.name}: `) : ""}">
         ${edition.rounds.length > 1 ? `${esc(round.name)}: ` : ""}${cd.text}</div>

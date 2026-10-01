@@ -42,6 +42,18 @@ SUBMIT_SPEC = {
                         "location": {**_NULL_STR, "description": "City, Country"},
                         "conference_start": {**_NULL_STR, "description": "YYYY-MM-DD"},
                         "conference_end": {**_NULL_STR, "description": "YYYY-MM-DD"},
+                        "pc_chairs": {
+                            "type": ["array", "null"],
+                            "description": "Program committee chairs of the main track (null if not stated)",
+                            "items": {
+                                "type": "object",
+                                "properties": {
+                                    "name": {"type": "string"},
+                                    "affiliation": {**_NULL_STR, "description": "e.g. 'TU Wien, Austria'"},
+                                },
+                                "required": ["name"],
+                            },
+                        },
                         "rounds": {
                             "type": "array",
                             "items": {
@@ -90,6 +102,9 @@ Rules:
 - Find the official call for papers page and report its URL as `cfp` (null if there is none).
   For each round also report, when stated: the author response / rebuttal period, the
   submission system link, and the page limit of regular papers.
+- Report the program committee (PC) chairs of the main track as `pc_chairs`, with their
+  affiliations as listed on the official site (null if not announced). Do not include
+  general chairs, steering committee or track chairs of other tracks.
 - Dates: YYYY-MM-DD; deadlines may include a time as YYYY-MM-DDTHH:MM. Timezone is "AoE"
   for Anywhere on Earth, otherwise "UTC" or "UTC+H"/"UTC-H".
 - confidence: high = read from the official site; medium = official site but dates marked
@@ -168,6 +183,13 @@ def check_submission(args: dict, validator: jsonschema.Validator) -> dict | str:
     edition = {k: v for k, v in edition.items() if k in allowed}
     round_keys = set(validator.schema["$defs"]["round"]["properties"])
     edition["rounds"] = [{k: v for k, v in r.items() if k in round_keys} for r in edition.get("rounds", [])]
+    # An empty list means "not found"; null keeps a previously known value in the merge.
+    if edition.get("pc_chairs"):
+        person_keys = set(validator.schema["$defs"]["person"]["properties"])
+        edition["pc_chairs"] = [{k: v for k, v in p.items() if k in person_keys}
+                                for p in edition["pc_chairs"] if isinstance(p, dict)]
+    else:
+        edition.pop("pc_chairs", None)
     errors = sorted(validator.iter_errors(edition), key=lambda e: list(e.path))
     if errors:
         details = "; ".join(f"{'/'.join(map(str, e.path)) or '(root)'}: {e.message}" for e in errors[:5])
