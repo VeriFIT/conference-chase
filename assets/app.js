@@ -165,9 +165,12 @@ function cardHead(conf, edition) {
   const title = edition ? `${conf.acronym} ${edition.year}` : conf.acronym;
   const low = edition && edition.confidence === "low"
     ? ` <span class="badge badge-low" title="Low confidence — verify on the official site">unverified</span>` : "";
-  return `<div class="card-head">
-      <div><h3 class="card-title">${esc(title)}${low}</h3><p class="card-name">${esc(conf.name)}</p></div>
-      <span class="badge badge-cat">${esc(conf.category)}</span>
+  return `<div>
+      <div class="card-head">
+        <h3 class="card-title">${esc(title)}${low}</h3>
+        <span class="badge badge-cat">${esc(conf.category)}</span>
+      </div>
+      <p class="card-name">${esc(conf.name)}</p>
     </div>`;
 }
 
