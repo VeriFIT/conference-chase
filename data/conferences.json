@@ -1428,6 +1428,14 @@
       "editions": []
     },
     {
+      "id": "planqc",
+      "acronym": "PLanQC",
+      "name": "Programming Languages for Quantum Computing",
+      "category": "Quantum",
+      "homepage": null,
+      "editions": []
+    },
+    {
       "id": "pldi",
       "acronym": "PLDI",
       "name": "Programming Language Design and Implementation",
