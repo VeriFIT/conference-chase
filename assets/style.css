@@ -121,8 +121,7 @@ h1 { margin: 0; font-size: 1.5rem; letter-spacing: -0.01em; }
 .deadline-label { color: var(--muted); }
 .deadline-date { font-weight: 600; font-variant-numeric: tabular-nums; }
 .card-details > summary { cursor: pointer; color: var(--accent); font-size: 0.85rem; width: fit-content; }
-.card-details[open] { display: flex; flex-direction: column; gap: 10px; }
-.card-details[open] > summary { margin-bottom: 2px; }
+.details-body { display: flex; flex-direction: column; gap: 12px; margin-top: 10px; }
 .countdown { font-variant-numeric: tabular-nums; font-weight: 600; font-size: 1.05rem; }
 .countdown.urgent { color: var(--urgent); }
 .countdown.soon { color: var(--soon); }

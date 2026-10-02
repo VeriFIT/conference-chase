@@ -239,9 +239,11 @@ function card(conf, next, now) {
       <div class="countdown ${cd.cls}" data-deadline="${next.submission.getTime()}" data-prefix="">${cd.text}</div>
       <details class="card-details">
         <summary>More details</summary>
-        ${chairsLine(edition)}
-        ${rounds}
-        <div class="card-links">${links}<span class="card-meta" title="${esc(edition.notes || "")}">${checked}</span></div>
+        <div class="details-body">
+          ${chairsLine(edition)}
+          ${rounds}
+          <div class="card-links">${links}<span class="card-meta" title="${esc(edition.notes || "")}">${checked}</span></div>
+        </div>
       </details>
     </article>`;
 }
