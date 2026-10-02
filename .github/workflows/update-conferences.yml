@@ -2,7 +2,7 @@ name: Update conference data
 
 on:
   schedule:
-    - cron: "0 3 * * 1" # every Monday 03:00 UTC
+    - cron: "0 3 * * *" # every day 03:00 UTC
   workflow_dispatch:
     inputs:
       ids:

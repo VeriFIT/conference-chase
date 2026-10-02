@@ -1,7 +1,7 @@
 """Run the LLM agent for a single conference and write out/<id>.json.
 
 The output file always exists after a run (status ok / not_found / error), so
-one failing conference never breaks the weekly workflow.
+one failing conference never breaks the daily workflow.
 """
 from __future__ import annotations
 

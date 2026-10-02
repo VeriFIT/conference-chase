@@ -3,7 +3,7 @@
 A conference is stale when it has no upcoming submission deadline, when its
 upcoming edition still has unknown dates or low confidence, or when it has not
 been checked for RECHECK_DAYS. Conferences checked within MIN_GAP_DAYS are
-skipped so a single unresolvable conference cannot hog every weekly run.
+skipped so a single unresolvable conference cannot hog every daily run.
 """
 from __future__ import annotations
 
@@ -14,7 +14,7 @@ import json
 from common import load_data, parse_day, today
 
 RECHECK_DAYS = 30
-MIN_GAP_DAYS = 6
+MIN_GAP_DAYS = 1
 
 
 def upcoming_edition(conf: dict, now: dt.date) -> dict | None:

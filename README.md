@@ -9,7 +9,7 @@ languages, logic & theory, SE & security) and shows them on a GitHub Pages site.
   (one per year: website, call-for-papers page, location, dates, PC chairs) → rounds (abstract /
   submission deadline, rebuttal period, notification, final version, submission link,
   page limit, optional round-specific CFP).
-- **Agent** (`agent/`): a weekly GitHub Actions workflow picks the stalest conferences, runs one
+- **Agent** (`agent/`): a daily GitHub Actions workflow picks the stalest conferences, runs one
   LLM agent per conference (one at a time) that searches the web and reads the official
   CFP, then merges the results into the JSON and commits them.
 
@@ -23,7 +23,7 @@ languages, logic & theory, SE & security) and shows them on a GitHub Pages site.
 3. **Web search**: free and keyless — the agent queries DuckDuckGo's HTML endpoint (with
    retries when rate-limited) and fetches pages directly; no search API key is needed.
 4. Actions → *Update conference data* → *Run workflow* (optionally with `ids: cav,popl`).
-   It also runs every Monday at 03:00 UTC.
+   It also runs every day at 03:00 UTC.
 
 ## Adding a conference
 

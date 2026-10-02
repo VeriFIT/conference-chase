@@ -75,14 +75,29 @@ function formatRange(start, end) {
   return end && end !== start ? `${formatDay(start)} – ${formatDay(end)}` : formatDay(start);
 }
 
+/** `from` shifted by n calendar months, clamped to the last day of the target month. */
+function addMonths(from, n) {
+  const d = new Date(from);
+  const day = d.getDate();
+  d.setDate(1);
+  d.setMonth(d.getMonth() + n);
+  d.setDate(Math.min(day, new Date(d.getFullYear(), d.getMonth() + 1, 0).getDate()));
+  return d;
+}
+
 function countdown(instant, now) {
   const diff = instant - now;
   if (diff <= 0) return { text: `closed ${Math.floor(-diff / DAY)}d ago`, cls: "past" };
-  const d = Math.floor(diff / DAY);
-  const h = Math.floor((diff % DAY) / 3600000);
-  const m = Math.floor((diff % 3600000) / 60000);
-  const text = d > 0 ? `${d}d ${h}h ${m}m left` : `${h}h ${m}m left`;
-  return { text, cls: d < 14 ? "urgent" : d < 31 ? "soon" : "" };
+  const totalDays = Math.floor(diff / DAY);
+  let mo = 0;
+  while (addMonths(now, mo + 1) <= instant) mo++;
+  const rest = instant - addMonths(now, mo);
+  const d = Math.floor(rest / DAY);
+  const h = Math.floor((rest % DAY) / 3600000);
+  const m = Math.floor((rest % 3600000) / 60000);
+  const text = mo > 0 ? `${mo}mo ${d}d ${h}h left`
+    : d > 0 ? `${d}d ${h}h ${m}m left` : `${h}h ${m}m left`;
+  return { text, cls: totalDays < 14 ? "urgent" : totalDays < 31 ? "soon" : "" };
 }
 
 /* ---------- Data shaping ---------- */
@@ -133,9 +148,15 @@ function renderCards(confs, now) {
     html += `<h2 class="section-title">Deadline passed — next edition not announced yet</h2>
       <div class="grid">${past.map((x) => card(x.conf, x.next, now)).join("")}</div>`;
   }
-  if (unknown.length) {
-    html += `<h2 class="section-title">No dates known yet</h2>
-      <div class="grid">${unknown.map((x) => emptyCard(x.conf)).join("")}</div>`;
+  const noInfo = unknown.filter((x) => x.conf.last_checked);
+  const notGathered = unknown.filter((x) => !x.conf.last_checked);
+  if (noInfo.length) {
+    html += `<h2 class="section-title">No information available yet</h2>
+      <div class="grid">${noInfo.map((x) => emptyCard(x.conf)).join("")}</div>`;
+  }
+  if (notGathered.length) {
+    html += `<h2 class="section-title">Not gathered yet</h2>
+      <div class="grid">${notGathered.map((x) => emptyCard(x.conf)).join("")}</div>`;
   }
   return html;
 }
@@ -222,7 +243,9 @@ function card(conf, next, now) {
 function emptyCard(conf) {
   return `<article class="card is-empty" style="--c:${categoryColor(conf.category)}">
       ${cardHead(conf, null)}
-      <div class="card-meta">Dates not announced or not gathered yet${conf.last_checked ? ` (checked ${esc(conf.last_checked)})` : ""}.</div>
+      <div class="card-meta">${conf.last_checked
+        ? `No dates announced yet (checked ${esc(conf.last_checked)}).`
+        : "Not gathered yet — the agent has not checked this conference."}</div>
       <div class="card-links">${link(conf.homepage, "Homepage")}</div>
     </article>`;
 }
@@ -255,6 +278,13 @@ function renderTimeline(confs, now) {
         const r = Math.min(100, pos(new Date(ce.getTime() + DAY)));
         marks.push(`<div class="tl-span" style="left:${l}%;width:${r - l}%"
           title="${esc(`${conf.acronym} ${edition.year}: ${formatRange(edition.conference_start, edition.conference_end)} ${edition.location || ""}`)}"></div>`);
+      }
+      const sub = deadlineInstant(round.submission_deadline, round.timezone);
+      const notif = calendarDate(round.notification);
+      if (sub && notif && notif > sub && notif >= start && sub < end) {
+        const l = Math.max(0, pos(sub));
+        const r = Math.min(100, pos(notif));
+        marks.push(`<div class="tl-link" style="left:${l}%;width:${r - l}%"></div>`);
       }
       const rs = calendarDate(round.rebuttal_start || round.rebuttal_end);
       const re = calendarDate(round.rebuttal_end) || rs;
