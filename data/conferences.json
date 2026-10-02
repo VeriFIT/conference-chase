@@ -4,9 +4,28 @@
     "Formal methods",
     "Programming languages",
     "Logic & theory",
-    "SE & security"
+    "SE & security",
+    "AI & ML",
+    "Quantum",
+    "Hardware & EDA"
   ],
   "conferences": [
+    {
+      "id": "aaai",
+      "acronym": "AAAI",
+      "name": "AAAI Conference on Artificial Intelligence",
+      "category": "AI & ML",
+      "homepage": "https://aaai.org/",
+      "editions": []
+    },
+    {
+      "id": "aamas",
+      "acronym": "AAMAS",
+      "name": "International Conference on Autonomous Agents and Multiagent Systems",
+      "category": "AI & ML",
+      "homepage": "https://www.ifaamas.org/",
+      "editions": []
+    },
     {
       "id": "ase",
       "acronym": "ASE",
@@ -279,6 +298,22 @@
           ]
         }
       ]
+    },
+    {
+      "id": "dac",
+      "acronym": "DAC",
+      "name": "Design Automation Conference",
+      "category": "Hardware & EDA",
+      "homepage": "https://www.dac.com/",
+      "editions": []
+    },
+    {
+      "id": "date",
+      "acronym": "DATE",
+      "name": "Design, Automation and Test in Europe",
+      "category": "Hardware & EDA",
+      "homepage": "https://www.date-conference.com/",
+      "editions": []
     },
     {
       "id": "dlt",
@@ -630,6 +665,14 @@
       ]
     },
     {
+      "id": "iccad",
+      "acronym": "ICCAD",
+      "name": "IEEE/ACM International Conference on Computer-Aided Design",
+      "category": "Hardware & EDA",
+      "homepage": "https://iccad.com/",
+      "editions": []
+    },
+    {
       "id": "icfp",
       "acronym": "ICFP",
       "name": "International Conference on Functional Programming",
@@ -672,6 +715,14 @@
           "last_checked": "2026-10-01"
         }
       ]
+    },
+    {
+      "id": "iclr",
+      "acronym": "ICLR",
+      "name": "International Conference on Learning Representations",
+      "category": "AI & ML",
+      "homepage": "https://iclr.cc/",
+      "editions": []
     },
     {
       "id": "icse",
@@ -735,6 +786,14 @@
           "last_checked": "2026-10-01"
         }
       ]
+    },
+    {
+      "id": "kr",
+      "acronym": "KR",
+      "name": "International Conference on Principles of Knowledge Representation and Reasoning",
+      "category": "AI & ML",
+      "homepage": "https://kr.org/",
+      "editions": []
     },
     {
       "id": "lics",
@@ -894,6 +953,14 @@
       ]
     },
     {
+      "id": "neurips",
+      "acronym": "NeurIPS",
+      "name": "Conference on Neural Information Processing Systems",
+      "category": "AI & ML",
+      "homepage": "https://neurips.cc/",
+      "editions": []
+    },
+    {
       "id": "oopsla",
       "acronym": "OOPSLA",
       "name": "Object-Oriented Programming, Systems, Languages, and Applications",
@@ -1042,6 +1109,22 @@
           "last_checked": "2026-10-01"
         }
       ]
+    },
+    {
+      "id": "qce",
+      "acronym": "QCE",
+      "name": "IEEE International Conference on Quantum Computing and Engineering (IEEE Quantum Week)",
+      "category": "Quantum",
+      "homepage": "https://qce.quantum.ieee.org/",
+      "editions": []
+    },
+    {
+      "id": "qip",
+      "acronym": "QIP",
+      "name": "Conference on Quantum Information Processing",
+      "category": "Quantum",
+      "homepage": null,
+      "editions": []
     },
     {
       "id": "sas",
@@ -1251,6 +1334,14 @@
           "last_checked": "2026-10-01"
         }
       ]
+    },
+    {
+      "id": "tqc",
+      "acronym": "TQC",
+      "name": "Conference on the Theory of Quantum Computation, Communication and Cryptography",
+      "category": "Quantum",
+      "homepage": null,
+      "editions": []
     },
     {
       "id": "usenix-security",

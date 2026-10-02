@@ -1,7 +1,8 @@
 # conference-chase
 
 Tracks submission deadlines of scientific conferences (formal methods, programming
-languages, logic & theory, SE & security) and shows them on a GitHub Pages site.
+languages, logic & theory, SE & security, AI & ML, quantum, hardware & EDA) and shows
+them on a GitHub Pages site.
 
 - **Site** (`index.html`, `assets/`): plain HTML/CSS/JS with three views — deadline cards
   with countdowns, a 12-month timeline, and a sortable table. It reads `data/conferences.json`.

@@ -15,6 +15,7 @@
   --cat-3: #d0453a;
   --cat-4: #b8860b;
   --cat-5: #00838f;
+  --cat-6: #c2185b;
   --shadow: 0 1px 2px rgb(0 0 0 / 6%), 0 2px 8px rgb(0 0 0 / 4%);
   --radius: 10px;
   color-scheme: light;
@@ -38,6 +39,7 @@
     --cat-3: #ff7f73;
     --cat-4: #e4b941;
     --cat-5: #4dd0e1;
+    --cat-6: #f06292;
     --shadow: none;
     color-scheme: dark;
   }
