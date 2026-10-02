@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "categories": [
     "Formal methods",
     "Programming languages",
@@ -16,7 +16,61 @@
       "name": "AAAI Conference on Artificial Intelligence",
       "category": "AI & ML",
       "homepage": "https://aaai.org/",
-      "editions": []
+      "editions": [
+        {
+          "year": 2027,
+          "link": "https://aaai.org/conference/aaai/aaai-27/",
+          "cfp": "https://aaai.org/conference/aaai/aaai-27/main-technical-track-call/",
+          "location": "Montréal, Québec, Canada",
+          "conference_start": "2027-02-16",
+          "conference_end": "2027-02-23",
+          "pc_chairs": [
+            {
+              "name": "Yan Liu",
+              "affiliation": "University of Southern California, USA"
+            },
+            {
+              "name": "Balaraman Ravindran",
+              "affiliation": "Indian Institute of Technology Madras, India"
+            }
+          ],
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": "2026-07-21T23:59",
+              "submission_deadline": "2026-07-28T23:59",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-10-19",
+              "rebuttal_end": "2026-10-25",
+              "notification": "2026-11-30",
+              "final_version": "2026-12-14",
+              "cfp": "https://aaai.org/conference/aaai/aaai-27/main-technical-track-call/",
+              "submission_link": "https://openreview.net/group?id=AAAI.org/2027/Conference",
+              "page_limit": "7 pages of main content, max 9 pages total (pages 8-9 references only), AAAI two-column format",
+              "notes": "Single submission cycle with two-phase reviewing: OpenReview author registration opened 2026-06-17, paper submission opened 2026-06-30; supplementary material and code due 2026-07-31; Phase 1 rejection notifications 2026-09-24; author feedback (response) window 2026-10-19 to 2026-10-25 for papers not rejected in Phase 1; final accept/reject notification 2026-11-30; camera-ready 2026-12-14. All deadlines AoE (UTC-12). Abstract registration was mandatory."
+            },
+            {
+              "name": "Special Track on AI Alignment (AIA)",
+              "abstract_deadline": "2026-08-14T23:59",
+              "submission_deadline": "2026-08-21T23:59",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-10-27",
+              "rebuttal_end": "2026-11-02",
+              "notification": "2026-11-30",
+              "final_version": "2026-12-14",
+              "cfp": "https://aaai.org/conference/aaai/aaai-27/aia-call/",
+              "submission_link": "https://openreview.net/group?id=AAAI.org/2027/Conference",
+              "page_limit": "7 pages of main content, max 9 pages total (pages 8-9 references only)",
+              "notes": "Separate track schedule on the official site (supplementary/code due 2026-08-24); no transfer between main track and AIA track. Reported for completeness; the main technical track round above is the primary cycle."
+            }
+          ],
+          "source": "https://aaai.org/conference/aaai/aaai-27/",
+          "confidence": "high",
+          "notes": "AAAI-27 is the next announced edition (Feb 16-23, 2027, Palais des Congrès de Montréal). Its main-track paper submission deadline (2026-07-28 AoE) has already passed as of 2026-10-02; no AAAI-28 edition/CFP has been announced yet, so this is the most recently announced edition. Remaining upcoming milestones: author feedback 2026-10-19/25, final notification 2026-11-30, camera-ready 2026-12-14. Dates read directly from the official AAAI-27 author timetable and Main Technical Track CFP.",
+          "last_checked": "2026-10-02"
+        }
+      ],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "aamas",
@@ -24,7 +78,57 @@
       "name": "International Conference on Autonomous Agents and Multiagent Systems",
       "category": "AI & ML",
       "homepage": "https://www.ifaamas.org/",
-      "editions": []
+      "editions": [
+        {
+          "year": 2027,
+          "conference_start": "2027-05-03",
+          "conference_end": "2027-05-07",
+          "link": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
+          "cfp": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/",
+          "location": "Hanoi, Vietnam",
+          "pc_chairs": [
+            {
+              "name": "Matteo Baldoni",
+              "affiliation": "University of Turin"
+            },
+            {
+              "name": "Fei Fang",
+              "affiliation": "Carnegie Mellon University"
+            }
+          ],
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": "2026-10-01",
+              "submission_deadline": "2026-10-08",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-11-20",
+              "rebuttal_end": "2026-11-24",
+              "notification": "2026-12-21",
+              "final_version": "2027-01-25",
+              "cfp": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/",
+              "submission_link": "https://openreview.net/group?id=ifaamas.org/AAMAS/2027/Conference",
+              "page_limit": "8 pages (AAAI/LaTeX format) plus unlimited pages of references",
+              "notes": "Author registration on OpenReview due 17 Sep 2026 (every author must have an OpenReview account); abstract (100-300 words) required one week before paper submission. All deadlines are end of day AoE (UTC-12). Rejected-but-suitable papers are considered for Findings of AAMAS 2027."
+            },
+            {
+              "name": "AAAI Fast Track",
+              "submission_deadline": "2026-12-11",
+              "timezone": "AoE",
+              "notification": "2027-02-01",
+              "final_version": "2027-02-11",
+              "cfp": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-aaai-fast-track/",
+              "submission_link": "https://openreview.net/group?id=ifaamas.org/AAMAS/2027/Conference",
+              "notes": "Separate track (not a cycle of the main track) for papers submitted to the AAAI-27 Main Technical Track that were not accepted and have all human reviewer scores >= 5. Author registration deadline 31 Mar 2027; all deadlines end of day AoE."
+            }
+          ],
+          "source": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/",
+          "confidence": "high",
+          "notes": "AAMAS 2027 = 26th International Conference on Autonomous Agents and Multiagent Systems, 3-7 May 2027, Hanoi, Vietnam (hosted via University of Warwick). Main-track paper deadline 8 Oct 2026 is the upcoming deadline as of 2 Oct 2026. Other calls (Blue Sky Ideas, JAAMAS, Demonstrations & Competitions, Tutorials, Workshops, Doctoral Consortium) are separate tracks and are not listed as rounds. Programme (PC) chairs per official Organisation page.",
+          "last_checked": "2026-10-02"
+        }
+      ],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "ase",
@@ -305,7 +409,50 @@
       "name": "Design Automation Conference",
       "category": "Hardware & EDA",
       "homepage": "https://www.dac.com/",
-      "editions": []
+      "editions": [
+        {
+          "year": 2027,
+          "conference_start": "2027-07-11",
+          "conference_end": "2027-07-14",
+          "location": "San Jose, California, USA",
+          "cfp": "https://dac.com/2027/authors/call-for-contributions",
+          "pc_chairs": [
+            {
+              "name": "Ambar Sarkar",
+              "affiliation": "Nvidia"
+            },
+            {
+              "name": "Jiang Hu",
+              "affiliation": "Texas A&M University"
+            },
+            {
+              "name": "Rajiv Joshi",
+              "affiliation": "IBM"
+            }
+          ],
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": "2026-11-11T17:00",
+              "submission_deadline": "2026-11-18T17:00",
+              "timezone": "UTC-8",
+              "rebuttal_start": null,
+              "rebuttal_end": null,
+              "notification": "2027-03-08",
+              "final_version": "2027-03-31",
+              "cfp": "https://dac.com/2027/program/research-manuscript-submissions",
+              "submission_link": "https://softconf.com/dac27/research",
+              "page_limit": "6 pages (IEEE two-column, 9/10-pt) plus 1 additional page for references only",
+              "notes": "Research Track, single cycle. Abstract (title, ~100-word abstract, all co-authors) due Nov 11, 2026 5:00 pm US Pacific; manuscript due Nov 18, 2026 5:00 pm US Pacific (PST, UTC-8); no resubmission/author-response phase. Official timeline: Accept/Reject notifications sent Mar 8, 2027; Manuscript Confirmation due Mar 22, 2027; Proceedings (camera-ready) manuscript deadline Mar 31, 2027; author registration deadline Apr 10, 2027. Double-blind; 6 pages excl. references. Site event calendar also lists a 'Manuscript Submission Deadline' entry dated Nov 17, 2026, but the CFP text and the '(5 PM PST)' event page both state Nov 18, 2026."
+            }
+          ],
+          "source": "https://dac.com/2027/program/research-manuscript-submissions",
+          "confidence": "high",
+          "notes": "DAC 2027 = 64th IEEE/ACM Design Automation Conference, July 11-14, 2027, San Jose Convention Center, San Jose, CA, USA. DAC 2026 has already taken place, so DAC 2027 is the next edition; research submissions are open (submission site opened Oct 1, 2026). Other calls (Engineering Track, Workshops/Tutorials, Panels, Special Sessions, DAC Pavilion, Exhibitor Forum) have their own deadlines but are separate tracks, not cycles of the main research track. PC leadership is listed on the official site as TPC Chair / TPC Co-Chairs.",
+          "last_checked": "2026-10-02"
+        }
+      ],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "date",
@@ -313,7 +460,47 @@
       "name": "Design, Automation and Test in Europe",
       "category": "Hardware & EDA",
       "homepage": "https://www.date-conference.com/",
-      "editions": []
+      "editions": [
+        {
+          "year": 2027,
+          "link": "https://www.date-conference.com/",
+          "cfp": "https://www.date-conference.com/call-for-papers",
+          "location": "Dresden, Germany",
+          "conference_start": "2027-03-22",
+          "conference_end": "2027-03-24",
+          "pc_chairs": [
+            {
+              "name": "Lukas Sekanina",
+              "affiliation": "Brno University of Technology, CZ"
+            },
+            {
+              "name": "Nele Mentens",
+              "affiliation": "KU Leuven, BE | Leiden University, NL"
+            }
+          ],
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": "2026-09-13",
+              "submission_deadline": "2026-09-20",
+              "timezone": "AoE",
+              "rebuttal_start": null,
+              "rebuttal_end": null,
+              "notification": "2026-11-23",
+              "final_version": "2026-12-16",
+              "cfp": "https://www.date-conference.com/call-for-papers",
+              "submission_link": "https://softconf.com/date27/conference/",
+              "page_limit": "max. 6 pages plus one extra page only for bibliographic references (double-blind, PDF)",
+              "notes": "Abstract (title, abstract, co-authors) registration 13 Sep 2026 AoE is mandatory; final paper 20 Sep 2026 AoE is a firm deadline (no extensions). No author-response/rebuttal period is listed. Optional short pitch video: 22 Jan 2027 AoE."
+            }
+          ],
+          "source": "https://www.date-conference.com/call-for-papers",
+          "confidence": "high",
+          "notes": "DATE 2027 = 30th edition, 22-24 March 2027, Internationales Congress Center Dresden (ICD), Dresden, Germany. General Chair: Robert Wille (TU Munich); Programme (PC) Chair: Lukas Sekanina (BUT, CZ), Vice Programme Chair: Nele Mentens (KU Leuven/Leiden). The main research-paper deadline (20 Sep 2026) has already passed as of 2 Oct 2026; other still-open calls of the same edition (separate programme areas, not main-track cycles) are: Late Breaking Results final paper 29 Nov 2026 AoE (notification 13 Jan 2027, camera-ready 29 Jan 2027), Multi-Partner Projects abstract 18 Oct / final paper 25 Oct 2026, focus session & workshop & tutorial proposals 18 Oct 2026, YPP PhD Forum 30 Nov 2026. All deadlines AoE; strict, no extensions.",
+          "last_checked": "2026-10-02"
+        }
+      ],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "dlt",
@@ -670,7 +857,47 @@
       "name": "IEEE/ACM International Conference on Computer-Aided Design",
       "category": "Hardware & EDA",
       "homepage": "https://iccad.com/",
-      "editions": []
+      "editions": [
+        {
+          "year": 2026,
+          "link": "https://iccad.com/2026",
+          "cfp": "https://iccad.com/2026/authors/call-for-papers",
+          "location": "San Jose, California, USA",
+          "conference_start": "2026-11-08",
+          "conference_end": "2026-11-12",
+          "pc_chairs": [
+            {
+              "name": "Ismail S. K. Bustany",
+              "affiliation": "AMD"
+            },
+            {
+              "name": "Tsung-Yi Ho",
+              "affiliation": "The Chinese University of Hong Kong"
+            }
+          ],
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": "2026-04-07T23:59",
+              "submission_deadline": "2026-04-14T23:59",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-06-10",
+              "rebuttal_end": "2026-06-20",
+              "notification": "2026-07-11",
+              "final_version": "2026-09-04",
+              "cfp": "https://iccad.com/2026/authors/call-for-papers",
+              "submission_link": "https://iccad2026.hotcrp.com/",
+              "page_limit": "8 pages (incl. abstract, figures, tables), double-column 9/10pt, plus 1 page of references",
+              "notes": "Two-stage submission: abstract (title, abstract, full author list) by Apr 7 AoE is mandatory; paper by Apr 14 AoE; no extensions granted. Reviews shared Jun 10, author rebuttals due Jun 20 (the CFP PDF originally listed Jun 17). Camera-ready/author registration extended to Sep 4, 2026 (originally Aug 24). Double-blind review; regular papers via iccad2026.hotcrp.com, proposals via iccad2026-proposals.hotcrp.com."
+            }
+          ],
+          "source": "https://iccad.com/2026/authors/call-for-papers",
+          "confidence": "high",
+          "notes": "ICCAD 2026 (45th edition) is the most recently announced edition: its paper submission deadline (14 Apr 2026) has already passed, and no ICCAD 2027 site/CFP exists yet (iccad.com/2027 returns 404; only the Nov 8-12, 2026 San Jose edition is listed). Dates taken from the official ICCAD 2026 CFP page/homepage and the official HotCRP site; the camera-ready date shown on the site is the extended one (Sep 4, 2026).",
+          "last_checked": "2026-10-02"
+        }
+      ],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "icfp",
@@ -722,7 +949,55 @@
       "name": "International Conference on Learning Representations",
       "category": "AI & ML",
       "homepage": "https://iclr.cc/",
-      "editions": []
+      "editions": [
+        {
+          "year": 2027,
+          "link": "https://iclr.cc/Conferences/2027/index.html",
+          "cfp": "https://iclr.cc/Conferences/2027/CallForPapers",
+          "location": "San Francisco, California, USA",
+          "conference_start": "2027-04-26",
+          "conference_end": "2027-04-30",
+          "pc_chairs": [
+            {
+              "name": "Jacob Andreas",
+              "affiliation": null
+            },
+            {
+              "name": "Guy Van den Broeck",
+              "affiliation": null
+            },
+            {
+              "name": "Andrej Risteski",
+              "affiliation": null
+            },
+            {
+              "name": "Stella Yu",
+              "affiliation": null
+            }
+          ],
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": "2026-09-18",
+              "submission_deadline": "2026-09-25",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-11-05",
+              "rebuttal_end": "2026-11-18",
+              "notification": "2026-12-16",
+              "final_version": null,
+              "cfp": "https://iclr.cc/Conferences/2027/CallForPapers",
+              "submission_link": "https://openreview.net/group?id=ICLR.cc/2027/Conference",
+              "page_limit": "9 pages main text at submission (10 pages during discussion/rebuttal and camera-ready), references excluded; appendices unlimited",
+              "notes": "Abstract deadline is mandatory (no authors added/removed after it). Reviews released Nov 5, 2026; author-reviewer (public) discussion Nov 5-18, 2026; reviewer-AC discussion Nov 19-Dec 16, 2026; final decisions Dec 16, 2026. Camera-ready upload instructions emailed mid-February 2027 (no exact date given). Reciprocal reviewing requirement: authors on 3+ papers must review 6 papers; each submission needs at least one author registered to review 3 papers. All submission deadlines have already passed as of 2026-10-02."
+            }
+          ],
+          "source": "https://iclr.cc/Conferences/2027/Dates",
+          "confidence": "high",
+          "notes": "ICLR 2027 (15th edition) is the most recently announced edition; its submission deadlines (abstract Sep 18, 2026; full paper Sep 25, 2026 AoE) passed before today (2026-10-02), while reviews (Nov 5), author-reviewer discussion (Nov 5-18) and decisions (Dec 16, 2026) are still upcoming. No ICLR 2028 call has been announced (Future Meetings lists only 'ICLR 2027: West Coast North America'). Official index page says 'California' and the Dates page says location/dates TBA; OpenReview and ICLR's announcement give San Francisco, CA, USA, Apr 26-30, 2027 (main conference Apr 26-28, workshops Apr 29-30). PC chairs named on the ICLR blog without affiliations.",
+          "last_checked": "2026-10-02"
+        }
+      ],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "icse",
@@ -793,7 +1068,36 @@
       "name": "International Conference on Principles of Knowledge Representation and Reasoning",
       "category": "AI & ML",
       "homepage": "https://kr.org/",
-      "editions": []
+      "editions": [
+        {
+          "year": 2026,
+          "location": "Lisbon, Portugal",
+          "conference_start": "2026-07-20",
+          "conference_end": "2026-07-23",
+          "cfp": "https://kr.org/KR2026/call_main_track.html",
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": "2026-02-08",
+              "submission_deadline": "2026-10-02",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-03-24",
+              "rebuttal_end": "2026-03-28",
+              "notification": "2026-04-13",
+              "final_version": "2026-05-03",
+              "cfp": "https://kr.org/KR2026/call_main_track.html",
+              "submission_link": "https://kr.org/KR2026/submission.html",
+              "page_limit": "Regular papers: 9 pages; short papers: 4 pages (excluding references and acknowledgements)",
+              "notes": "Deadlines were AoE. This edition has already taken place (July 20-23, 2026, part of FLoC 2026); reported as the most recently announced edition because KR 2027 (24th edition) has no announced dates/CFP yet - only the host call (statements of interest closed March 15, 2026; host selection was due June 15, 2026)."
+            }
+          ],
+          "source": "https://kr.org/KR2026/index.html",
+          "confidence": "high",
+          "notes": "KR 2026 (23rd edition, Lisbon, Portugal, July 20-23, 2026, within FLoC 2026) is the most recently announced edition; its main-track submission deadline (Feb 13, 2026 AoE) has passed and the conference has concluded. No upcoming edition is announced: the KR Steering Committee's call for hosts for KR 2027/KR 2028 closed 2026-03-15 with the host decision scheduled for 2026-06-15, but no KR 2027 venue, dates or call for papers have been published (kr.org/KR2027/ is not publicly accessible; krportal.org lists no KR 2027 event). PC chairs for the main track were not re-verifiable from the official site pages retrieved, so left null.",
+          "last_checked": "2026-10-02"
+        }
+      ],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "lics",
@@ -958,7 +1262,59 @@
       "name": "Conference on Neural Information Processing Systems",
       "category": "AI & ML",
       "homepage": "https://neurips.cc/",
-      "editions": []
+      "editions": [
+        {
+          "year": 2026,
+          "link": "https://neurips.cc/Conferences/2026",
+          "cfp": "https://neurips.cc/Conferences/2026/CallForPapers",
+          "location": "Sydney, Australia (satellite sites: Atlanta, GA, USA and Paris, France)",
+          "conference_start": "2026-12-06",
+          "conference_end": "2026-12-12",
+          "pc_chairs": [
+            {
+              "name": "Finale Doshi-Velez",
+              "affiliation": "Harvard (Senior Program Chair)"
+            },
+            {
+              "name": "Jenna Wiens",
+              "affiliation": "University of Michigan"
+            },
+            {
+              "name": "David Rolnick",
+              "affiliation": "Mila"
+            },
+            {
+              "name": "Nika Haghtalab",
+              "affiliation": "University of California, Berkeley"
+            },
+            {
+              "name": "Marc Deisenroth",
+              "affiliation": "Google DeepMind"
+            }
+          ],
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": "2026-05-04",
+              "submission_deadline": "2026-05-06",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-07-27",
+              "rebuttal_end": "2026-08-03",
+              "notification": "2026-09-24",
+              "final_version": null,
+              "cfp": "https://neurips.cc/Conferences/2026/CallForPapers",
+              "submission_link": "https://openreview.net/group?id=NeurIPS.cc/2026/Conference",
+              "page_limit": "9 content pages incl. figures/tables, excluding references, technical appendices and the mandatory checklist (10 pages for camera-ready)",
+              "notes": "Abstract registration mandatory (all authors need OpenReview profiles). Reviews released to authors Jul 22 2026; author+reviewer+AC discussion Jul 27-Aug 3 2026; reviewer+AC discussion Aug 3-10 2026; notifications Sep 24 2026 AoE. No camera-ready deadline stated; accepted papers must be imported by Oct 4 2026 AoE."
+            }
+          ],
+          "source": "https://neurips.cc/Conferences/2026/Dates",
+          "confidence": "high",
+          "notes": "As of 2026-10-02 the NeurIPS 2026 main-track submission deadline (May 6, 2026) has already passed; this is the most recently announced edition with a full CFP. The next edition, NeurIPS 2027 (announced only as '2027 -- Europe' on the Future Meetings page), has no dates or CFP yet, so no upcoming submission deadline exists. NeurIPS 2026 runs Dec 6-12 in Sydney (main site) with satellite sites in Atlanta and Paris Dec 9-13. Separate tracks (Evaluations & Datasets, Position Papers) share the same May 4/May 6 deadlines but are distinct tracks, not rounds of the main track.",
+          "last_checked": "2026-10-02"
+        }
+      ],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "oopsla",
@@ -1116,7 +1472,30 @@
       "name": "IEEE International Conference on Quantum Computing and Engineering (IEEE Quantum Week)",
       "category": "Quantum",
       "homepage": "https://qce.quantum.ieee.org/",
-      "editions": []
+      "editions": [
+        {
+          "year": 2027,
+          "rounds": [
+            {
+              "name": "Main",
+              "submission_deadline": null,
+              "abstract_deadline": null,
+              "cfp": null,
+              "submission_link": null,
+              "notes": "Call for technical papers for QCE 2027 not yet announced; no 2027 conference site exists yet (qce.quantum.ieee.org/2027/ still redirects to the 2026 site) and no EasyChair CFP (easychair.org/cfp/QCE27) has been created. Only the dates and venue have been announced by the IEEE Computer Society."
+            }
+          ],
+          "location": "Raleigh, North Carolina, USA",
+          "conference_start": "2027-10-10",
+          "conference_end": "2027-10-15",
+          "cfp": null,
+          "source": "https://www.computer.org/resources/newsletters/quantum-week-alerts",
+          "confidence": "medium",
+          "notes": "IEEE Quantum Week 2027 = 8th Annual IEEE International Conference on Quantum Computing and Engineering (QCE), announced by the IEEE Computer Society as 10-15 October 2027 in Raleigh, North Carolina, USA (alerts-signup page; official qce.quantum.ieee.org/2027 site not yet live). The previous edition, QCE 2026 (Toronto, Canada, 13-18 September 2026), has already taken place, so no upcoming QCE paper submission deadline is currently published; all CFP dates (historically an April technical-paper deadline via EasyChair) are null until the QCE 2027 call is released.",
+          "last_checked": "2026-10-02"
+        }
+      ],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "qip",
@@ -1124,7 +1503,8 @@
       "name": "Conference on Quantum Information Processing",
       "category": "Quantum",
       "homepage": null,
-      "editions": []
+      "editions": [],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "sas",
