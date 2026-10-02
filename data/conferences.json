@@ -7,7 +7,8 @@
     "SE & security",
     "AI & ML",
     "Quantum",
-    "Hardware & EDA"
+    "Hardware & EDA",
+    "Systems"
   ],
   "conferences": [
     {
@@ -230,6 +231,14 @@
       ]
     },
     {
+      "id": "cade",
+      "acronym": "CADE",
+      "name": "International Conference on Automated Deduction",
+      "category": "Logic & theory",
+      "homepage": "https://www.cadeinc.org/",
+      "editions": []
+    },
+    {
       "id": "cav",
       "acronym": "CAV",
       "name": "Computer Aided Verification",
@@ -357,6 +366,14 @@
           "last_checked": "2026-10-01"
         }
       ]
+    },
+    {
+      "id": "csf",
+      "acronym": "CSF",
+      "name": "IEEE Computer Security Foundations Symposium",
+      "category": "SE & security",
+      "homepage": null,
+      "editions": []
     },
     {
       "id": "csl",
@@ -1063,6 +1080,22 @@
       ]
     },
     {
+      "id": "ijcai",
+      "acronym": "IJCAI",
+      "name": "International Joint Conference on Artificial Intelligence",
+      "category": "AI & ML",
+      "homepage": "https://www.ijcai.org/",
+      "editions": []
+    },
+    {
+      "id": "ijcar",
+      "acronym": "IJCAR",
+      "name": "International Joint Conference on Automated Reasoning",
+      "category": "Logic & theory",
+      "homepage": "https://www.ijcar.org/",
+      "editions": []
+    },
+    {
       "id": "kr",
       "acronym": "KR",
       "name": "International Conference on Principles of Knowledge Representation and Reasoning",
@@ -1145,6 +1178,14 @@
           "last_checked": "2026-10-01"
         }
       ]
+    },
+    {
+      "id": "lpar",
+      "acronym": "LPAR",
+      "name": "International Conference on Logic for Programming, Artificial Intelligence and Reasoning",
+      "category": "Logic & theory",
+      "homepage": null,
+      "editions": []
     },
     {
       "id": "mfcs",
@@ -1377,6 +1418,14 @@
           "last_checked": "2026-10-01"
         }
       ]
+    },
+    {
+      "id": "osdi",
+      "acronym": "OSDI",
+      "name": "USENIX Symposium on Operating Systems Design and Implementation",
+      "category": "Systems",
+      "homepage": null,
+      "editions": []
     },
     {
       "id": "pldi",

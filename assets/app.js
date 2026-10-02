@@ -104,7 +104,7 @@ function countdown(instant, now) {
 
 function categoryColor(category) {
   const idx = state.data.categories.indexOf(category);
-  return `var(--cat-${(idx < 0 ? 0 : idx) % 7})`;
+  return `var(--cat-${(idx < 0 ? 0 : idx) % 8})`;
 }
 
 /** Flatten to one entry per round, with the submission instant precomputed. */

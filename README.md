@@ -1,7 +1,7 @@
 # conference-chase
 
 Tracks submission deadlines of scientific conferences (formal methods, programming
-languages, logic & theory, SE & security, AI & ML, quantum, hardware & EDA) and shows
+languages, logic & theory, SE & security, AI & ML, quantum, hardware & EDA, systems) and shows
 them on a GitHub Pages site.
 
 - **Site** (`index.html`, `assets/`): plain HTML/CSS/JS with three views — deadline cards
