@@ -228,15 +228,21 @@ function card(conf, next, now) {
     edition.source !== edition.link && edition.source !== edition.cfp && link(edition.source, "Source"),
   ].filter(Boolean).join("");
   const checked = edition.last_checked ? `checked ${esc(edition.last_checked)}` : "";
+  const roundPrefix = edition.rounds.length > 1 ? `${round.name}: ` : "";
   return `<article class="card${cd.cls === "past" ? " is-past" : ""}" style="--c:${categoryColor(conf.category)}">
       ${cardHead(conf, edition)}
       ${meta ? `<div class="card-meta">${meta}</div>` : ""}
-      ${chairsLine(edition)}
-      <div class="countdown ${cd.cls}" data-deadline="${next.submission.getTime()}"
-        data-prefix="${edition.rounds.length > 1 ? esc(`${round.name}: `) : ""}">
-        ${edition.rounds.length > 1 ? `${esc(round.name)}: ` : ""}${cd.text}</div>
-      ${rounds}
-      <div class="card-links">${links}<span class="card-meta" title="${esc(edition.notes || "")}">${checked}</span></div>
+      <div class="card-deadline">
+        <span class="deadline-label">${esc(roundPrefix)}Submission</span>
+        <span class="deadline-date">${esc(formatDeadline(round.submission_deadline, round.timezone))}</span>
+      </div>
+      <div class="countdown ${cd.cls}" data-deadline="${next.submission.getTime()}" data-prefix="">${cd.text}</div>
+      <details class="card-details">
+        <summary>More details</summary>
+        ${chairsLine(edition)}
+        ${rounds}
+        <div class="card-links">${links}<span class="card-meta" title="${esc(edition.notes || "")}">${checked}</span></div>
+      </details>
     </article>`;
 }
 
