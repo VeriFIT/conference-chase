@@ -1600,6 +1600,22 @@
       ]
     },
     {
+      "id": "sat",
+      "acronym": "SAT",
+      "name": "International Conference on Theory and Applications of Satisfiability Testing",
+      "category": "Logic & theory",
+      "homepage": "https://www.satisfiability.org/",
+      "editions": []
+    },
+    {
+      "id": "smt",
+      "acronym": "SMT",
+      "name": "International Workshop on Satisfiability Modulo Theories",
+      "category": "Logic & theory",
+      "homepage": null,
+      "editions": []
+    },
+    {
       "id": "sp",
       "acronym": "IEEE S&P",
       "name": "IEEE Symposium on Security and Privacy",
