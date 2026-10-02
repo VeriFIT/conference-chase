@@ -250,7 +250,16 @@
       "name": "International Conference on Automated Deduction",
       "category": "Logic & theory",
       "homepage": "https://www.cadeinc.org/",
-      "editions": []
+      "editions": [
+        {
+          "cfp": "https://fscd-cade.science.ru.nl/calls/papers-cade",
+          "location": "Nijmegen, The Netherlands (Van der Valk Hotel Nijmegen-Lent, organised by Radboud University)",
+          "year": 2027,
+          "rounds": [],
+          "last_checked": "2026-10-02"
+        }
+      ],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "cav",
@@ -387,7 +396,19 @@
       "name": "IEEE Computer Security Foundations Symposium",
       "category": "SE & security",
       "homepage": null,
-      "editions": []
+      "editions": [
+        {
+          "year": 2027,
+          "location": "Tokyo, Japan",
+          "cfp": "https://www.ieee-security.org/TC/CSF2027/cfp.html",
+          "pc_chairs": [],
+          "notes": "CSF uses three rolling submission cycles per year (Summer, Fall, Winter). The Summer 2026 cycle (Aug 3, 2026) has already closed, so the next open deadline is the Fall cycle on Oct 15, 2026 AoE, followed by the Winter cycle on Jan 28, 2027 AoE. Decisions: accept / reject / major revision. Reserve-reviewer policy applies to senior authors. Proceedings published by IEEE Computer Society Press; some papers selected as Distinguished Papers.",
+          "confidence": "high",
+          "rounds": [],
+          "last_checked": "2026-10-02"
+        }
+      ],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "csl",
@@ -1127,7 +1148,23 @@
       "name": "International Joint Conference on Artificial Intelligence",
       "category": "AI & ML",
       "homepage": "https://www.ijcai.org/",
-      "editions": []
+      "editions": [
+        {
+          "year": 2027,
+          "location": "Kyoto, Japan (main conference); satellite event in Hengqin, China",
+          "pc_chairs": [
+            {
+              "name": "Bo An",
+              "affiliation": "Nanyang Technological University (NTU), Singapore"
+            }
+          ],
+          "notes": "Next IJCAI after IJCAI-ECAI 2026 (35th, Bremen, Germany, Aug 15-21, 2026, already held). Official IJCAI 2027 homepage (2027.ijcai.org) lists the main-track important dates: abstract submission January 4, 2027; full paper submission January 11, 2027; paper notification April 21, 2027 — all at 23:59 AoE. As of the last check the full call for papers page has not yet been published on the site (only 'Call for PC Members' and committee pages exist), so page limits, submission site (e.g. OpenReview), author-feedback/rebuttal dates and desk-reject policy are not yet announced. PC Chair: Bo An (NTU); Conference Chair: Sarit Kraus (Bar-Ilan); Local Arrangements Chair: Takayuki Ito (Kyoto University). Contact: pcchair@2027.ijcai.org.",
+          "confidence": "high",
+          "rounds": [],
+          "last_checked": "2026-10-02"
+        }
+      ],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "ijcar",
@@ -1135,7 +1172,8 @@
       "name": "International Joint Conference on Automated Reasoning",
       "category": "Logic & theory",
       "homepage": "https://www.ijcar.org/",
-      "editions": []
+      "editions": [],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "kr",
@@ -1237,7 +1275,31 @@
       "name": "International Conference on Logic for Programming, Artificial Intelligence and Reasoning",
       "category": "Logic & theory",
       "homepage": null,
-      "editions": []
+      "editions": [
+        {
+          "year": 2026,
+          "location": "Anargyrios and Korgialenios School of Spetses (AKSS), Spetses Island, Greece",
+          "cfp": "https://easychair.org/cfp/lpar26",
+          "pc_chairs": [
+            {
+              "name": "Erika Abraham",
+              "affiliation": "RWTH Aachen"
+            },
+            {
+              "name": "Nikolaj Bjorner",
+              "affiliation": "Microsoft Research"
+            },
+            {
+              "name": "Michael Rawson",
+              "affiliation": "University of Southampton"
+            }
+          ],
+          "notes": "Conference chair: Geoff Sutcliffe (University of Miami & TU Wien); local arrangements chair: Lydia Kondylidou (LMU Munich); IWIL workshop co-located 25 October 2026. No timezone specified on official pages. All submission deadlines have passed as of 2 Oct 2026, but the conference itself is still upcoming.",
+          "rounds": [],
+          "last_checked": "2026-10-02"
+        }
+      ],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "mfcs",
@@ -1505,7 +1567,8 @@
       "name": "USENIX Symposium on Operating Systems Design and Implementation",
       "category": "Systems",
       "homepage": null,
-      "editions": []
+      "editions": [],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "planqc",
@@ -1513,7 +1576,15 @@
       "name": "Programming Languages for Quantum Computing",
       "category": "Quantum",
       "homepage": null,
-      "editions": []
+      "editions": [
+        {
+          "year": 2027,
+          "location": "Mexico City, Mexico (Hilton Mexico City Reforma)",
+          "rounds": [],
+          "last_checked": "2026-10-02"
+        }
+      ],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "pldi",
@@ -1701,7 +1772,8 @@
       "name": "International Conference on Theory and Applications of Satisfiability Testing",
       "category": "Logic & theory",
       "homepage": "https://www.satisfiability.org/",
-      "editions": []
+      "editions": [],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "smt",
@@ -1709,7 +1781,8 @@
       "name": "International Workshop on Satisfiability Modulo Theories",
       "category": "Logic & theory",
       "homepage": null,
-      "editions": []
+      "editions": [],
+      "last_checked": "2026-10-02"
     },
     {
       "id": "sp",
