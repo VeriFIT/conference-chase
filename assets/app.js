@@ -279,22 +279,31 @@ function renderTimeline(confs, now) {
 
   const rows = [];
   for (const conf of confs) {
-    const marks = [];
+    // Each round is a group of marks occupying [lo, hi] on the track; overlapping groups are
+    // stacked into separate lanes. Conference spans stay on the row's centre line.
+    const groups = [];
+    const spans = [];
     let firstMark = Infinity;
-    for (const { edition, round } of roundEntries(conf)) {
+    for (const edition of conf.editions) {
       const cs = calendarDate(edition.conference_start);
       const ce = calendarDate(edition.conference_end) || cs;
       if (cs && ce >= start && cs < end) {
         const l = Math.max(0, pos(cs));
         const r = Math.min(100, pos(new Date(ce.getTime() + DAY)));
-        marks.push(`<div class="tl-span" style="left:${l}%;width:${r - l}%"
+        spans.push(`<div class="tl-span" style="left:${l}%;width:${r - l}%"
           title="${esc(`${conf.acronym} ${edition.year}: ${formatRange(edition.conference_start, edition.conference_end)} ${edition.location || ""}`)}"></div>`);
       }
+    }
+    for (const { edition, round } of roundEntries(conf)) {
+      const marks = [];
+      let lo = Infinity, hi = -Infinity;
+      const extend = (l, r = l) => { lo = Math.min(lo, l); hi = Math.max(hi, r); };
       const sub = deadlineInstant(round.submission_deadline, round.timezone);
       const notif = calendarDate(round.notification);
       if (sub && notif && notif > sub && notif >= start && sub < end) {
         const l = Math.max(0, pos(sub));
         const r = Math.min(100, pos(notif));
+        extend(l, r);
         marks.push(`<div class="tl-link" style="left:${l}%;width:${r - l}%"></div>`);
       }
       const rs = calendarDate(round.rebuttal_start || round.rebuttal_end);
@@ -303,6 +312,7 @@ function renderTimeline(confs, now) {
         const l = Math.max(0, pos(rs));
         const r = Math.min(100, pos(new Date(re.getTime() + DAY)));
         const roundLabel = edition.rounds.length > 1 ? ` (${round.name})` : "";
+        extend(l, r);
         marks.push(`<div class="tl-rebuttal" style="left:${l}%;width:${r - l}%"
           title="${esc(`${conf.acronym} ${edition.year}${roundLabel} — Rebuttal: ${rebuttalText(round)}`)}"></div>`);
       }
@@ -313,20 +323,40 @@ function renderTimeline(confs, now) {
         if (key === "submission_deadline") firstMark = Math.min(firstMark, date >= now ? date : Infinity);
         const roundLabel = edition.rounds.length > 1 ? ` (${round.name})` : "";
         const text = key.endsWith("deadline") ? formatDeadline(value, round.timezone) : formatDay(value);
+        extend(pos(date));
         marks.push(`<div class="tl-mark ${key.split("_")[0]}" style="left:${pos(date)}%"
           title="${esc(`${conf.acronym} ${edition.year}${roundLabel} — ${label}: ${text}`)}"></div>`);
       }
+      if (marks.length) groups.push({ lo, hi, marks });
     }
-    if (marks.length) rows.push({ conf, firstMark, marks });
+    if (!groups.length && !spans.length) continue;
+    // Greedy interval packing; the gap leaves room for mark widths at the group ends.
+    const GAP = 1.5;
+    const laneEnds = [];
+    const lanes = [];
+    groups.sort((a, b) => a.lo - b.lo);
+    for (const g of groups) {
+      let i = laneEnds.findIndex((e) => e + GAP <= g.lo);
+      if (i < 0) { i = laneEnds.length; lanes.push([]); }
+      laneEnds[i] = g.hi;
+      lanes[i].push(...g.marks);
+    }
+    rows.push({ conf, firstMark, lanes, spans });
   }
   if (!rows.length) return `<p class="empty">No dates in this period match the filters.</p>`;
   rows.sort((a, b) => a.firstMark - b.firstMark || a.conf.acronym.localeCompare(b.conf.acronym));
   // A single "today" line spans the whole chart, so the per-row track only holds the grid.
-  const body = rows.map(({ conf, marks }) => `
+  const LANE = 13;
+  const body = rows.map(({ conf, lanes, spans }) => {
+    const laneHtml = lanes.map((marks, i) => `<div class="tl-lane"
+      style="top:calc(50% + ${(i - (lanes.length - 1) / 2) * LANE}px)">${marks.join("")}</div>`).join("")
+      + `<div class="tl-lane" style="top:50%">${spans.join("")}</div>`;
+    return `
     <div class="tl-row" style="--c:${categoryColor(conf.category)}">
       <div class="tl-label" title="${esc(conf.name)}">${esc(conf.acronym)}</div>
-      <div class="tl-track">${grid.replace(/<span[^>]*>.*?<\/span>/g, "")}${today}${marks.join("")}</div>
-    </div>`).join("");
+      <div class="tl-track" style="min-height:${Math.max(34, lanes.length * LANE + 16)}px">${grid.replace(/<span[^>]*>.*?<\/span>/g, "")}${today}${laneHtml}</div>
+    </div>`;
+  }).join("");
   return `<div class="timeline"><div class="tl-inner">
       <div class="tl-row tl-axis"><div></div><div class="tl-track">${grid}</div></div>
       ${body}
