@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "categories": [
     "Formal methods",
     "Programming languages",
@@ -305,7 +305,7 @@
       "name": "ACM Conference on Computer and Communications Security",
       "category": "SE & security",
       "homepage": "https://www.sigsac.org/ccs.html",
-      "last_checked": "2026-10-01",
+      "last_checked": "2026-10-04",
       "editions": []
     },
     {
@@ -855,7 +855,7 @@
       "name": "International Colloquium on Automata, Languages and Programming",
       "category": "Logic & theory",
       "homepage": null,
-      "last_checked": "2026-10-01",
+      "last_checked": "2026-10-04",
       "editions": [
         {
           "year": 2027,
@@ -893,8 +893,8 @@
               "final_version": null,
               "cfp": null,
               "submission_link": null,
-              "page_limit": "No page limit stated for Track A yet (Track B: no limit, first 10 pages after title page are the core)",
-              "notes": "Official site lists Track A dates as TBA; Track A has only one round. PC co-chair Jukka Suomela indicated the Track A deadline will be 'in February as usual' (i.e. expected Feb 2027), but no date is announced on the official site."
+              "page_limit": "Not stated for Track A (Track B guidelines: no page limit, LIPIcs style recommended, first 10 pages after the title page are the core)",
+              "notes": "Official site (icalp.uj.edu.pl/track-b/) lists the second round / Track A dates as TBA; there is no Track A page or HotCRP site yet. EATCS 'Future ICALPs' says Track A deadline: February 2027 (to be decided); Track A PC co-chair Jukka Suomela also announced 'in February as usual'. No official date as of 2026-10-04."
             },
             {
               "name": "Track B (Automata, Logic, Semantics and Theory of Programming) — Round 1",
@@ -923,12 +923,41 @@
               "submission_link": null,
               "page_limit": "No page limit (as per Track B guidelines); first 10 pages after title page are the core",
               "notes": "All dates listed as TBA on the official site (submissions, rebuttal, notification, camera-ready). A paper may be submitted to only one of the two Track B rounds."
+            },
+            {
+              "name": "Track B (Automata, Logic, Semantics, Theory of Programming) — Round 1",
+              "abstract_deadline": null,
+              "submission_deadline": "2026-09-15",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-11-05",
+              "rebuttal_end": "2026-11-09",
+              "notification": "2026-12-08",
+              "final_version": null,
+              "cfp": "https://icalp.uj.edu.pl/track-b/",
+              "submission_link": "https://icalp27-b.hotcrp.com/",
+              "page_limit": "No page limit; LIPIcs class recommended; material beyond the title page, abstract, references and first 10 pages read at the committee's discretion",
+              "notes": "Deadline has passed (HotCRP deadlines page shows only the past submission deadline, Sep 16 2026 07:59 EDT = Sep 15 AoE). Double-blind, rebuttal phase for Track B; first-round decision is final — rejected papers cannot be resubmitted to round 2."
+            },
+            {
+              "name": "Track B — Round 2 (and the only round for Track A)",
+              "abstract_deadline": null,
+              "submission_deadline": null,
+              "timezone": null,
+              "rebuttal_start": null,
+              "rebuttal_end": null,
+              "notification": null,
+              "final_version": null,
+              "cfp": "https://icalp.uj.edu.pl/track-b/",
+              "submission_link": null,
+              "page_limit": "No page limit (Track B guidelines); first 10 pages after the title page are the core",
+              "notes": "All dates (submissions, rebuttal, notification, camera-ready, early registration) listed as TBA on the official site. EATCS lists the second Track B deadline as 'February 2027 (date to be decided)'; DMANET announcement said 'early-mid February 2027'. A paper may be submitted to only one of the two Track B rounds."
             }
           ],
           "source": "https://icalp.uj.edu.pl/track-b/",
           "confidence": "high",
-          "notes": "54th EATCS ICALP, hosted by Jagiellonian University, Kraków, 5-9 July 2027. Track B uses a two-round process for the first time (Track A has one round). Round 1 deadline (15 Sep 2026 AoE) has already passed as of 1 Oct 2026; the upcoming deadlines (Track A and Track B round 2) are not yet announced — third-party sources suggest February 2027 but the official site says TBA. Workshops expected 4 July 2027 (workshop CFP to be issued in fall).",
-          "last_checked": "2026-10-01"
+          "notes": "54th EATCS ICALP, hosted by Jagiellonian University, Kraków, 5–9 July 2027 (workshops Sunday 4 July 2027; workshop CFP to be issued in fall). Track B uses a two-round process for the first time; Track A has a single round. Re-checked the official site on 2026-10-04: Track B round 1 (15 Sep 2026 AoE, rebuttal 5–9 Nov 2026, notification 8 Dec 2026) has closed, and the upcoming Track A / Track B round 2 deadlines are still TBA officially — EATCS (eatcs.org/index.php/future-icalps) gives 'February 2027 (to be decided)' for both; aggregators citing 3 or 6 February 2027 are unverified guesses. Track A PC membership otherwise still TBA.",
+          "last_checked": "2026-10-04",
+          "link": "https://icalp.uj.edu.pl/home/"
         }
       ]
     },
@@ -1086,12 +1115,45 @@
       "name": "International Conference on Software Engineering",
       "category": "SE & security",
       "homepage": "https://www.icse-conferences.org/",
-      "last_checked": "2026-10-01",
+      "last_checked": "2026-10-04",
       "editions": [
         {
           "year": 2027,
-          "rounds": [],
-          "last_checked": "2026-10-01"
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": "2026-06-23T23:59",
+              "submission_deadline": "2026-06-30T23:59",
+              "timezone": "AoE",
+              "rebuttal_start": "2026-09-23",
+              "rebuttal_end": "2026-09-25",
+              "notification": "2026-10-20",
+              "final_version": "2026-11-24",
+              "cfp": "https://conf.researchr.org/track/icse-2027/icse-2027-research-track",
+              "submission_link": "https://icse2027-research.hotcrp.com/",
+              "page_limit": "10 pages IEEE conference format for main text (incl. figures/tables/appendices) + 2 pages of references; accepted papers get 1 extra page",
+              "notes": "Single submission cycle (ICSE 2027 moved from two cycles to one). Mandatory abstract 23 Jun 2026; author response period 3 days 23-25 Sep 2026; revision (major revision) due 17 Nov 2026; camera-ready of directly accepted papers 24 Nov 2026; final decision on major revisions 18 Dec 2026; camera-ready of accepted major-revision papers 25 Jan 2027. All times 23:59:59 AoE. Submissions are now closed (HotCRP shows 'Submissions are currently closed')."
+            }
+          ],
+          "last_checked": "2026-10-04",
+          "link": "https://conf.researchr.org/home/icse-2027",
+          "cfp": "https://conf.researchr.org/track/icse-2027/icse-2027-research-track",
+          "location": "Dublin, Ireland",
+          "conference_start": "2027-04-25",
+          "conference_end": "2027-05-01",
+          "pc_chairs": [
+            {
+              "name": "Andrea Zisman",
+              "affiliation": "The Open University, UK"
+            },
+            {
+              "name": "Dongmei Zhang",
+              "affiliation": "Microsoft, USA"
+            }
+          ],
+          "source": "https://conf.researchr.org/track/icse-2027/icse-2027-research-track",
+          "confidence": "high",
+          "notes": "ICSE 2027 (49th edition), Sun 25 Apr - Sat 1 May 2027, Convention Centre Dublin; core conference days Wed 28 Apr - Fri 30 Apr. Its single research-track submission deadline (30 Jun 2026) has already passed as of 2026-10-04, and no ICSE 2028 site/CFP exists yet on conf.researchr.org (icse-2028 access denied), so ICSE 2027 is the most recently announced edition; its remaining upcoming dates are notification 2026-10-20, revision 2026-11-17, camera-ready 2026-11-24, final major-revision decisions 2026-12-18 and camera-ready 2027-01-25. PC chairs confirmed via the official HotCRP PC list (icse2027-research.hotcrp.com/users/pc) and the ICSE 2027 'Call for PC Members' announcement naming Dongmei Zhang and Andrea Zisman as Research Track programme chairs."
         }
       ]
     },
@@ -1229,7 +1291,7 @@
       "name": "Logic in Computer Science",
       "category": "Logic & theory",
       "homepage": "https://lics.siglog.org/",
-      "last_checked": "2026-10-01",
+      "last_checked": "2026-10-04",
       "editions": [
         {
           "year": 2027,
@@ -1260,13 +1322,13 @@
               "cfp": null,
               "submission_link": null,
               "page_limit": null,
-              "notes": "Call for papers not yet published as of 2026-10-01. Official LICS 2027 site states only 'Further information will appear here in due course.' No abstract/paper deadlines, rebuttal period, notification date, submission system or page limit announced. LICS is a single-cycle symposium (cf. LICS 2026: abstracts Jan, papers late Jan, response late March, notification mid-April — not extrapolated here)."
+              "notes": "Call for papers not yet published as of 2026-10-04. Official LICS 2027 site (lics.siglog.org/lics27/index.php) states only 'Further information will appear here in due course.' No abstract/paper deadline, rebuttal period, notification date, submission system or page limit announced. LICS is a single-cycle symposium; no dates extrapolated from LICS 2026."
             }
           ],
           "source": "https://lics.siglog.org/lics27/index.php",
           "confidence": "high",
-          "notes": "LICS 2027 (42nd edition) is the next edition: Montreal, Canada, 21–24 June 2027, with workshops 19–20 June 2027; standalone event (LICS 2026 was part of FLoC 2026 in Lisbon). Official site lists Programme Chairs Pablo Barceló and Alexandra Silva (affiliations taken from their institutional pages, not shown on the LICS site) and Local Organizer Ryan Kavanagh. No CFP page exists yet (lics27/cfp.php returns 404); pl-conferences.com (updated 2026-09-28) and workwander.tech both confirm submission deadlines for 2027 are unpublished. All deadline fields are therefore null rather than guessed.",
-          "last_checked": "2026-10-01"
+          "notes": "LICS 2027 (42nd Annual Symposium on Logic in Computer Science) is the next edition: Montreal, Canada, 21-24 June 2027, with workshops 19-20 June 2027; standalone event (LICS 2026 was held in Lisbon as part of FLoC 2026, 20-23 July 2026). Verified 2026-10-04: official site publishes no CFP (lics27/cfp.php, call.php, submissions.php all return 404) and no deadlines; LICS home page (last modified 21 Jul 2026) confirms Montreal as the next edition. Secondary source pl-conferences.com (updated 2026-09-28) also states 'The call for papers has not been published yet'; CCFDDL likewise lists 'paper deadline not listed'. Site lists Programme Chairs Pablo Barceló and Alexandra Silva (affiliations taken from their institutional pages, not shown on the LICS site) and Local Organizer Ryan Kavanagh. All deadline fields are null rather than guessed.",
+          "last_checked": "2026-10-04"
         }
       ]
     },
@@ -1308,7 +1370,7 @@
       "name": "Mathematical Foundations of Computer Science",
       "category": "Logic & theory",
       "homepage": null,
-      "last_checked": "2026-10-01",
+      "last_checked": "2026-10-04",
       "editions": [
         {
           "year": 2026,
@@ -1340,13 +1402,13 @@
               "cfp": "https://mfcs2026.irif.fr/",
               "submission_link": "https://mfcs26.hotcrp.com/",
               "page_limit": "12 pages (LIPIcs class), excluding a separate title page, references, and an optional appendix",
-              "notes": "Single-blind reviewing; no abstract deadline; deadlines stated as firm. No author-response/rebuttal period announced for 2026. Early registration 2026-07-06 (AoE); YRF workshop 2026-08-23."
+              "notes": "Single-blind reviewing; no abstract deadline; site states deadlines are firm. No author-response/rebuttal period announced. Camera-ready 2026-06-26 (AoE); early registration 2026-07-06 (AoE); YRF workshop 2026-08-23. Submission server now closed."
             }
           ],
           "source": "https://mfcs2026.irif.fr/",
           "confidence": "high",
-          "notes": "As of 2026-10-01 no official announcement exists for the next edition, MFCS 2027 (52nd): no conference website, no WikiCFP/aggregator entry, and the MFCS 2026 site lists only past editions. Reported here is therefore the most recently announced edition, the 51st MFCS (Paris), whose submission deadline (2026-04-24 AoE) has passed and whose conference was already held 2026-08-24 to 2026-08-28. All dates read from the official MFCS 2026 site (submission time 23:59 AoE confirmed on the official HotCRP deadlines page).",
-          "last_checked": "2026-10-01"
+          "notes": "As of 2026-10-04 no official announcement exists for the next edition, MFCS 2027 (52nd): no conference website (mfcs2027.org does not resolve), no WikiCFP entry (WikiCFP lists only past editions and invites a first 2027 CFP post), no entry in the TCS conference planning calendar (tcs-conf.github.io planning.json has no MFCS 2027), no LIPIcs/DROPS volume, and no mention in the EATCS Bulletin (No 149, June 2026). The only 'MFCS 2027' hits are machine-estimated dates on aggregator timelines, which were not used. Reported here is therefore the most recently announced edition, the 51st MFCS (Paris): its submission deadline (2026-04-24 AoE) has passed and the conference was held 2026-08-24 to 2026-08-28. All dates read from the official MFCS 2026 site.",
+          "last_checked": "2026-10-04"
         }
       ]
     },
@@ -1356,7 +1418,7 @@
       "name": "Network and Distributed System Security Symposium",
       "category": "SE & security",
       "homepage": "https://www.ndss-symposium.org/",
-      "last_checked": "2026-10-01",
+      "last_checked": "2026-10-04",
       "editions": [
         {
           "year": 2027,
@@ -1368,18 +1430,18 @@
           "pc_chairs": [
             {
               "name": "Ivan Martinovic",
-              "affiliation": "University of Oxford"
+              "affiliation": "University of Oxford, UK"
             },
             {
               "name": "Martina Lindorfer",
-              "affiliation": "TU Wien"
+              "affiliation": "TU Wien, Austria"
             }
           ],
           "rounds": [
             {
               "name": "Summer",
               "abstract_deadline": null,
-              "submission_deadline": "2026-05-06",
+              "submission_deadline": "2026-05-06T23:59",
               "timezone": "AoE",
               "rebuttal_start": "2026-07-15",
               "rebuttal_end": "2026-07-17",
@@ -1387,13 +1449,13 @@
               "final_version": "2026-09-30",
               "cfp": "https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/",
               "submission_link": "https://ndss27-summer.hotcrp.com/",
-              "page_limit": "13 pages (US letter, two-column), excluding Ethics Considerations section, references and appendices",
-              "notes": "Deadline 11:59 PM AoE. Round 1 reviews / early-reject notification 2026-06-18; interactive discussion with reviewers 2026-07-15 to 2026-07-22; rebuttal, discussion and notification dates marked tentative. Minor-revision shepherd approval 2026-08-19; major-revision resubmission 2026-08-31; major-revision notification 2026-09-16. Cycle closed (162 of 1153 submissions accepted)."
+              "page_limit": "13 pages, US letter two-column layout, excluding Ethics Considerations section, references and appendices",
+              "notes": "Cycle closed. No separate abstract deadline. Round 1 reviews / early-reject & Round 2 notification 2026-06-18; interactive discussion with reviewers 2026-07-15 to 2026-07-22; rebuttal, discussion and notification dates marked tentative on the CFP. Minor-revision shepherd approval 2026-08-19; major-revision resubmission 2026-08-31; major-revision notification 2026-09-16. 162 of 1153 submissions accepted (HotCRP)."
             },
             {
               "name": "Fall",
               "abstract_deadline": null,
-              "submission_deadline": "2026-08-19",
+              "submission_deadline": "2026-08-19T23:59",
               "timezone": "AoE",
               "rebuttal_start": "2026-11-11",
               "rebuttal_end": "2026-11-13",
@@ -1401,14 +1463,14 @@
               "final_version": "2027-02-01",
               "cfp": "https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/",
               "submission_link": "https://ndss27-fall.hotcrp.com/",
-              "page_limit": "13 pages (US letter, two-column), excluding Ethics Considerations section, references and appendices",
-              "notes": "Cycle opened 2026-08-15, deadline 11:59 PM AoE. Round 1 reviews 2026-09-18 to 2026-10-13; Round 2 notification 2026-10-16; Round 2 reviews 2026-10-19 to 2026-11-10; interactive discussion 2026-11-11 to 2026-11-18; TPC discussion 2026-11-18 to 2026-11-24; major-revision resubmission / minor-revision decision 2026-12-22; major-revision notification 2027-01-11."
+              "page_limit": "13 pages, US letter two-column layout, excluding Ethics Considerations section, references and appendices",
+              "notes": "Cycle opened 2026-08-15 and has closed (HotCRP shows deadline Thu 20 Aug 2026 07:59 EDT = 19 Aug 23:59 AoE). No separate abstract deadline. Round 1 reviews 2026-09-18 to 2026-10-13; Round 2 notification 2026-10-16; Round 2 reviews 2026-10-19 to 2026-11-10; interactive discussion 2026-11-11 to 2026-11-18; TPC discussion 2026-11-18 to 2026-11-24; major-revision resubmission / minor-revision decision 2026-12-22; major-revision notification 2027-01-11."
             }
           ],
           "source": "https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/",
           "confidence": "high",
-          "notes": "NDSS 2027 (Seoul, 22-26 March 2027) is the most recently announced edition; NDSS 2028 has no page/CFP yet. As of 2026-10-01 both of its submission cycles (6 May 2026 and 19 Aug 2026) have already passed — the fall cycle is in review (notification 24 Nov 2026). Two review cycles per edition; no separate abstract deadline is stated.",
-          "last_checked": "2026-10-01"
+          "notes": "As of 2026-10-04 NDSS 2027 (Seoul, 22-26 March 2027) is the most recently announced edition: both of its two review cycles (summer, 6 May 2026; fall, 19 Aug 2026) have already closed, so no NDSS paper submission deadline is currently open. The fall cycle is in review (Round 1 reviews until 13 Oct 2026, notification 24 Nov 2026). NDSS 2028 has no website page or CFP yet (ndss-symposium.org/ndss2028/ returns 404; the news page lists nothing newer than the 18 Aug 2026 fall-cycle announcement), so no NDSS 2028 dates are reported. All deadlines are 11:59 PM AoE (UTC-12); double-blind; two review rounds per cycle.",
+          "last_checked": "2026-10-04"
         }
       ]
     },
@@ -1637,7 +1699,7 @@
       "name": "Principles of Programming Languages",
       "category": "Programming languages",
       "homepage": "https://www.sigplan.org/Conferences/POPL/",
-      "last_checked": "2026-10-01",
+      "last_checked": "2026-10-04",
       "editions": [
         {
           "year": 2027,
@@ -1665,13 +1727,13 @@
               "cfp": "https://popl27.sigplan.org/track/POPL-2027-popl-research-papers#call-POPL-2027-Call-for-Papers",
               "submission_link": "https://popl27.hotcrp.com/",
               "page_limit": "25 pages of text excluding bibliography, PACMPL format (acmart LaTeX class, acmsmall option)",
-              "notes": "Single submission cycle; CFP explicitly states there is no abstract deadline. Author response period Mon 7 - Thu 10 Sep 2026 (optional). 'Author notification' 5 Oct 2026 = conditional-acceptance decisions; conditional-acceptance revision deadline 26 Oct 2026; final acceptance notification 9 Nov 2026; camera-ready 20 Nov 2026."
+              "notes": "Single submission cycle; CFP states explicitly 'There is no abstract deadline'. Deadline was 11:59 PM 9 Jul 2026 AoE (already passed as of 4 Oct 2026). Author response period Mon 7 - Thu 10 Sep 2026 (optional). 'Author notification' Mon 5 Oct 2026 = conditional-acceptance decisions; revision deadline Mon 26 Oct 2026; final acceptance notification Mon 9 Nov 2026; camera-ready Fri 20 Nov 2026."
             }
           ],
           "source": "https://popl27.sigplan.org/dates",
           "confidence": "high",
-          "notes": "POPL 2027 (54th ACM SIGPLAN Symposium), Mexico City, 10-16 Jan 2027. Its single paper deadline (9 Jul 2026 AoE) has already passed as of 2026-10-01; the site states 'The paper deadline has passed'. No official POPL 2028 site/CFP exists yet (only aggregator stubs), so POPL 2027 is the most recently announced edition. Program committee has one Program Chair (Sharon Shoham) plus six Associate Chairs (PC members, not chairs).",
-          "last_checked": "2026-10-01"
+          "notes": "POPL 2027 (54th ACM SIGPLAN Symposium), Hilton Mexico City Reforma, 10-16 Jan 2027. Its only paper deadline (9 Jul 2026 AoE) has already passed, and no POPL 2028 edition has been announced: there is no popl28.sigplan.org site, conf.researchr.org/home/POPL-2028 returns 404, the official POPL series page (popl27.sigplan.org/series/POPL) lists 2027 as the latest edition, and only aggregator stubs exist for 2028 with 'Deadline: TBD'. Hence POPL 2027 is reported as the most recently announced edition; its remaining upcoming milestones are author notification 5 Oct 2026, revision deadline 26 Oct 2026, final acceptance notification 9 Nov 2026, camera-ready 20 Nov 2026. The POPL 2027 program committee lists a single Program Chair (Sharon Shoham) plus six Associate Chairs who assist her (PC members, not chairs).",
+          "last_checked": "2026-10-04"
         }
       ]
     },
@@ -1729,7 +1791,7 @@
       "name": "Static Analysis Symposium",
       "category": "Formal methods",
       "homepage": null,
-      "last_checked": "2026-10-01",
+      "last_checked": "2026-10-04",
       "editions": [
         {
           "year": 2026,
@@ -1852,7 +1914,7 @@
       "name": "Symposium on Theoretical Aspects of Computer Science",
       "category": "Logic & theory",
       "homepage": null,
-      "last_checked": "2026-10-01",
+      "last_checked": "2026-10-04",
       "editions": [
         {
           "year": 2027,
@@ -1869,7 +1931,7 @@
               "cfp": "https://events.gwdg.de/event/1460/page/476-submissions",
               "submission_link": "https://easychair.org/conferences/?conf=stacs2027",
               "page_limit": "15 pages LIPIcs format, excluding title page, references and appendix (extended abstract or full paper)",
-              "notes": "Single submission cycle with two tracks (A: algorithms/data structures/complexity; B: automata/logic/semantics/theory of programming), same deadline for both. Lightweight double-blind; rebuttals via EasyChair. Final version (camera-ready) date TBA; no abstract deadline announced. Official site lists deadline as 'October 11, 23:59 AoE' (extended from 11 September 2026 in the first CFP of June 2026)."
+              "notes": "Single submission cycle, two tracks (A: algorithms/data structures/complexity; B: automata/logic/semantics/theory of programming) with the same deadline. Lightweight double-blind; rebuttals via EasyChair. Official site: 'Deadline for paper submission: October 11, 23:59; Rebuttal: November 30 - December 2; Notification: December 22; Final Version: TBA — all times are AoE (UTC-12:00)'. No abstract deadline announced. Camera-ready date TBA."
             }
           ],
           "location": "Göttingen, Germany",
@@ -1895,10 +1957,10 @@
               "affiliation": "University of Göttingen, Germany (Track B co-chair)"
             }
           ],
-          "source": "https://stacs2027.uni-goettingen.de/ (mirrors https://events.gwdg.de/event/1460/)",
+          "source": "https://events.gwdg.de/event/1460/overview (official STACS 2027 site, mirrors https://stacs2027.uni-goettingen.de/)",
           "confidence": "high",
-          "notes": "44th International Symposium on Theoretical Aspects of Computer Science (STACS 2027), Alte Mensa, Göttingen, 8-12 March 2027; proceedings LIPIcs. Dates read from the official conference site; submission deadline was extended from 11 Sep to 11 Oct 2026.",
-          "last_checked": "2026-10-01"
+          "notes": "44th International Symposium on Theoretical Aspects of Computer Science (STACS 2027), Alte Mensa, Wilhelmsplatz 3, Göttingen, 8–12 March 2027; proceedings in LIPIcs. Dates read directly from the official Indico pages (Overview = important dates, Submissions = CFP, Program Committees = PC chairs). Note: the first CFP (DMANET, June 2026) listed a 11 September 2026 deadline; the official site now lists 11 October 2026, i.e. the deadline was extended. There is no separate 'Call for Papers' page — the Submissions page serves as the CFP.",
+          "last_checked": "2026-10-04"
         }
       ]
     },
@@ -2026,7 +2088,7 @@
       "name": "Verification, Model Checking, and Abstract Interpretation",
       "category": "Formal methods",
       "homepage": null,
-      "last_checked": "2026-10-01",
+      "last_checked": "2026-10-04",
       "editions": [
         {
           "year": 2027,
@@ -2055,14 +2117,14 @@
               "final_version": "2026-11-20",
               "cfp": "https://conf.researchr.org/home/VMCAI-2027#call-Call-for-Papers",
               "submission_link": "https://easychair.org/conferences/?conf=vmcai2027",
-              "page_limit": "20 pages (LNCS format, excluding references); tool papers 12 pages; case studies 20 pages",
-              "notes": "Paper (abstract) registration required 2026-09-23; paper submission 2026-09-30 per the official Important Dates pages (VMCAI 2027 and POPL 2027). The published CFP / mailing-list announcements stated 'Paper submission: September 16, 2026 (AoE)', so the deadline appears to have been extended. No author-response/rebuttal period is announced for papers (only for artifacts: response period ends 2026-10-02/2026-10-09, artifact notification 2026-11-06). Double-blind review; optional artifact submission alongside the paper."
+              "page_limit": "20 pages LNCS format excluding references (tool papers 12 pages, case studies 20 pages); appendices allowed after references",
+              "notes": "Single submission cycle. Paper registration (abstract) 2026-09-23; paper submission 2026-09-30 per the official Important Dates pages of VMCAI 2027 and POPL 2027 (the earlier published CFP/mailing-list announcements said 'September 16, 2026 (AoE)', i.e. the deadline was extended). Double-blind review; Springer LNCS proceedings. No author-response/rebuttal period is announced for papers. Optional artifact track ran alongside: artifact registration 2026-09-25, artifact submission 2026-09-30, smoke-test notification 2026-10-07, end of author response period 2026-10-10, artifact notification 2026-11-06. All paper deadlines have now passed (today 2026-10-04); remaining upcoming dates are artifact response (2026-10-10), notification (2026-11-06) and camera-ready (2026-11-20)."
             }
           ],
           "source": "https://conf.researchr.org/dates/VMCAI-2027",
-          "confidence": "medium",
-          "notes": "VMCAI 2027 (28th edition, co-located with POPL 2027) is the most recently announced edition: its paper submission deadline (2026-09-30 per the official dates page; 2026-09-16 AoE per the CFP) has just passed as of 2026-10-01, and no VMCAI 2028 edition/CFP has been announced yet. Single submission cycle. Remaining upcoming dates: artifact response period end 2026-10-09, notification 2026-11-06, camera-ready 2026-11-20.",
-          "last_checked": "2026-10-01"
+          "confidence": "high",
+          "notes": "No edition with an upcoming paper submission deadline exists: VMCAI 2027 (28th edition, co-located with POPL 2027 in Mexico City) is the most recently announced edition and its paper deadline (2026-09-30 AoE) passed on 2026-09-30. No VMCAI 2028 website or CFP has been announced yet (the official VMCAI series page on conf.researchr.org lists 2027 as the latest edition). PC chairs are listed on the site as 'Co-chairs' of the VMCAI 2027 track.",
+          "last_checked": "2026-10-04"
         }
       ]
     }
