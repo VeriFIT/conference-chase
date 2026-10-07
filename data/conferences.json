@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "categories": [
     "Formal methods",
     "Programming languages",
@@ -336,8 +336,65 @@
       "name": "ACM Conference on Computer and Communications Security",
       "category": "SE & security",
       "homepage": "https://www.sigsac.org/ccs.html",
-      "last_checked": "2026-10-04",
-      "editions": []
+      "last_checked": "2026-10-07",
+      "editions": [
+        {
+          "year": 2027,
+          "rounds": [
+            {
+              "name": "Cycle A",
+              "abstract_deadline": "2027-01-12T23:59",
+              "submission_deadline": "2027-01-19T23:59",
+              "timezone": "AoE",
+              "rebuttal_start": "2027-03-16",
+              "rebuttal_end": "2027-03-23",
+              "notification": "2027-04-16",
+              "final_version": null,
+              "cfp": "https://www.sigsac.org/ccs/CCS2027/cfp.html",
+              "submission_link": "https://hotcrp.sigsac.org/ccs2027cyclea",
+              "page_limit": "12 pages ACM sigconf double-column format, excluding bibliography, appendices and supplementary material",
+              "notes": "Abstract/title/track registration one week before the deadline; author list frozen at submission; max 7 papers per author per cycle; Open Science appendix required."
+            },
+            {
+              "name": "Cycle B",
+              "abstract_deadline": "2027-04-21T23:59",
+              "submission_deadline": "2027-04-28T23:59",
+              "timezone": "AoE",
+              "rebuttal_start": "2027-06-22",
+              "rebuttal_end": "2027-06-29",
+              "notification": "2027-07-23",
+              "final_version": null,
+              "cfp": "https://www.sigsac.org/ccs/CCS2027/cfp.html",
+              "submission_link": "https://hotcrp.sigsac.org/ccs2027cycleb",
+              "page_limit": "12 pages ACM sigconf double-column format, excluding bibliography, appendices and supplementary material",
+              "notes": "Artifacts due 2027-05-02 AoE (3-day grace period for anonymous artifact sites); papers rejected in Cycle A may not be resubmitted."
+            },
+            {
+              "name": "Workshops",
+              "abstract_deadline": null,
+              "submission_deadline": "2026-11-02T23:59",
+              "timezone": "AoE",
+              "rebuttal_start": null,
+              "rebuttal_end": null,
+              "notification": "2026-12-14",
+              "final_version": null,
+              "cfp": "https://www.sigsac.org/ccs/CCS2027/call-for-workshops.html",
+              "submission_link": "https://easychair.org/conferences/?conf=ccs2027workshops",
+              "page_limit": null,
+              "notes": "Co-located workshop proposals (not the main paper track)."
+            }
+          ],
+          "link": "https://www.sigsac.org/ccs/CCS2027/",
+          "cfp": "https://www.sigsac.org/ccs/CCS2027/cfp.html",
+          "location": "Atlanta, USA",
+          "conference_start": "2027-10-11",
+          "conference_end": "2027-10-15",
+          "source": "https://www.sigsac.org/ccs/CCS2027/cfp.html",
+          "confidence": "high",
+          "notes": "34th ACM CCS, Oct 11-15 2027, Atlanta (Georgia Tech Campus). Two review cycles; all deadlines 11:59 PM AoE. Program Co-Chairs and Track Chairs listed as TBD on the CFP page, so pc_chairs is null. CCS 2026 (The Hague, Nov 15-19 2026) is the current edition but both of its submission deadlines (2026-01-14, 2026-04-29) have passed, so CCS 2027 is the next edition with upcoming deadlines. Camera-ready dates not yet announced.",
+          "last_checked": "2026-10-07"
+        }
+      ]
     },
     {
       "id": "ciaa",
@@ -389,7 +446,7 @@
       "name": "International Conference on Concurrency Theory",
       "category": "Logic & theory",
       "homepage": null,
-      "last_checked": "2026-10-03",
+      "last_checked": "2026-10-07",
       "editions": [
         {
           "year": 2027,
@@ -406,7 +463,7 @@
               "submission_link": null,
               "page_limit": null,
               "timezone": null,
-              "notes": "No CFP published yet (re-checked 2026-10-03): no official CONCUR 2027 / CONQEST 2027 website exists (concur2027.org and conqest2027.org do not resolve; concur2027.github.io, concur-2027.github.io, conqest2027.github.io and conqest-2027.github.io all 404). The official CONCUR series page https://concurrency-theory.org/events/concur/ still lists editions only up to CONCUR 2026, and WikiCFP has no CONCUR 2027 entry. All submission dates therefore unknown. For reference, the previous edition CONCUR 2026 (37th, Liverpool, 1-4 Sep 2026, part of CONFEST 2026) had abstracts 2026-04-20, submissions 2026-04-27 (AoE), rebuttal 2026-06-01/03, notification 2026-06-15, camera-ready 2026-06-29, 15 pages LIPIcs excl. references/appendices (https://confest-2026.github.io/concur/)."
+              "notes": "No CFP yet (re-checked 2026-10-07): no official CONCUR 2027 / CONQEST 2027 website exists (concur2027.org, conqest2027.org, conqest.org and confest2027.org do not resolve; concur2027.github.io, conqest-2027.github.io, confest-2027.github.io and confest2027.github.io all return 404). The official CONCUR series page https://concurrency-theory.org/events/concur/ still lists editions only up to CONCUR 2026; WikiCFP's CONCUR series page has no 2027 entry; the SIGLOG Monthly issues for Aug/Sep 2026 contain no CONCUR 2027 call. All abstract/submission/rebuttal/notification/camera-ready dates, submission link and page limit are therefore unknown - expect the CFP in late 2026/early 2027 (recent editions had April deadlines). For reference only (NOT 2027 dates): CONCUR 2026 (37th, Liverpool, 1-4 Sep 2026, part of CONFEST 2026) had abstracts 2026-04-20, submissions 2026-04-27 AoE, rebuttal 2026-06-01/03, notification 2026-06-15, camera-ready 2026-06-29, 15 pages LIPIcs excl. references/appendices (https://confest-2026.github.io/concur/)."
             }
           ],
           "source": "https://www.cs.vu.nl/~wanf/profactivities.html",
@@ -416,8 +473,8 @@
           "conference_end": "2027-09-10",
           "link": null,
           "cfp": null,
-          "notes": "CONCUR 2027 (next edition, 38th in the series) is announced only as a save-the-date: 6-10 September 2027 in Lucca, Italy, as part of the joint event 'CONQEST 2027' (CONCUR + QEST/FORMATS). Confirmed again today on the page of the CONCUR Steering Committee chair (Wan Fokkink, VU Amsterdam): 'The CONCUR 2027 conference will take place in Lucca in Italy, 6-10 September 2027, as part of CONQEST 2027'. Openresearch lists the same dates with General Chair Patricia Bouyer and PC Chair Jaco van de Pol, but that page is behind a bot check (Anubis) and could not be fetched, so PC chairs are reported as null. No official edition website or call for papers exists yet, hence no abstract/submission/rebuttal/notification/camera-ready dates, submission link or page limit; expect the CFP in late 2026/early 2027 (recent editions had April deadlines). CONCUR 2026 (Liverpool, 1-4 Sep 2026) has already been held, so its deadline is not upcoming.",
-          "last_checked": "2026-10-03"
+          "notes": "CONCUR 2027 (38th in the series) is the next edition with an upcoming deadline; CONCUR 2026 (Liverpool, 1-4 Sep 2026) has already been held. The edition is announced only as a save-the-date: 6-10 September 2027, Lucca, Italy, as part of the joint event 'CONQEST 2027' (CONCUR + QEST + FORMATS). Confirmed again today on the page of the CONCUR Steering Committee chair (Wan Fokkink, VU Amsterdam): 'The CONCUR 2027 conference will take place in Lucca in Italy, 6-10 September 2027, as part of CONQEST 2027'. Openresearch lists the same dates/location (with General Chair Patricia Bouyer and PC Chair Jaco van de Pol per earlier reports), but that page is behind a bot check (Anubis) and could not be fetched, so PC chairs are reported as null. No official edition website or call for papers exists yet, so link/cfp are null and no submission dates are known.",
+          "last_checked": "2026-10-07"
         }
       ]
     },
@@ -489,7 +546,7 @@
       "name": "Computer Science Logic",
       "category": "Logic & theory",
       "homepage": null,
-      "last_checked": "2026-10-03",
+      "last_checked": "2026-10-07",
       "editions": [
         {
           "year": 2027,
@@ -504,7 +561,7 @@
               "cfp": "https://csl2027.github.io/index.html#call-for-papers",
               "submission_link": "https://form.sdu.dk/CSL2027/",
               "page_limit": "15 pages in LIPIcs style, excluding appendices and references",
-              "notes": "Single cycle, double-blind, LIPIcs proceedings. All deadlines midnight AoE per the official 'Important Dates'. HotCRP shows the enforced deadlines were extended (registration 9 Jul 2026, full submissions 22 Jul 2026, 1:59 AM HST) and submissions are now closed. Notification 15 Oct 2026 (AoE) is still upcoming; camera-ready 'Final Version Due: TBD'. No author-response/rebuttal period is stated in the CFP."
+              "notes": "Single cycle, double-blind, LIPIcs proceedings. Official 'Important Dates': abstract 8 Jul 2026 (AoE), paper 15 Jul 2026 (AoE), notification 15 Oct 2026 (AoE), final version TBD. HotCRP shows the enforced deadlines were extended (registration 9 Jul 2026, full submissions 22 Jul 2026, 1:59 AM HST) and submissions are now closed ('The deadline for registering submissions has passed'). No author-response/rebuttal period is stated in the CFP."
             }
           ],
           "source": "https://csl2027.github.io/",
@@ -513,8 +570,8 @@
           "conference_start": "2027-01-25",
           "conference_end": "2027-01-29",
           "link": "https://csl2027.github.io/",
-          "notes": "No CSL edition with an upcoming submission deadline exists as of 2026-10-03: CSL 2026 (Paris, 23-28 Feb 2026) already took place and CSL 2027's paper deadline (15 Jul 2026 AoE, extended to 22 Jul in HotCRP) has passed, so CSL 2027 (35th EACSL Annual Conference, University of Sussex, Brighton, 25-29 Jan 2027) is the most recently announced edition with dates. Re-checked today: the EACSL CSL list still ends at 2026 (no 2027/2028 entries), csl2028.github.io does not exist, and no CSL 2028 CFP is findable (WikiCFP/aggregators show nothing newer). CSL 2028 has been announced only as venue/organisers (Porto; local organisers João Barbosa and Sandra Alves, PC chairs TBA) per the EACSL 2026 membership meeting minutes — no website, CFP or dates yet. PC chair affiliations as listed on the official HotCRP program committee page (both marked 'chair'); the CSL 2027 program/accepted-papers pages are still TBA.",
-          "last_checked": "2026-10-03",
+          "notes": "No CSL edition with an upcoming submission deadline exists as of 2026-10-07: CSL 2026 (Paris, 23-28 Feb 2026) already took place and CSL 2027's paper deadline (15 Jul 2026 AoE, extended to 22 Jul 2026 in HotCRP) has passed, so CSL 2027 (35th EACSL Annual Conference, University of Sussex, Brighton, 25-29 Jan 2027) is the most recently announced edition with dates; its notification (15 Oct 2026) and conference are still upcoming. Re-checked today: the official EACSL CSL list still ends at 2026, csl2028.github.io returns 404 and csl2028.org does not resolve, and no CSL 2028 CFP/dates are findable (aggregators such as conferences-computer.science list nothing newer than 2027). CSL 2028 is announced only as venue/organisers (Porto; local organisers Joao Barbosa and Sandra Alves, PC chairs TBA) per the EACSL 2026 membership meeting minutes. PC chair affiliations as listed on the official site/HotCRP (both marked 'PC Chair'); CSL 2027 program and camera-ready date are still TBA.",
+          "last_checked": "2026-10-07",
           "pc_chairs": [
             {
               "name": "Corina Cîrstea",
@@ -522,7 +579,7 @@
             },
             {
               "name": "Yannick Forster",
-              "affiliation": "INRIA Paris, France"
+              "affiliation": "Inria Paris, France"
             }
           ],
           "cfp": "https://csl2027.github.io/index.html#call-for-papers"
@@ -662,7 +719,7 @@
       "name": "Developments in Language Theory",
       "category": "Logic & theory",
       "homepage": null,
-      "last_checked": "2026-10-03",
+      "last_checked": "2026-10-07",
       "editions": [
         {
           "year": 2027,
@@ -679,13 +736,13 @@
               "final_version": null,
               "submission_link": null,
               "page_limit": null,
-              "notes": "Official 'Important Dates' page lists submission deadline, notification, camera-ready and registration deadlines all as TBA. Submissions will use EasyChair (link 'to be provided later'); proceedings in Springer LNCS. No page limit stated yet."
+              "notes": "Official 'Important Dates' page (https://www.cs.usask.ca/DLT2027/important-dates/) lists Submission deadline, Notification, Camera-ready version deadline and Registration deadline all as TBA. Submissions will use EasyChair but the link is 'to be provided later'; proceedings in Springer LNCS. No page limit, no abstract deadline, and no rebuttal/author-response period stated. Single-cycle conference; no rounds/cycles announced."
             }
           ],
           "source": "https://www.cs.usask.ca/DLT2027/",
           "confidence": "high",
-          "notes": "DLT 2027 = 31st International Conference on Developments in Language Theory, University of Saskatchewan, Saskatoon, Canada, July 27-30, 2027 (DLT 2026 in Rouen, 30th edition, already took place). Re-verified on the official site today: the site has no dedicated CFP page (submission guidelines are on the homepage), Program Committee and Invited Speakers are both 'TBA' (only the Steering Committee, chaired by Giovanni Pighizzini, is posted), and all paper-related dates remain TBA. Single-cycle conference; no rounds/cycles announced.",
-          "last_checked": "2026-10-03"
+          "notes": "DLT 2027 = 31st International Conference on Developments in Language Theory, University of Saskatchewan, Saskatoon, Canada, July 27-30, 2027 (DLT 2026, the 30th edition, Rouen, June 29/30 - July 3, 2026, has already taken place; its LNCS proceedings vol. 16578, eds. Marie-Pierre Béal & Pascal Caron, is published). Re-verified on the official site today (2026-10-07): the site has no dedicated CFP page (submission guidelines are a section of the homepage), Program Committee and Invited Speakers are both 'TBA' (only the Steering Committee, chaired by Giovanni Pighizzini of Milano, is posted), and all paper-related dates remain TBA. No CFP with dates exists on the DLT series site (math.utu.fi/dlt) or on aggregators (WikiCFP lists no DLT 2027 entry). Therefore no upcoming submission deadline is currently announced; DLT 2027 is the most recently announced edition. Historical DLT deadlines have fallen in Jan-Apr of the conference year, so a CFP is expected later, but no dates are officially stated.",
+          "last_checked": "2026-10-07"
         }
       ]
     },
@@ -750,7 +807,7 @@
       "name": "International Symposium on Formal Methods",
       "category": "Formal methods",
       "homepage": "https://www.fmeurope.org/",
-      "last_checked": "2026-10-03",
+      "last_checked": "2026-10-07",
       "editions": [
         {
           "year": 2027,
@@ -769,13 +826,13 @@
               "cfp": null,
               "submission_link": null,
               "page_limit": null,
-              "notes": "No call for papers or submission deadlines announced as of 2026-10-03. FME's official 'Upcoming Formal Methods Events' page lists FM 2027 (Athens, Greece, 18-22 Oct 2027) with empty Abstract Due / Full Paper Due / Notification columns and no link; no FM 2027 edition website or CFP exists (conf.researchr.org/home/fm-2027 has no public pages), and FME's 'fm2027' news category contains only the Call for Organizers of 14 Sep 2025 (proposals were due 15 Jan 2026)."
+              "notes": "No call for papers or submission deadlines announced as of 2026-10-07. FME's official 'Upcoming Formal Methods Events' page lists FM 2027 (Athens, Greece, 18-22 Oct 2027) with empty Abstract Due / Full Paper Due / Notification columns and no link; no FM 2027 edition website or CFP exists (conf.researchr.org/home/fm-2027 has no public pages), FME's 'fm2027' news category still contains only the Call for Organizers of 14 Sep 2025 (proposals due 15 Jan 2026, notification 15 Feb 2026), and WikiCFP has no FM 2027 entry."
             }
           ],
           "source": "https://www.fmeurope.org/feature/upcoming_conferences/",
           "confidence": "medium",
-          "notes": "FM 2027 will be the 28th International Symposium on Formal Methods (Athens, Greece, 18-22 October 2027) per FME's official upcoming-events page; it is the next edition after FM 2026 (Tokyo, 18-22 May 2026, already held) and still has no announced submission deadline. Verified again on 2026-10-03: FME's fm2027 news category holds only the Call for Organizers (14 Sep 2025), the FME symposia page links only FM 2026, and no FM 2027 website/CFP is reachable, so CFP URL, PC chairs, submission system, rebuttal period and page limit are all unannounced (FME's Call for Organizers notes PC chairs are invited by the FME chair, so they are typically announced late). FM 2028 is pre-announced for Twente, Netherlands, 6-10 Nov 2028, also without deadlines.",
-          "last_checked": "2026-10-03"
+          "notes": "FM 2027 will be the 28th International Symposium on Formal Methods (Athens, Greece, 18-22 October 2027) per FME's official upcoming-events page; it is the next edition after FM 2026 (Tokyo, 18-22 May 2026, already held, whose deadlines closed 2 Dec 2025) and still has no announced submission deadline. Re-verified 2026-10-07: FME's upcoming-events page shows FM 2027 with empty deadline columns and no link, FME's fm2027 news category holds only the Call for Organizers (14 Sep 2025), FME's most recent news item is 10 Jun 2026 (Lucas Award) with no FM 2027 announcement, the FME symposia page links only FM 2026, and no FM 2027 website/CFP is reachable, so CFP URL, PC chairs, submission system, rebuttal period and page limit are all unannounced (FME's Call for Organizers notes PC chairs are invited by the FME chair, so they are typically announced late). Starting in 2027 the FM symposium moves to a yearly autumn schedule; FM 2028 is pre-announced for Twente, Netherlands, 6-10 Nov 2028, also without deadlines.",
+          "last_checked": "2026-10-07"
         }
       ]
     },
@@ -785,7 +842,7 @@
       "name": "Formal Methods in Computer-Aided Design",
       "category": "Formal methods",
       "homepage": "https://fmcad.org/",
-      "last_checked": "2026-10-03",
+      "last_checked": "2026-10-07",
       "editions": [
         {
           "year": 2026,
@@ -822,8 +879,8 @@
           ],
           "source": "https://fmcad.org/FMCAD26/important_dates",
           "confidence": "high",
-          "notes": "No upcoming edition announced: as of 2026-10-03 FMCAD'27 has no site, venue, chairs or CFP anywhere — fmcad.org and the Forsyte mirror list FMCAD'26 as the most recent conference, fmcad.org/FMCAD27 and fmcad.forsyte.at/FMCAD27 return 404, the FMCAD Association site (fmcad.or.at) carries no announcement, and WikiCFP lists no FMCAD 2027 entry (it offers to 'Post a CFP for 2027 or later'). Therefore the most recently announced edition, FMCAD'26 (Graz, Austria, 14-18 Sep 2026), is reported, although it already took place and its submission deadline (11 May 2026) has passed. Dates are the final values from the official Important Dates page (initial dates 26 Apr / 3 May 2026; extended 24 Apr 2026). Program chairs Bruno Dutertre and Bettina Koenighofer are listed as 'Program Chairs' on the official committees page (FMCAD has combined program/organizing chairs). FMCAD'26 was co-located with VSTTE 2026 (VSTTE day 14 Sep, joint tutorial day 15 Sep, main FMCAD days 16-18 Sep); 224 submissions, 71 accepted (31.7%). Watch fmcad.org and the FMCAD mailing list (list.tuwien.ac.at/sympa/info/fmcad) for the FMCAD'27 CfP, which historically appears around September-October of the preceding year with a late-April/early-May deadline.",
-          "last_checked": "2026-10-03"
+          "notes": "No upcoming edition announced as of 2026-10-07: fmcad.org still lists FMCAD'26 (Graz, 14-18 Sep 2026) as the most recent conference; https://fmcad.org/FMCAD27/ and https://fmcad.forsyte.at/FMCAD27/ return 404; EasyChair has no 'fmcad2027' conference; the FMCAD Association site (fmcad.or.at) carries no FMCAD'27 announcement; WikiCFP's FMCAD series page lists no 2027 entry and offers to 'Post a CFP for 2027 or later'; Formal Methods Europe's upcoming-conferences table also stops at FMCAD 2026 (web hits for 'FMCAD 2027, Austin TX, Nov 11-14' are OCR errors for FMCAD 2007). Therefore the most recently announced edition, FMCAD'26, is reported even though it already took place and its submission deadline (11 May 2026) has passed. Dates are the final values from the official Important Dates page (initial 26 Apr / 3 May 2026; extended 24 Apr 2026). Program chairs Bruno Dutertre and Bettina Koenighofer are listed under 'Organizing Committee > Program Chairs' on the official committees page (FMCAD uses combined program/organizing chairs). FMCAD'26 was co-located with VSTTE 2026 (VSTTE day 14 Sep, joint tutorial day 15 Sep, main FMCAD days 16-18 Sep); 224 submissions, 71 accepted (31.7%); proceedings published by TU Wien Academic Press. Watch fmcad.org and the FMCAD mailing list (list.tuwien.ac.at/sympa/info/fmcad) for the FMCAD'27 CfP, which historically appears around September-October of the preceding year with a late-April/early-May deadline.",
+          "last_checked": "2026-10-07"
         }
       ]
     },
@@ -880,7 +937,7 @@
       "name": "ACM International Conference on the Foundations of Software Engineering",
       "category": "SE & security",
       "homepage": null,
-      "last_checked": "2026-10-03",
+      "last_checked": "2026-10-07",
       "editions": [
         {
           "year": 2027,
@@ -903,7 +960,7 @@
             {
               "name": "Main",
               "abstract_deadline": null,
-              "submission_deadline": "2026-10-02T23:59",
+              "submission_deadline": "2026-10-03T23:59",
               "timezone": "AoE",
               "rebuttal_start": "2026-12-14",
               "rebuttal_end": "2026-12-18",
@@ -912,13 +969,13 @@
               "cfp": "https://conf.researchr.org/track/fse-2027/fse-2027-papers",
               "submission_link": "https://fse2027.hotcrp.com/",
               "page_limit": "18 pages all text and figures + 4 pages references (ACM acmsmall format); major revisions up to 20 + 4 pages",
-              "notes": "Single-cycle research track (no separate abstract deadline stated). Initial decision accept/reject/major revision; author response Mon 14 - Fri 18 Dec 2026; initial notification Fri 22 Jan 2027; major-revision submission due Fri 5 Mar 2027; final notification Wed 31 Mar 2027. No camera-ready date announced for the research track. Double-anonymous (\"heavy\") review. Deadline time 11:59 PM AoE per the HotCRP site."
+              "notes": "Single-cycle Research Papers track; no separate abstract deadline stated. Original full-paper submission date was Fri 2 Oct 2026, extended by one day to Sat 3 Oct 2026 11:59 PM AoE due to a system-wide HotCRP outage (per CFP notice and HotCRP deadlines page, which now shows the deadline as passed). Initial decision accept/reject/major revision; author response Mon 14 - Fri 18 Dec 2026; initial notification Fri 22 Jan 2027; major-revision submission due Fri 5 Mar 2027; final notification Wed 31 Mar 2027. No camera-ready date announced for the research track. Double-anonymous (\"heavy\") review."
             }
           ],
-          "source": "https://conf.researchr.org/dates/fse-2027",
+          "source": "https://conf.researchr.org/track/fse-2027/fse-2027-papers",
           "confidence": "high",
-          "notes": "Read from the official FSE 2027 conf.researchr.org dates page and Research Papers CFP; all research-track deadlines are AoE (UTC-12h). FSE 2026 (Montréal) already took place. FSE 2027 is the most recently announced edition with dates: its full-paper submission deadline (2 Oct 2026 AoE) passed one day before today (2026-10-03), but the rest of its cycle (author response 14-18 Dec 2026, initial notification 22 Jan 2027, major revision 5 Mar 2027, final notification 31 Mar 2027, conference 12-16 Jul 2027) is still upcoming. The following edition, FSE 2028 (Milan, Italy), is listed on www.esec-fse.org/upcoming_events but has no website, CFP, PC chairs or dates announced yet (\"website not up yet\"), so no upcoming submission deadline exists.",
-          "last_checked": "2026-10-03"
+          "notes": "Read from the official FSE 2027 conf.researchr.org Research Papers CFP, the Important Dates page and the HotCRP site. FSE 2026 (Montreal, 5-9 Jul 2026) already took place. FSE 2027 is the most recently announced edition: its main (Research Papers) track submission deadline was extended to 3 Oct 2026 AoE and has now passed (HotCRP shows \"deadline for registering submissions has passed\"), so no upcoming main-track submission deadline exists. The rest of the FSE 2027 cycle is still upcoming: author response 14-18 Dec 2026, initial notification 22 Jan 2027, major-revision submission 5 Mar 2027, final notification 31 Mar 2027, conference 12-16 Jul 2027 in Shenzhen, China. The next edition, FSE 2028 (Milan, Italy), is listed on www.esec-fse.org/upcoming_events but links to \"website not up yet\" - no site, CFP, PC chairs or dates announced. Other FSE 2027 tracks with still-open deadlines (not main-track cycles, so not listed as rounds): Industry Papers 23 Jan 2027, Software Engineering Education 29 Jan 2027, workshop proposals 15 Oct 2026.",
+          "last_checked": "2026-10-07"
         }
       ]
     },
@@ -928,7 +985,7 @@
       "name": "International Colloquium on Automata, Languages and Programming",
       "category": "Logic & theory",
       "homepage": null,
-      "last_checked": "2026-10-04",
+      "last_checked": "2026-10-07",
       "editions": [
         {
           "year": 2027,
@@ -964,10 +1021,10 @@
               "rebuttal_end": null,
               "notification": null,
               "final_version": null,
-              "cfp": null,
+              "cfp": "https://icalp.uj.edu.pl/track-b/",
               "submission_link": null,
               "page_limit": "Not stated for Track A (Track B guidelines: no page limit, LIPIcs style recommended, first 10 pages after the title page are the core)",
-              "notes": "Official site (icalp.uj.edu.pl/track-b/) lists the second round / Track A dates as TBA; there is no Track A page or HotCRP site yet. EATCS 'Future ICALPs' says Track A deadline: February 2027 (to be decided); Track A PC co-chair Jukka Suomela also announced 'in February as usual'. No official date as of 2026-10-04."
+              "notes": "Track A has only one round. All dates TBA on the official site (no Track A page and no Track A HotCRP site yet — icalp.uj.edu.pl/track-a/ and icalp27-a.hotcrp.com both 404 as of 2026-10-07). EATCS 'Future ICALPs' gives 'Track A: February 2027 (to be decided)'. Aggregator dates of 3/6 February 2027 are unverified guesses. Track A PC membership otherwise still TBA."
             },
             {
               "name": "Track B (Automata, Logic, Semantics and Theory of Programming) — Round 1",
@@ -980,8 +1037,8 @@
               "final_version": null,
               "cfp": "https://icalp.uj.edu.pl/track-b/",
               "submission_link": "https://icalp27-b.hotcrp.com/",
-              "page_limit": "No page limit; LIPIcs-style recommended, material beyond title page + abstract + first 10 pages read at committee's discretion",
-              "notes": "Deadline has passed (HotCRP confirms registration closed). Decision in round 1 is final; rejected papers cannot be resubmitted to round 2. Double-blind; rebuttal phase for Track B only."
+              "page_limit": "No page limit; LIPIcs class recommended; material beyond the title page, abstract, references and the first 10 pages is read at the committee's discretion",
+              "notes": "Deadline has passed (HotCRP deadlines page shows only the past submission deadline, Wed Sep 16 2026 07:59 EDT = Sep 15 AoE). Double-blind, rebuttal phase for Track B; first-round decision is final — rejected papers cannot be resubmitted to round 2."
             },
             {
               "name": "Track B — Round 2 (and only round for Track A)",
@@ -1024,12 +1081,26 @@
               "submission_link": null,
               "page_limit": "No page limit (Track B guidelines); first 10 pages after the title page are the core",
               "notes": "All dates (submissions, rebuttal, notification, camera-ready, early registration) listed as TBA on the official site. EATCS lists the second Track B deadline as 'February 2027 (date to be decided)'; DMANET announcement said 'early-mid February 2027'. A paper may be submitted to only one of the two Track B rounds."
+            },
+            {
+              "name": "Track B — Round 2",
+              "abstract_deadline": null,
+              "submission_deadline": null,
+              "timezone": null,
+              "rebuttal_start": null,
+              "rebuttal_end": null,
+              "notification": null,
+              "final_version": null,
+              "cfp": "https://icalp.uj.edu.pl/track-b/",
+              "submission_link": null,
+              "page_limit": "No page limit (Track B guidelines); first 10 pages after the title page are the core",
+              "notes": "All dates (submissions, rebuttal, notification, camera-ready, early registration) listed as TBA on the official site. EATCS lists the second Track B deadline as 'February 2027 (date to be decided)'. A paper may be submitted to only one of the two Track B rounds."
             }
           ],
           "source": "https://icalp.uj.edu.pl/track-b/",
           "confidence": "high",
-          "notes": "54th EATCS ICALP, hosted by Jagiellonian University, Kraków, 5–9 July 2027 (workshops Sunday 4 July 2027; workshop CFP to be issued in fall). Track B uses a two-round process for the first time; Track A has a single round. Re-checked the official site on 2026-10-04: Track B round 1 (15 Sep 2026 AoE, rebuttal 5–9 Nov 2026, notification 8 Dec 2026) has closed, and the upcoming Track A / Track B round 2 deadlines are still TBA officially — EATCS (eatcs.org/index.php/future-icalps) gives 'February 2027 (to be decided)' for both; aggregators citing 3 or 6 February 2027 are unverified guesses. Track A PC membership otherwise still TBA.",
-          "last_checked": "2026-10-04",
+          "notes": "54th EATCS ICALP, hosted by Jagiellonian University, Kraków, 5–9 July 2027 (workshops Sunday 4 July 2027; workshop CFP to be issued in the fall). Track B uses a two-round process for the first time; Track A has a single round. Re-checked the official site on 2026-10-07: Track B round 1 (15 Sep 2026 AoE, rebuttal 5–9 Nov 2026, notification 8 Dec 2026) has closed, and the upcoming Track A / Track B round 2 deadlines are still TBA officially — EATCS (eatcs.org/index.php/future-icalps) gives 'February 2027 (to be decided)' for both; no Track A CFP page or HotCRP site exists yet. No upcoming submission deadline is therefore officially announced.",
+          "last_checked": "2026-10-07",
           "link": "https://icalp.uj.edu.pl/home/"
         }
       ]
@@ -1184,7 +1255,7 @@
       "name": "International Conference on Software Engineering",
       "category": "SE & security",
       "homepage": "https://www.icse-conferences.org/",
-      "last_checked": "2026-10-04",
+      "last_checked": "2026-10-07",
       "editions": [
         {
           "year": 2027,
@@ -1201,10 +1272,10 @@
               "cfp": "https://conf.researchr.org/track/icse-2027/icse-2027-research-track",
               "submission_link": "https://icse2027-research.hotcrp.com/",
               "page_limit": "10 pages IEEE conference format for main text (incl. figures/tables/appendices) + 2 pages of references; accepted papers get 1 extra page",
-              "notes": "Single submission cycle (ICSE 2027 moved from two cycles to one). Mandatory abstract 23 Jun 2026; author response period 3 days 23-25 Sep 2026; revision (major revision) due 17 Nov 2026; camera-ready of directly accepted papers 24 Nov 2026; final decision on major revisions 18 Dec 2026; camera-ready of accepted major-revision papers 25 Jan 2027. All times 23:59:59 AoE. Submissions are now closed (HotCRP shows 'Submissions are currently closed')."
+              "notes": "Single submission cycle (ICSE moved from two cycles to one starting ICSE 2027). Mandatory abstract 23 Jun 2026; author response 23-25 Sep 2026; major-revision resubmission 17 Nov 2026; camera-ready of directly accepted papers 24 Nov 2026; final decision on major revisions 18 Dec 2026; camera-ready of accepted major-revision papers 25 Jan 2027. All times 23:59:59 AoE. Re-checked 2026-10-07: HotCRP (icse2027-research.hotcrp.com) still shows 'Submissions are currently closed', so the submission deadline has passed; the remaining upcoming milestones are notification 2026-10-20, revision 2026-11-17, camera-ready 2026-11-24, major-revision decisions 2026-12-18 and final camera-ready 2027-01-25."
             }
           ],
-          "last_checked": "2026-10-04",
+          "last_checked": "2026-10-07",
           "link": "https://conf.researchr.org/home/icse-2027",
           "cfp": "https://conf.researchr.org/track/icse-2027/icse-2027-research-track",
           "location": "Dublin, Ireland",
@@ -1222,7 +1293,7 @@
           ],
           "source": "https://conf.researchr.org/track/icse-2027/icse-2027-research-track",
           "confidence": "high",
-          "notes": "ICSE 2027 (49th edition), Sun 25 Apr - Sat 1 May 2027, Convention Centre Dublin; core conference days Wed 28 Apr - Fri 30 Apr. Its single research-track submission deadline (30 Jun 2026) has already passed as of 2026-10-04, and no ICSE 2028 site/CFP exists yet on conf.researchr.org (icse-2028 access denied), so ICSE 2027 is the most recently announced edition; its remaining upcoming dates are notification 2026-10-20, revision 2026-11-17, camera-ready 2026-11-24, final major-revision decisions 2026-12-18 and camera-ready 2027-01-25. PC chairs confirmed via the official HotCRP PC list (icse2027-research.hotcrp.com/users/pc) and the ICSE 2027 'Call for PC Members' announcement naming Dongmei Zhang and Andrea Zisman as Research Track programme chairs."
+          "notes": "ICSE 2027 (49th edition), Sun 25 Apr - Sat 1 May 2027, Convention Centre Dublin; core days Wed 28 - Fri 30 Apr 2027. Its single research-track deadline (30 Jun 2026) has passed, and no newer edition has an announced submission deadline: conf.researchr.org lists no ICSE 2028 edition (https://conf.researchr.org/home/icse-2028 returns 'Access denied'), the ICSE SC news page (icse-conferences.org/news.html) only announces ICSE 2028 PC chairs (Yuanfang Cai, Drexel University; Lars Grunske, Humboldt-Universitaet zu Berlin) and ICSE 2029 = Tokyo, and aggregator se-deadlines.github.io (updated 20 Sep 2026) still lists only ICSE 2027. ICSE 2028 (50th) is planned for 30 Apr - 6 May 2028 at Hilton Waikoloa Village, Hawaii (IEEE record 64707), whose IEEE proposal form mentions only planning-stage dates (abstract 2027-07-26, full paper 2027-08-01, notification 2027-11-01) - not an official CFP, so it is not reported here. Hence ICSE 2027 is reported as the most recently announced edition."
         }
       ]
     },
@@ -1416,7 +1487,7 @@
       "name": "Logic in Computer Science",
       "category": "Logic & theory",
       "homepage": "https://lics.siglog.org/",
-      "last_checked": "2026-10-04",
+      "last_checked": "2026-10-07",
       "editions": [
         {
           "year": 2027,
@@ -1428,11 +1499,11 @@
           "pc_chairs": [
             {
               "name": "Pablo Barceló",
-              "affiliation": "Pontificia Universidad Católica de Chile, Chile"
+              "affiliation": null
             },
             {
               "name": "Alexandra Silva",
-              "affiliation": "Cornell University, USA"
+              "affiliation": null
             }
           ],
           "rounds": [
@@ -1447,13 +1518,13 @@
               "cfp": null,
               "submission_link": null,
               "page_limit": null,
-              "notes": "Call for papers not yet published as of 2026-10-04. Official LICS 2027 site (lics.siglog.org/lics27/index.php) states only 'Further information will appear here in due course.' No abstract/paper deadline, rebuttal period, notification date, submission system or page limit announced. LICS is a single-cycle symposium; no dates extrapolated from LICS 2026."
+              "notes": "Call for papers not yet published (verified 2026-10-07). Official LICS 2027 site (lics.siglog.org/lics27/index.php) states only 'Further information will appear here in due course.' Candidate CFP URLs lics27/cfp.php, lics27/call-for-papers.php return 404. No abstract/paper deadline, rebuttal period, notification date, submission system or page limit announced. LICS is a single-cycle symposium; no dates extrapolated from LICS 2026."
             }
           ],
           "source": "https://lics.siglog.org/lics27/index.php",
           "confidence": "high",
-          "notes": "LICS 2027 (42nd Annual Symposium on Logic in Computer Science) is the next edition: Montreal, Canada, 21-24 June 2027, with workshops 19-20 June 2027; standalone event (LICS 2026 was held in Lisbon as part of FLoC 2026, 20-23 July 2026). Verified 2026-10-04: official site publishes no CFP (lics27/cfp.php, call.php, submissions.php all return 404) and no deadlines; LICS home page (last modified 21 Jul 2026) confirms Montreal as the next edition. Secondary source pl-conferences.com (updated 2026-09-28) also states 'The call for papers has not been published yet'; CCFDDL likewise lists 'paper deadline not listed'. Site lists Programme Chairs Pablo Barceló and Alexandra Silva (affiliations taken from their institutional pages, not shown on the LICS site) and Local Organizer Ryan Kavanagh. All deadline fields are null rather than guessed.",
-          "last_checked": "2026-10-04"
+          "notes": "LICS 2027 (42nd Annual ACM/IEEE Symposium on Logic in Computer Science) is the next edition: Montreal, Canada, 21-24 June 2027, with workshops 19-20 June 2027; standalone event (LICS 2026 was held in Lisbon as part of FLoC 2026, 20-23 July 2026). Re-verified 2026-10-07: the official site still contains no CFP and no deadlines (lics27/cfp.php and lics27/call-for-papers.php return HTTP 404); the LICS home page (last modified 21 Jul 2026) confirms Montreal as the next edition. Secondary sources agree: pl-conferences.com (updated 2026-09-28) states 'The call for papers has not been published yet', and CCFDDL lists 'paper deadline not listed'. Site lists Programme Chairs Pablo Barceló and Alexandra Silva (affiliations not given on the official site, so reported as null) and Local Organizer Ryan Kavanagh (McGill, Montreal). All deadline fields are null rather than guessed; LICS deadlines are typically announced in autumn/winter preceding the symposium, so the CFP is expected to appear soon.",
+          "last_checked": "2026-10-07"
         }
       ]
     },
