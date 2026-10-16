@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "categories": [
     "Formal methods",
     "Programming languages",
@@ -337,7 +337,7 @@
       "name": "ACM Conference on Computer and Communications Security",
       "category": "SE & security",
       "homepage": "https://www.sigsac.org/ccs.html",
-      "last_checked": "2026-10-13",
+      "last_checked": "2026-10-16",
       "editions": [
         {
           "year": 2027,
@@ -354,7 +354,7 @@
               "cfp": "https://www.sigsac.org/ccs/CCS2027/cfp.html",
               "submission_link": "https://hotcrp.sigsac.org/ccs2027cyclea",
               "page_limit": "12 pages ACM sigconf double-column format, excluding bibliography, appendices and supplementary material",
-              "notes": "Abstract/title/track/track-justification registration one week before the submission deadline (mandatory, definitive); author list frozen at submission; max 7 papers per author per cycle; Open Science appendix required; all deadlines 11:59 PM AoE (UTC-12)."
+              "notes": "Abstract/title/track/track-justification registration one week before the submission deadline (mandatory, definitive); author list frozen at submission; max 7 papers per cycle; Open Science appendix required; all deadlines 11:59 PM AoE (UTC-12)."
             },
             {
               "name": "Cycle B",
@@ -393,7 +393,7 @@
           "source": "https://www.sigsac.org/ccs/CCS2027/cfp.html",
           "confidence": "medium",
           "notes": "34th ACM CCS, Oct 11-15 2027, Atlanta, USA (Georgia Tech campus). Two review cycles; all deadlines 11:59 PM AoE (UTC-12); 12-page sigconf limit excl. bibliography/appendices/supplementary; max 7 papers per author per cycle; Open Science appendix mandatory. Verified directly on the official CFP page (two-cycle structure, AoE deadlines, 12-page limit, Cycle B artifact uploading deadline May 2 AoE with 3-day grace period) and on https://www.sigsac.org/ccs/CCS2027/ (dates/location). The CFP's 'Important Dates' and 'Submission site' sections sit beyond the fetch length limit, so the exact per-cycle dates and HotCRP URLs are carried over from the previously recorded snapshot and cross-checked only indirectly (Cycle B Apr 28 submission + May 2 artifact deadline matches the CFP text); confidence therefore medium. Program Co-Chairs/Track Chairs are still 'TBD' on the CFP page; the official committee page lists Zhiqiang Lin (Ohio State) and Lorenzo Cavallaro (UCL) as Program Chairs. Camera-ready dates not announced. Workshop proposals (not a main-track cycle, so not listed as a round) are due 2027-03-20 AoE per https://www.sigsac.org/ccs/CCS2027/call-for-workshops.html. CCS 2026 (The Hague, Nov 15-19 2026) is the current edition but both of its cycles closed (2026-01-14 and 2026-04-29), so CCS 2027 is the next edition with an upcoming submission deadline.",
-          "last_checked": "2026-10-13",
+          "last_checked": "2026-10-16",
           "pc_chairs": [
             {
               "name": "Zhiqiang Lin",
@@ -457,7 +457,7 @@
       "name": "International Conference on Concurrency Theory",
       "category": "Logic & theory",
       "homepage": null,
-      "last_checked": "2026-10-13",
+      "last_checked": "2026-10-16",
       "editions": [
         {
           "year": 2027,
@@ -474,7 +474,7 @@
               "submission_link": null,
               "page_limit": null,
               "timezone": null,
-              "notes": "No CFP yet (re-checked 2026-10-10): CONCUR 2027 is announced only as a save-the-date. No official edition website exists — concur2027.org / conqest2027.org do not resolve, and concur2027.github.io, conqest2027.github.io, conqest-2027.github.io, confest2027.github.io and confest-2027.github.io all return 404. The official CONCUR series page https://concurrency-theory.org/events/concur/ still lists editions only up to CONCUR 2026 (Liverpool). All abstract/submission/rebuttal/notification/camera-ready dates, submission link and page limit are therefore unknown; expect the CFP in late 2026 / early 2027 (recent editions had April deadlines). For reference only (NOT 2027 dates): CONCUR 2026 (37th, Liverpool, 1–4 Sep 2026, part of CONFEST 2026) had abstracts 2026-04-20, submissions 2026-04-27 AoE, rebuttal 2026-06-01/03, notification 2026-06-15, camera-ready 2026-06-29, 15 pages LIPIcs excl. references/appendices (https://confest-2026.github.io/concur/)."
+              "notes": "No CFP yet (re-checked 2026-10-16): CONCUR 2027 (38th) exists only as a save-the-date. The official CONCUR series page https://concurrency-theory.org/events/concur/ still lists editions only up to CONCUR 2026 (Liverpool); no 2027 entry and no news/announcement page. No edition website resolves: concur2027.org, conqest2027.org, confest2027.org, concur2027.it, conqest2027.eu all fail DNS, and concur2027.github.io, conqest2027.github.io, conqest-2027.github.io, confest2027.github.io return HTTP 404. WikiCFP lists no CONCUR 2027 CFP ('Future: Post a CFP for 2027 or later'). All abstract/submission/rebuttal/notification/camera-ready dates, submission link and page limit are therefore unknown; expect the CFP in late 2026 / early 2027 (recent editions had April deadlines). For reference only (NOT 2027 dates): CONCUR 2026 (37th, Liverpool, 1-4 Sep 2026, part of CONFEST 2026) had abstracts 2026-04-20, submissions 2026-04-27 AoE, rebuttal 2026-06-01/03, notification 2026-06-15, camera-ready 2026-06-29, 15 pages LIPIcs excl. references/appendices (https://confest-2026.github.io/concur/)."
             }
           ],
           "source": "https://www.cs.vu.nl/~wanf/profactivities.html",
@@ -484,8 +484,8 @@
           "conference_end": "2027-09-10",
           "link": null,
           "cfp": null,
-          "notes": "CONCUR 2027 (38th in the series) is the next edition with an upcoming deadline; CONCUR 2026 (Liverpool, 1–4 Sep 2026) has already been held. The edition is announced only as a save-the-date: 6–10 September 2027, Lucca, Italy, as part of the joint event 'CONQEST 2027' (CONCUR + QEST + FORMATS). Confirmed again today on the page of the CONCUR Steering Committee chair (Wan Fokkink, VU Amsterdam): 'The CONCUR 2027 conference will take place in Lucca in Italy, 6-10 September 2027, as part of CONQEST 2027'. Openresearch lists the same dates/location (with General Chair Patricia Bouyer and PC Chair Jaco van de Pol per earlier reports), but that page is behind a bot check (Anubis) and could not be fetched, so PC chairs are reported as null. No official edition website or call for papers exists yet, so link/cfp are null and no submission dates are known.",
-          "last_checked": "2026-10-10"
+          "notes": "CONCUR 2027 (38th in the series) is the next edition with an upcoming deadline; CONCUR 2026 (Liverpool, 1-4 Sep 2026) has already been held. Announced only as a save-the-date: 6-10 September 2027, Lucca, Italy, as part of the joint event 'CONQEST 2027' (CONCUR + QEST + FORMATS). Confirmed again today on the page of the CONCUR Steering Committee chair (Wan Fokkink, VU Amsterdam): 'The CONCUR 2027 conference will take place in Lucca in Italy, 6-10 September 2027, as part of CONQEST 2027'. Openresearch (fetched via proxy, since the site is behind an Anubis bot check) gives the same dates/location and lists General Chair Patricia Bouyer and PC Chair Jaco van de Pol, but that is a secondary source and nothing is stated on any official page, so pc_chairs is reported as null. No official edition website or call for papers exists yet, hence link/cfp are null and no submission dates are known.",
+          "last_checked": "2026-10-16"
         }
       ]
     },
@@ -777,7 +777,7 @@
       "name": "European Symposium on Programming",
       "category": "Programming languages",
       "homepage": "https://etaps.org/",
-      "last_checked": "2026-10-01",
+      "last_checked": "2026-10-16",
       "editions": [
         {
           "year": 2027,
@@ -796,8 +796,8 @@
               "notification": "2026-08-06",
               "final_version": "2027-01-25",
               "submission_link": "https://esop27.hotcrp.com/",
-              "page_limit": "No page limit at submission (LNCS, PACMPL, or TOPLAS formats); camera-ready max 25 pages LNCS excl. bibliography",
-              "notes": "Deadline already passed. Outcomes: Accept / Reject / Revise (revisions due by the Round 2 deadline, Oct 15, 2026); papers rejected in Round 1 may NOT be resubmitted to Round 2. Journal-First (TOPLAS) submissions were due before the Round 1 deadline. No mandatory artifact submission."
+              "page_limit": "No page limit at submission (LNCS, PACMPL or TOPLAS format); camera-ready research papers max 25 pages LNCS excl. bibliography (experience reports / fresh perspectives max 15 pp)",
+              "notes": "PASSED (deadline May 28, 2026, firm, no extensions). Outcomes: Accept / Reject / Revise; revisions due by the Round 2 deadline (Oct 15, 2026); Round-1 rejects may NOT be resubmitted to Round 2. TOPLAS Journal-First submissions were due before the Round 1 deadline. No mandatory artifact submission. No abstract deadline announced."
             },
             {
               "name": "Round 2",
@@ -809,20 +809,21 @@
               "notification": "2026-12-22",
               "final_version": "2027-01-25",
               "submission_link": "https://esop27.hotcrp.com/",
-              "page_limit": "No page limit at submission (LNCS, PACMPL, or TOPLAS formats); camera-ready max 25 pages LNCS excl. bibliography",
-              "notes": "UPCOMING deadline (Thursday, Oct 15, 2026; firm, no extensions). Direct Round 2 submissions are accepted or rejected only. Double-blind. Voluntary post-acceptance artifact submission Jan 11, 2027; artifact notification Feb 11, 2027 (5-page experience report optional)."
+              "page_limit": "No page limit at submission (LNCS, PACMPL or TOPLAS format); camera-ready research papers max 25 pages LNCS excl. bibliography (experience reports / fresh perspectives max 15 pp)",
+              "notes": "Deadline passed on Thu Oct 15, 2026 AoE (firm, no extensions); it was also the revision deadline for Round-1 'Revise' papers. Direct Round 2 submissions get Accept/Reject only. Double-blind. Voluntary post-acceptance artifact submission Jan 11, 2027; artifact notification Feb 11, 2027 (optional 5-page artifact experience report). Remaining ESOP 2027 milestones: rebuttal Dec 7-9, 2026; notification Dec 22, 2026; camera-ready Jan 25, 2027; conference Apr 12-15, 2027."
             }
           ],
           "source": "https://etaps.org/2027/conferences/esop/",
           "confidence": "high",
-          "notes": "ESOP 2027 (36th ESOP, per official page) is part of ETAPS 2027 (30th edition), Copenhagen, Denmark, April 10-15, 2027 (satellite events Apr 10-11; main conferences Apr 12-15), hosted by University of Copenhagen, IT University of Copenhagen and Aalborg University. All dates are AoE and stated as firm (no extensions). ESOP-specific call: https://etaps.org/2027/esop (redirects to https://etaps.org/2027/conferences/esop/); joint CFP: https://etaps.org/2027/cfp. Single PC chair (Azalea Raad). No abstract deadline is mentioned. Submission via HotCRP (esop27.hotcrp.com).",
-          "last_checked": "2026-10-01",
+          "notes": "ESOP 2027 = 36th European Symposium on Programming, held within ETAPS 2027 (30th edition), Copenhagen, Denmark, Apr 10-15, 2027 (satellite events Apr 10-11; main conferences Apr 12-15), hosted by University of Copenhagen, IT University of Copenhagen and Aalborg University. All dates AoE and stated as firm (no extensions). ESOP-specific call: https://etaps.org/2027/esop (-> https://etaps.org/2027/conferences/esop/); joint ETAPS CFP: https://etaps.org/2027/cfp. Single PC chair (Azalea Raad). No abstract deadline is mentioned. Submissions via HotCRP (esop27.hotcrp.com). STATUS as of 2026-10-16: both Round 1 (May 28, 2026) and Round 2 (Oct 15, 2026) submission deadlines have passed, so no ESOP submission deadline is currently upcoming; this is therefore the most recently announced edition. The next edition, ESOP 2028 (ETAPS 2028, Karlsruhe, Germany, April 2-7, 2028, organised by Karlsruhe Institute of Technology), has no CFP, dates, or PC chairs announced yet (https://etaps.org/2028/ is a placeholder page; https://etaps.org/2028/esop returns 404).",
+          "last_checked": "2026-10-16",
           "pc_chairs": [
             {
               "name": "Azalea Raad",
-              "affiliation": "Imperial College London"
+              "affiliation": "Imperial College London, UK"
             }
-          ]
+          ],
+          "link": "https://etaps.org/2027/conferences/esop/"
         }
       ]
     },
@@ -915,7 +916,7 @@
       "name": "Foundations of Software Science and Computation Structures",
       "category": "Logic & theory",
       "homepage": "https://etaps.org/",
-      "last_checked": "2026-10-01",
+      "last_checked": "2026-10-16",
       "editions": [
         {
           "year": 2027,
@@ -932,10 +933,10 @@
               "cfp": "https://etaps.org/2027/cfp/",
               "submission_link": "https://easychair.org/conferences/?conf=fossacs2027",
               "page_limit": "max 18 pages LNCS format, excluding bibliography",
-              "notes": "Single-cycle conference. Double-blind reviewing with author rebuttal phase. Voluntary artifact submission: 2027-01-11; artifact notification: 2027-02-11 (does not affect acceptance). All ETAPS dates are AoE and firm."
+              "notes": "Single-cycle conference; double-blind reviewing with author rebuttal phase (Dec 7-9, 2026). Voluntary artifact submission 2027-01-11, artifact notification 2027-02-11 (does not affect acceptance). All dates AoE; deadlines stated as firm and will not be extended. Submission deadline has now passed (today 2026-10-16)."
             }
           ],
-          "last_checked": "2026-10-01",
+          "last_checked": "2026-10-16",
           "link": "https://etaps.org/2027/",
           "cfp": "https://etaps.org/2027/cfp/",
           "conference_start": "2027-04-12",
@@ -952,7 +953,7 @@
           ],
           "source": "https://etaps.org/2027/cfp/",
           "confidence": "high",
-          "notes": "FoSSaCS 2027 = 29th International Conference on Foundations of Software Science and Computation Structures, held within ETAPS 2027 (30th ETAPS, Copenhagen, Denmark, 10-15 April 2027; satellite events 10-11 April, main conferences 12-15 April). Proceedings in Springer LNCS/ARCoSS (gold open access)."
+          "notes": "FoSSaCS 2027 = 29th International Conference on Foundations of Software Science and Computation Structures, within ETAPS 2027 (30th ETAPS), Copenhagen, Denmark, 10-15 April 2027 (satellite events 10-11 April; main conferences 12-15 April). Proceedings: Springer LNCS/ARCoSS, gold open access. Since the FoSSaCS 2027 submission deadline (15 Oct 2026 AoE) has just passed and the next edition's CFP is not yet announced, this is the most recently announced edition: ETAPS 2028 (FoSSaCS 2028) will be held 2-7 April 2028 in Karlsruhe, Germany (organized by KIT), but its page https://etaps.org/2028/ carries no CFP or submission dates yet (https://etaps.org/2028/cfp/ returns 404)."
         }
       ]
     },
@@ -1328,7 +1329,7 @@
       "name": "Integrated Formal Methods",
       "category": "Formal methods",
       "homepage": null,
-      "last_checked": "2026-10-01",
+      "last_checked": "2026-10-16",
       "editions": [
         {
           "year": 2027,
@@ -1341,11 +1342,11 @@
               "final_version": "2027-01-25",
               "cfp": "https://etaps.org/2027/ifs",
               "submission_link": "https://easychair.org/conferences/?conf=ifs27",
-              "page_limit": "Long papers: 16 pages + 2 pages of references (LNCS format); short papers: 8 pages + 1-2 pages of references; optional appendix up to 6 pages for some categories",
+              "page_limit": "Long papers: 16 pages + up to 2 pages of references; short papers: 8 pages + up to 2 pages of references (LNCS format, limits exclude bibliography); optional appendix up to 6 pages for some categories",
               "abstract_deadline": null,
               "rebuttal_start": null,
               "rebuttal_end": null,
-              "notes": "Successor of iFM (merged with FASE). No abstract deadline and no author-rebuttal phase for iFS (rebuttal applies only to ESOP, FoSSaCS, TACAS). Voluntary artifact submission 2027-01-11, artifact notification 2027-02-11. Deadlines are firm."
+              "notes": "iFS'27 (successor of iFM, merged with FASE). No abstract deadline and no author-rebuttal phase (rebuttal only for ESOP, FoSSaCS, TACAS). Voluntary artifact submission 2027-01-11, artifact notification 2027-02-11. Deadlines stated as firm ('will not be extended'). Double-blind for regular research papers. NOTE: the 15 Oct 2026 AoE submission deadline closed on the day before today (2026-10-16); no later edition has announced deadlines yet."
             }
           ],
           "link": "https://etaps.org/2027/",
@@ -1365,8 +1366,8 @@
           ],
           "source": "https://etaps.org/2027/cfp",
           "confidence": "high",
-          "notes": "iFM 2025 (Paris) was the last standalone iFM; per the official iFM site the series merged with FASE into the new ETAPS conference iFS (Foundations and Formal Methods for Software and Systems), first edition at ETAPS 2027, Copenhagen, Denmark. ETAPS 2027 runs 10-15 April 2027 (satellite events 10-11 April; main conferences 12-15 April). iFS submission deadline 15 Oct 2026 AoE, notification 22 Dec 2026, camera-ready 25 Jan 2027; double-blind for regular research papers; proceedings in Springer LNCS ARCoSS.",
-          "last_checked": "2026-10-01"
+          "notes": "The standalone iFM series ended with iFM 2025 (20th edition, Paris, 19-21 Nov 2025); per the official iFM site (ifmconference.org) it merged with FASE into the new ETAPS conference iFS (Foundations and Formal Methods for Software and Systems), first edition at ETAPS 2027 in Copenhagen (satellite events 10-11 April, main conferences 12-15 April 2027; proceedings Springer LNCS ARCoSS, gold open access). Since the iFS 2027 submission deadline (15 Oct 2026 AoE) passed yesterday and the next edition (iFS 2028 at ETAPS 2028, Karlsruhe, Germany, 2-7 April 2028) has no CFP or dates announced yet, iFS 2027 is the most recently announced edition. Re-checked on the official ETAPS 2027 joint CFP and iFS pages on 2026-10-16; dates unchanged.",
+          "last_checked": "2026-10-16"
         }
       ]
     },
@@ -2036,7 +2037,7 @@
       "name": "Principles of Programming Languages",
       "category": "Programming languages",
       "homepage": "https://www.sigplan.org/Conferences/POPL/",
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-16",
       "editions": [
         {
           "year": 2027,
@@ -2064,13 +2065,13 @@
               "cfp": "https://popl27.sigplan.org/track/POPL-2027-popl-research-papers#call-POPL-2027-Call-for-Papers",
               "submission_link": "https://popl27.hotcrp.com/",
               "page_limit": "25 pages of text excluding bibliography, PACMPL format (acmart LaTeX class, acmsmall option)",
-              "notes": "Single submission cycle; CFP states explicitly 'There is no abstract deadline'. Paper submission 11:59 PM 9 Jul 2026 AoE (passed). Author response period Mon 7 - Thu 10 Sep 2026, optional (passed). 'POPL Author notification' Mon 5 Oct 2026 = conditional-acceptance decisions (passed). Remaining official POPL-track milestones: revision deadline Mon 26 Oct 2026, final acceptance notification Mon 9 Nov 2026, camera-ready Fri 20 Nov 2026."
+              "notes": "Single submission cycle; CFP states explicitly 'There is no abstract deadline'. Paper submission 11:59 PM 9 Jul 2026 AoE (passed). Author response period Mon 7 - Thu 10 Sep 2026, optional (passed). 'POPL Author notification' Mon 5 Oct 2026 = conditional-acceptance decisions (passed). Remaining official POPL-track milestones per popl27.sigplan.org/dates: revision deadline Mon 26 Oct 2026, final acceptance notification Mon 9 Nov 2026, camera-ready deadline Fri 20 Nov 2026."
             }
           ],
           "source": "https://popl27.sigplan.org/dates",
           "confidence": "high",
-          "notes": "POPL 2027 (54th ACM SIGPLAN Symposium), Hilton Mexico City Reforma, 10-16 Jan 2027. Re-checked 12 Oct 2026: no POPL 2028 edition is announced — popl28.sigplan.org does not resolve (http and https both time out), conf.researchr.org/home/POPL-2028 returns 404, the official POPL series page (popl27.sigplan.org/series/POPL) still lists POPL 2027 as the latest edition, sigplan.org/Conferences/POPL is behind a bot-verification wall but search snippets show no future edition, and only aggregator stubs exist for 2028 ('Deadline: TBD | Date: TBD | Place: TBD'). Since POPL 2027's only paper deadline (9 Jul 2026 AoE) has passed, POPL 2027 is reported as the most recently announced edition; its upcoming milestones are revision deadline 26 Oct 2026, final acceptance notification 9 Nov 2026, camera-ready 20 Nov 2026. Based on the POPL 2026/2027 pattern, the POPL 2028 call (deadline ~July 2027) is expected to be announced in spring/summer 2027. The main track lists a single Program Chair (Sharon Shoham) plus six Associate Chairs who are PC members assisting her, so only Shoham is reported as chair.",
-          "last_checked": "2026-10-12"
+          "notes": "POPL 2027 (54th ACM SIGPLAN Symposium), Hilton Mexico City Reforma, 10-16 Jan 2027. Re-checked 16 Oct 2026: POPL 2028 is still not announced — popl28.sigplan.org does not resolve (http and https both time out), conf.researchr.org/home/POPL-2028 returns 404, the official POPL series page (popl27.sigplan.org/series/POPL) still lists POPL 2027 as the latest edition, sigplan.org/Conferences/POPL (page regenerated 8 Oct 2026) lists no future edition, and only aggregator stubs exist for 2028 ('Deadline: TBD | Date: TBD | Place: TBD'; one deadline list shows only an 'expected early Jul 2027' guess). Since POPL 2027's only paper deadline (9 Jul 2026 AoE) has passed, POPL 2027 is reported as the most recently announced edition; its upcoming milestones are revision deadline 26 Oct 2026, final acceptance notification 9 Nov 2026, camera-ready 20 Nov 2026. Based on the POPL 2026/2027 pattern, the POPL 2028 call (deadline ~July 2027) is expected to be announced in spring/summer 2027. The main track lists a single Program Chair (Sharon Shoham) plus six Associate Chairs who are PC members assisting her, so only Shoham is reported as chair.",
+          "last_checked": "2026-10-16"
         }
       ]
     },
@@ -2163,7 +2164,7 @@
       "name": "Static Analysis Symposium",
       "category": "Formal methods",
       "homepage": null,
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-16",
       "editions": [
         {
           "year": 2026,
@@ -2214,7 +2215,7 @@
               "cfp": null,
               "submission_link": null,
               "page_limit": null,
-              "notes": "No CFP, deadlines, submission site, or PC chairs announced yet for SAS 2027. The official SAS central site (staticanalysis.org, 'Next Edition') announces the 34th Static Analysis Symposium in Prague, Czechia, co-located with SPLASH 2027, and links to https://2027.splashcon.org/home/sas-2027, which currently returns 404 (as do conf.researchr.org/home/sas-2027 and /track/sas-2027). SAS is not yet listed among SPLASH 2027 tracks (only OOPSLA and MPLR are), the SPLASH 2027 'Important Dates' page lists no SAS entries, and no HotCRP site exists (sas27.hotcrp.com -> 404). Based on recent editions a single spring-2027 LNCS round is expected, but no dates are officially stated."
+              "notes": "No CFP, deadlines, submission site, or PC chairs announced yet for SAS 2027 (34th edition). The official SAS central site (staticanalysis.org, 'Next Edition') announces the 34th Static Analysis Symposium in Prague, Czechia, co-located with SPLASH 2027, and links to https://2027.splashcon.org/home/sas-2027, which as of 2026-10-16 still returns 404 ('there is no homepage configured for Static Analysis Symposium 2027'); conf.researchr.org/track/splash-2027/sas-2027 and /track/sas-2027 are also 404. SAS is not yet listed among SPLASH 2027 tracks (only OOPSLA and MPLR are), the SPLASH 2027 'Important Dates' page (https://2027.splashcon.org/dates) lists no SAS entries (only OOPSLA rounds and MPLR), the SPLASH 2027 organizing committee lists no SAS PC/organizing chairs, no HotCRP site exists (sas27.hotcrp.com -> 404), and the conf.researchr.org SAS series page still shows SAS 2026 as the latest edition. Based on recent editions a single spring LNCS round (submission ~May, conference in October) is expected, but no dates are officially stated, so all fields are null."
             }
           ],
           "source": "https://www.staticanalysis.org/",
@@ -2224,8 +2225,8 @@
           "conference_start": "2027-10-10",
           "conference_end": "2027-10-15",
           "link": "https://2027.splashcon.org",
-          "notes": "SAS 2027 = 34th Static Analysis Symposium, announced as the 'Next Edition' on the official SAS central site (staticanalysis.org) as held in Prague, Czechia, co-located with SPLASH 2027. The reported conference dates (2027-10-10 to 2027-10-15) are the SPLASH 2027 dates at the Diplomat Hotel Prague from https://2027.splashcon.org; SAS's own session days within that week are not published. As of 2026-10-12 there is no SAS 2027 CFP, no HotCRP/EasyChair submission site, no PC chair announcement (SPLASH 2027's organizing committee lists only general/web/OOPSLA chairs), and no SAS entry on the SPLASH 2027 Important Dates page, so all submission-related fields are null. The previous edition, SAS 2026 (33rd; Oakland, CA, USA, Oct 6-8, 2026, co-located with SPLASH/ISSTA 2026; PC chairs Sebastien Bardin and Aditya V. Thakur; HotCRP sas26.hotcrp.com; submission deadline 2026-05-07 AoE; LNCS 16977), has already been held, so it is not the upcoming edition.",
-          "last_checked": "2026-10-12"
+          "notes": "SAS 2027 = 34th Static Analysis Symposium, announced as the 'Next Edition' on the official SAS central site (staticanalysis.org) as held in Prague, Czechia, co-located with SPLASH 2027. The reported conference dates (2027-10-10 to 2027-10-15) are the SPLASH 2027 dates at the Diplomat Hotel Prague from https://2027.splashcon.org; SAS's own session days within that week are not published. As of 2026-10-16 there is no SAS 2027 CFP, no HotCRP/EasyChair submission site, no PC chair announcement, and no SAS entry on the SPLASH 2027 Important Dates page, so all submission-related fields are null. The previous edition, SAS 2026 (33rd; Oakland, CA, USA, Oct 6-8, 2026, co-located with SPLASH/ISSTA 2026; PC chairs Sebastien Bardin and Aditya V. Thakur; HotCRP sas26.hotcrp.com; submission deadline 2026-05-07 AoE; LNCS), has already been held, so it is not the upcoming edition. No SAS edition with an upcoming submission deadline is currently announced.",
+          "last_checked": "2026-10-16"
         }
       ]
     },
@@ -2428,7 +2429,7 @@
       "name": "Symposium on Theoretical Aspects of Computer Science",
       "category": "Logic & theory",
       "homepage": null,
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-16",
       "editions": [
         {
           "year": 2027,
@@ -2445,7 +2446,7 @@
               "cfp": "https://events.gwdg.de/event/1460/page/476-submissions",
               "submission_link": "https://easychair.org/conferences/?conf=stacs2027",
               "page_limit": "At most 15 pages in LIPIcs format, excluding title page, references and appendix (extended abstract or full paper)",
-              "notes": "Single submission cycle; two tracks (A: algorithms/data structures/complexity; B: automata/logic/semantics/theory of programming) share the same deadline. Lightweight double-blind; rebuttals via EasyChair. Official 'Important Dates' (all AoE, UTC-12:00): paper submission October 11, 23:59; Rebuttal November 30 - December 2; Notification December 22; Final Version TBA; Early Bird Registration TBA. No abstract deadline announced. Note: original CFP said 11 September 2026; the official site now shows 11 October 2026 (extended). As of 2026-10-12 this deadline is at/just past the AoE cutoff (11 Oct 23:59 AoE = 12 Oct 11:59 UTC)."
+              "notes": "Single submission cycle; two tracks (A: algorithms/data structures/complexity; B: automata/logic/semantics/theory of programming) share the same deadline. Lightweight double-blind; rebuttals via EasyChair. Official 'Important Dates' (all AoE, UTC-12:00): paper submission October 11, 23:59; Rebuttal November 30 - December 2; Notification December 22; Final Version TBA; Early Bird Registration TBA. No abstract deadline announced. As of today (2026-10-16) the paper submission deadline has passed; rebuttal and notification dates are still upcoming."
             }
           ],
           "location": "Göttingen, Germany",
@@ -2473,8 +2474,8 @@
           ],
           "source": "https://events.gwdg.de/event/1460/overview (official STACS 2027 Indico site; mirrors https://stacs2027.uni-goettingen.de/)",
           "confidence": "high",
-          "notes": "44th International Symposium on Theoretical Aspects of Computer Science (STACS 2027), Alte Mensa, Wilhelmsplatz 3, Göttingen, 8-12 March 2027; proceedings in LIPIcs. Dates read directly from the official Overview page; submission details from the Submissions page (which serves as the CFP - there is no separate CFP page); PC co-chairs from the Program Committees page and cross-checked with https://www.stacs-conf.org/. STACS 2028 is NOT yet announced: the STACS series site still lists STACS 2027 as the 'Next Conference', and no STACS 2028 venue/CFP could be found (the SC decides venues right after each STACS), so STACS 2027 is reported as the most recently announced edition.",
-          "last_checked": "2026-10-12"
+          "notes": "44th International Symposium on Theoretical Aspects of Computer Science (STACS 2027), Alte Mensa, Wilhelmsplatz 3, Göttingen, 8-12 March 2027; proceedings in LIPIcs. Dates read directly from the official Overview page; submission details from the Submissions page (which serves as the CFP - there is no separate CFP page); PC co-chairs from the Program Committees page and cross-checked with https://www.stacs-conf.org/. STACS 2028 is NOT yet announced: the STACS series site (stacs-conf.org / stacs.irif.fr) still lists STACS 2027 as the 'Next Conference', its past-conferences list stops at STACS 2026, and no STACS 2028 venue/CFP could be found. Since the STACS 2027 submission deadline (11 Oct 2026 AoE) has just passed and no later edition is announced, STACS 2027 is reported as the most recently announced edition.",
+          "last_checked": "2026-10-16"
         }
       ]
     },
@@ -2484,7 +2485,7 @@
       "name": "Tools and Algorithms for the Construction and Analysis of Systems",
       "category": "Formal methods",
       "homepage": "https://etaps.org/",
-      "last_checked": "2026-10-01",
+      "last_checked": "2026-10-16",
       "editions": [
         {
           "year": 2027,
@@ -2516,13 +2517,13 @@
               "cfp": "https://etaps.org/2027/cfp/",
               "submission_link": "https://easychair.org/conferences/?conf=tacas27",
               "page_limit": "18 pages LNCS excl. references (+ optional appendix) for research/case-study/regular tool papers; 6 pages (+ optional appendix) for tool demonstration papers",
-              "notes": "No abstract deadline stated; deadlines firm. Mandatory artifact submission for tool/tool-demo papers: 2026-10-29 (AoE), notification 2026-12-22. Voluntary artifact submission (research/case-study papers): 2027-01-11, notification 2027-02-11. Max 5 papers per author; double-blind for regular research papers only."
+              "notes": "No abstract deadline. Single cycle; deadlines stated as firm/strict, AoE. Mandatory artifact submission for tool and tool-demo papers: 2026-10-29 (AoE), notification 2026-12-22. Voluntary artifact submission (research/case-study papers): 2027-01-11, notification 2027-02-11. Max 5 papers per author; double-blind for regular research papers only. NOTE: this submission deadline (2026-10-15) has already passed as of 2026-10-16; it is reported because no later edition's deadline has been announced."
             }
           ],
           "source": "https://etaps.org/2027/cfp/",
           "confidence": "high",
-          "notes": "TACAS 2027 is the 33rd edition, held within ETAPS 2027 (Copenhagen, Denmark, 10-15 April 2027; main conferences 12-15 April, satellite events 10-11 April). Single submission cycle; all dates AoE and explicitly firm. Proceedings in Springer LNCS/ARCoSS.",
-          "last_checked": "2026-10-01"
+          "notes": "TACAS 2027 = 33rd edition, within ETAPS 2027 in Copenhagen, Denmark (satellite events 10-11 April, main conferences 12-15 April 2027); proceedings in Springer LNCS/ARCoSS (gold open access). Verified on the official ETAPS 2027 joint CFP and TACAS 2027 page. Its paper submission deadline (15 Oct 2026 AoE) passed one day before today, and no TACAS 2028 call exists yet: etaps.org/2028 exists only as a placeholder announcing ETAPS 2028 in Karlsruhe, Germany, 2-7 April 2028 (organised by KIT); etaps.org/2028/cfp and /2028/conferences/tacas return 404, and tacas.info lists no 2028 edition. So TACAS 2027 is the most recently announced edition; TACAS 2028 dates/PC chairs are not yet stated (submission expected around mid-October 2027 based on the ETAPS pattern, but not announced).",
+          "last_checked": "2026-10-16"
         }
       ]
     },
@@ -2648,7 +2649,7 @@
       "name": "Verification, Model Checking, and Abstract Interpretation",
       "category": "Formal methods",
       "homepage": null,
-      "last_checked": "2026-10-12",
+      "last_checked": "2026-10-16",
       "editions": [
         {
           "year": 2027,
@@ -2677,14 +2678,14 @@
               "final_version": "2026-11-20",
               "cfp": "https://conf.researchr.org/home/VMCAI-2027#call-Call-for-Papers",
               "submission_link": "https://easychair.org/conferences/?conf=vmcai2027",
-              "page_limit": "Regular papers 20 pages, tool papers 12 pages, case studies 20 pages (Springer LNCS format, references excluded; clearly marked appendices after the references are allowed and not counted)",
-              "notes": "Single submission cycle, double-blind review, Springer LNCS proceedings, EasyChair submission. Official Important Dates page lists Paper Registration Wed 23 Sep 2026 and Paper Submission Wed 30 Sep 2026 (AoE, UTC-12) — the earlier CFP/mailing-list announcements (and the EasyChair CFP entry) said September 16, 2026, i.e. the deadline was extended. Notification Fri 6 Nov 2026, camera-ready Fri 20 Nov 2026. No author-response/rebuttal period is announced for papers. Optional artifact evaluation ran in parallel with paper review (not a separate paper round): artifact registration 2026-09-25, artifact submission 2026-09-30, smoke-test notification 2026-10-07, end of artifact author response 2026-10-10, artifact notification 2026-11-06."
+              "page_limit": "Regular papers 20 pages, tool papers 12 pages, case studies 20 pages (Springer LNCS format, references excluded; clearly marked appendices after the references allowed and not counted)",
+              "notes": "Single submission cycle, double-blind review, Springer LNCS proceedings, submission via EasyChair. Official Important Dates page: Paper Registration Wed 23 Sep 2026, Paper Submission Wed 30 Sep 2026 (AoE, UTC-12; extended from the 16 Sep 2026 date in the earlier CFP/mailings), Notification Fri 6 Nov 2026, Camera Ready Fri 20 Nov 2026. No author-response/rebuttal period is announced for papers. Optional artifact evaluation ran in parallel with paper review (not a separate paper round): artifact registration 2026-09-25, artifact submission 2026-09-30, smoke-test notification 2026-10-07, end of artifact response 2026-10-10, artifact notification 2026-11-06."
             }
           ],
           "source": "https://conf.researchr.org/dates/VMCAI-2027",
           "confidence": "high",
-          "notes": "No edition with an upcoming paper submission deadline exists as of 2026-10-12. VMCAI 2027 (28th edition, 11–12 Jan 2027, Hilton Mexico City Reforma, Mexico City, co-located with POPL 2027) is the most recently announced edition; its paper deadline (2026-09-30 AoE) passed on 2026-09-30, and the artifact author-response period ended 2026-10-10. Remaining upcoming dates: notification 2026-11-06 and camera-ready 2026-11-20. The official VMCAI series page on conf.researchr.org lists VMCAI 2027 as the latest edition — no VMCAI 2028 website, CFP or announcement exists (nor an official POPL 2028 site). Dates verified on the official Important Dates page (https://conf.researchr.org/dates/VMCAI-2027); chairs (listed as 'Co-chair' on the VMCAI 2027 organizing committee page) verified on https://conf.researchr.org/committee/VMCAI-2027/VMCAI-2027-papers-organizing-committee.",
-          "last_checked": "2026-10-12"
+          "notes": "No edition with an upcoming paper submission deadline as of 2026-10-16. VMCAI 2027 (28th edition, 11-12 Jan 2027, Hilton Mexico City Reforma, Mexico City, co-located with POPL 2027) is the most recently announced edition; its paper deadline (2026-09-30 AoE) passed on 2026-09-30 and the artifact author-response period ended 2026-10-10. Remaining upcoming dates: notification 2026-11-06 and camera-ready 2026-11-20. The official VMCAI series page on conf.researchr.org (https://conf.researchr.org/series/VMCAI) still lists VMCAI 2027 as the latest edition - no VMCAI 2028 website, CFP or announcement exists. Dates verified on the official Important Dates page; chairs (listed as 'Co-chair' on the VMCAI 2027 organizing committee page, https://conf.researchr.org/committee/VMCAI-2027/VMCAI-2027-papers-organizing-committee) and page limits/track links verified on the CFP page.",
+          "last_checked": "2026-10-16"
         }
       ]
     }
