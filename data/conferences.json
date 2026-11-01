@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "categories": [
     "Formal methods",
     "Programming languages",
@@ -123,8 +123,8 @@
               "final_version": "2027-01-25",
               "cfp": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/",
               "submission_link": "https://openreview.net/group?id=ifaamas.org/AAMAS/2027/Conference",
-              "page_limit": "8 pages (AAAI/LaTeX format) plus unlimited pages of references",
-              "notes": "Author registration on OpenReview due 17 Sep 2026 (every author must have an OpenReview account); abstract (100-300 words) required one week before paper submission. All deadlines are end of day AoE (UTC-12). Rejected-but-suitable papers are considered for Findings of AAMAS 2027."
+              "page_limit": "8 pages plus unlimited pages of references (LaTeX mandatory, AAMAS/AAAI-style template)",
+              "notes": "DEADLINE PASSED as of 1 Nov 2026; review process still ongoing. Author registration on OpenReview was due 17 Sep 2026 (every author needs an OpenReview account); a 100-300 word abstract was required one week before paper submission. All deadlines end of day AoE (UTC-12). Rejected-but-suitable papers are automatically considered for Findings of AAMAS 2027 unless authors opt out."
             },
             {
               "name": "AAAI Fast Track",
@@ -134,16 +134,17 @@
               "final_version": "2027-02-11",
               "cfp": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-aaai-fast-track/",
               "submission_link": "https://openreview.net/group?id=ifaamas.org/AAMAS/2027/Conference",
-              "notes": "Separate track (not a cycle of the main track) for papers submitted to the AAAI-27 Main Technical Track that were not accepted and have all human reviewer scores >= 5. Author registration deadline 31 Mar 2027; all deadlines end of day AoE."
+              "notes": "UPCOMING deadline (11 Dec 2026, end of day AoE). Second route into the AAMAS 2027 main proceedings for papers submitted to the AAAI-27 Main Technical Track that were not accepted and received >=5 from all human reviewers. No rebuttal period (short meta-review only). Author registration deadline 31 Mar 2027. Track chairs: Pradeep Varakantham (SMU), Rym Zalila-Wenkstern (UT Dallas).",
+              "page_limit": "Revised paper must follow the AAMAS 2027 Main Technical Track requirements (8 pages + references), plus original AAAI submission, reviews, up to 2 pages of response"
             }
           ],
           "source": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/",
           "confidence": "high",
-          "notes": "AAMAS 2027 = 26th International Conference on Autonomous Agents and Multiagent Systems, 3-7 May 2027, Hanoi, Vietnam (hosted via University of Warwick). Main-track paper deadline 8 Oct 2026 is the upcoming deadline as of 2 Oct 2026. Other calls (Blue Sky Ideas, JAAMAS, Demonstrations & Competitions, Tutorials, Workshops, Doctoral Consortium) are separate tracks and are not listed as rounds. Programme (PC) chairs per official Organisation page.",
-          "last_checked": "2026-10-02"
+          "notes": "AAMAS 2027 = 26th International Conference on Autonomous Agents and Multiagent Systems, 3-7 May 2027, JW Marriott Hotel, Hanoi, Vietnam (site hosted by University of Warwick). As of 1 Nov 2026 the main-track paper deadline (8 Oct 2026) has passed, so the only upcoming main-track-proceedings submission deadline is the AAAI Fast Track (11 Dec 2026); the main track's rebuttal (20-24 Nov 2026), notification (21 Dec 2026) and camera-ready (25 Jan 2027) are still ahead. AAMAS 2028 (27th edition) has not been announced: neither the IFAAMAS site nor any search reveals a 2028 venue or CFP. Other AAMAS 2027 calls (Blue Sky Ideas 12 Nov 2026, Demonstrations 27 Dec 2026, Tutorials, Workshops, Doctoral Consortium, JAAMAS track) are separate tracks, not cycles of the main track, and are therefore not listed as rounds.",
+          "last_checked": "2026-11-01"
         }
       ],
-      "last_checked": "2026-10-02"
+      "last_checked": "2026-11-01"
     },
     {
       "id": "ase",
@@ -347,7 +348,7 @@
       "name": "ACM Conference on Computer and Communications Security",
       "category": "SE & security",
       "homepage": "https://www.sigsac.org/ccs.html",
-      "last_checked": "2026-10-28",
+      "last_checked": "2026-11-01",
       "editions": [
         {
           "year": 2027,
@@ -423,7 +424,7 @@
       "name": "Implementation and Application of Automata",
       "category": "Logic & theory",
       "homepage": null,
-      "last_checked": "2026-10-28",
+      "last_checked": "2026-11-01",
       "editions": [
         {
           "year": 2026,
@@ -479,13 +480,13 @@
               "cfp": null,
               "submission_link": null,
               "page_limit": null,
-              "notes": "No call for papers or submission dates announced yet (re-checked 2026-10-28). Only the venue (Stellenbosch Institute for Advanced Study, STIAS) and conference dates 2027-09-20/23 are public, plus the local organizer Brink van der Merwe (Stellenbosch University). There is no CIAA 2027 conference website yet (the official series site links sites for 2025 and 2026 but not 2027), no EasyChair Smart CFP (https://easychair.org/cfp/CIAA2027 returns 404), no WikiCFP entry, and PC chairs, submission system, page limit and all deadlines are not yet public."
+              "notes": "No call for papers or submission dates announced yet (re-checked 2026-11-01). Only the venue (Stellenbosch Institute for Advanced Study, STIAS) and conference dates 2027-09-20/23 are public, plus the local organizer Brink van der Merwe (Stellenbosch University). There is no CIAA 2027 conference website yet (the official series site links sites for 2025 and 2026 but not 2027), no EasyChair Smart CFP (https://easychair.org/cfp/CIAA2027 returns 404; an EasyChair CFP search for 'CIAA' lists only CIAA 2026/2024/2022), no WikiCFP entry (series page id 441 still ends at CIAA 2025), and PC chairs, submission system, page limit and all deadlines are not yet public."
             }
           ],
           "source": "https://www.informatik.uni-giessen.de/ciaa/ (official CIAA series site: 'Next · 31st edition — CIAA 2027, Stellenbosch, South Africa, September 20–23, 2027, Stellenbosch Institute for Advanced Study (STIAS), Organized by Brink van der Merwe'; first announced at the CIAA 2026 business meeting and reported in the EATCS Bulletin, https://bulletin.eatcs.org/index.php/beatcs/article/view/899)",
           "confidence": "high",
-          "notes": "CIAA 2027 (31st edition) is the next edition, but its paper submission deadline has not been announced, so it is reported as the most recently announced edition. Re-verified today (2026-10-28): the official series site lists CIAA 2027 with venue/dates only and no conference-website link; EasyChair Smart CFP for 'CIAA2027' returns 404 and no future CIAA CFP appears in EasyChair's CFP listings; WikiCFP's CIAA series page (program id 441) still shows CIAA 2025 as its most recent entry with no 2026/2027 CFP; the IFIP WG 1.02 'Future Events' and 'Related Events (future)' pages (last updated 07.01.2026, Andreas Malcher) still end with DCFS 2026 / CIAA 2026; the organizer's homepage (abvdm.pages.cs.sun.ac.za) has no CIAA 2027 page; searches for 'CIAA 2027' / '31st Implementation and Application of Automata' return only the series site and the CIAA 2026 report. The previous edition, CIAA 2026 (30th, Kingston, Ontario, Canada, 2026-08-05/08, PC chair Taylor J. Smith, St. Francis Xavier University; paper deadline extended to 2026-03-27, notification 2026-05-01, camera-ready 2026-05-08), already took place with proceedings in Springer LNCS (14 papers from 34 submissions). Historically the CIAA CFP appears in autumn/winter with paper deadlines in Feb–May (LNCS format, 12 pages excluding title page and references), so re-check in the coming months.",
-          "last_checked": "2026-10-28"
+          "notes": "CIAA 2027 (31st edition) is the next edition, but its paper submission deadline has not been announced, so it is reported as the most recently announced edition. Re-verified today (2026-11-01): the official series site lists CIAA 2027 with venue/dates only and no conference-website link; EasyChair Smart CFP for 'CIAA2027' returns 404 and an EasyChair CFP search for 'CIAA' shows only past events (CIAA 2026 deadline 2026-03-27); WikiCFP's CIAA series page (program id 441) still shows CIAA 2025 as its most recent entry; the IFIP WG 1.02 'Related Events (future)' page (last updated 07.01.2026, Andreas Malcher) still ends with CIAA 2026; the organizer's homepage (abvdm.pages.cs.sun.ac.za) has no CIAA 2027 page; searches for 'CIAA 2027' / 'ciaa2027' return only the series site, the CIAA 2026 report (EATCS Bulletin No. 150) and unrelated results (CIAA basketball fan fest). The previous edition, CIAA 2026 (30th, Kingston, Ontario, Canada, 2026-08-05/08, PC chair Taylor J. Smith, St. Francis Xavier University; paper deadline extended to 2026-03-27, notification 2026-05-01, camera-ready 2026-05-08), already took place with proceedings in Springer LNCS (14 papers from 34 submissions). Historically the CIAA CFP appears in autumn/winter with paper deadlines in Feb–May (LNCS format, 12 pages excluding title page and references), so re-check in the coming months.",
+          "last_checked": "2026-11-01"
         }
       ]
     },
@@ -609,7 +610,7 @@
       "name": "Computer Science Logic",
       "category": "Logic & theory",
       "homepage": null,
-      "last_checked": "2026-10-28",
+      "last_checked": "2026-11-01",
       "editions": [
         {
           "year": 2027,
@@ -624,7 +625,7 @@
               "cfp": "https://csl2027.github.io/index.html#call-for-papers",
               "submission_link": "https://form.sdu.dk/CSL2027/",
               "page_limit": "15 pages in LIPIcs style, excluding appendices and references",
-              "notes": "Single cycle, double-blind, LIPIcs proceedings. Official 'Important Dates' (now struck through as past): abstract 8 Jul 2026 AoE, paper 15 Jul 2026 AoE, notification 15 Oct 2026 AoE, final version 12 Nov 2026 AoE. Re-checked 2026-10-28: HotCRP says 'The deadline for registering submissions has passed' and '39 of 107 submissions accepted', so notification has gone out; camera-ready (12 Nov 2026) and the conference are still upcoming. HotCRP's deadlines page lists the enforced submission deadline as 'Wed Jul 22, 2026, 1:59:59 AM HST' (= 21 Jul 2026 23:59 AoE) and registration as 'Thu Jul 9, 2026, 1:59:59 AM HST' (= 8 Jul 2026 23:59 AoE), i.e. the paper deadline appears to have been extended past the 15 Jul shown on the site. No author-response/rebuttal period is stated in the CFP. Program and Accepted Papers pages still 'TBA'; registration TBA."
+              "notes": "Single cycle, double-blind, LIPIcs proceedings. Official 'Important Dates' (all past except camera-ready): abstract 8 Jul 2026 AoE, paper 15 Jul 2026 AoE, notification 15 Oct 2026 AoE, final version 12 Nov 2026 AoE. HotCRP's enforced deadlines were later: registration Thu 9 Jul 2026 01:59 HST (= 8 Jul 23:59 AoE) and submission Wed 22 Jul 2026 01:59 HST (= 21 Jul 23:59 AoE), i.e. the paper deadline was extended a week past the 15 Jul shown on the site. No author-response/rebuttal period is stated in the CFP. Re-checked 2026-11-01: HotCRP shows 'The deadline for registering submissions has passed' and '39 of 107 submissions accepted' (notification out); camera-ready (12 Nov 2026) and the conference (26-29 Jan 2027) still upcoming. Site now lists 4 invited speakers (Pfenning, Kerjean, Dal Lago, Staton); Program and Accepted Papers pages still 'TBA'; registration TBA."
             }
           ],
           "source": "https://csl2027.github.io/",
@@ -633,8 +634,8 @@
           "conference_start": "2027-01-26",
           "conference_end": "2027-01-29",
           "link": "https://csl2027.github.io/",
-          "notes": "No CSL edition with an upcoming submission deadline as of 2026-10-28: CSL 2026 (Paris, 23-28 Feb 2026) already took place and CSL 2027's paper deadline (15 Jul 2026 AoE per the site; HotCRP registration now closed) has passed, so CSL 2027 (35th EACSL Annual Conference, University of Sussex, Brighton, 26-29 Jan 2027) is the most recently announced edition, with camera-ready (12 Nov 2026) and the conference still upcoming. Satellite workshops: FICS 2027 (25-26 Jan) and LMW 2027 (25 Jan). CSL 2028 has no website (csl2028.github.io still 404), no CFP and no dates; it is announced only as venue/organisers (Porto; local organisers Joao Barbosa and Sandra Alves, PC chairs TBA) in the official EACSL membership meeting minutes (Paris, 25 Feb 2026, https://www.eacsl.org/wp-content/uploads/2026/03/Minutes2026_EACSL.pdf). The EACSL 'CSL Conferences' list still ends at 2027, conferences.computer.science lists nothing after 2027, and no CSL 2028 Logic List posting exists. PC chairs read from the official site's committee section (also confirmed in the EACSL 2026 minutes).",
-          "last_checked": "2026-10-28",
+          "notes": "No CSL edition with an upcoming submission deadline as of 2026-11-01: CSL 2026 (Paris, 23-28 Feb 2026) already took place and CSL 2027's paper deadline (15 Jul 2026 AoE per the site; HotCRP enforced 21 Jul 2026 AoE) has passed, so CSL 2027 (35th EACSL Annual Conference, University of Sussex, Brighton, 26-29 Jan 2027) is the most recently announced edition, with camera-ready (12 Nov 2026) and the conference still upcoming. Satellite workshops: FICS 2027 (25-26 Jan) and LMW 2027 (25 Jan). CSL 2028 still has no website (csl2028.github.io returns 404), no CFP and no dates; it is mentioned only as venue/organisers (Porto; local organisers João Barbosa and Sandra Alves, PC chairs TBA) in the official EACSL membership meeting minutes (Paris, 25 Feb 2026, https://www.eacsl.org/wp-content/uploads/2026/03/Minutes2026_EACSL.pdf). Re-verified 2026-11-01: the EACSL 'CSL Conferences' list still ends at 2027, conferences.computer.science lists nothing after 2027, WikiCFP has no CSL 2027/2028 entry, and the latest SIGLOG Monthly (278, 1 Oct 2026) contains no CSL 2028 announcement. PC chairs read from the HotCRP program-committee listing (both flagged 'chair'), consistent with the official site's committee section.",
+          "last_checked": "2026-11-01",
           "pc_chairs": [
             {
               "name": "Corina Cîrstea",
@@ -698,7 +699,7 @@
           "last_checked": "2026-10-02"
         }
       ],
-      "last_checked": "2026-10-02"
+      "last_checked": "2026-11-01"
     },
     {
       "id": "date",
@@ -736,8 +737,8 @@
               "final_version": "2026-12-16",
               "cfp": "https://www.date-conference.com/call-for-papers",
               "submission_link": "https://softconf.com/date27/conference/",
-              "page_limit": "max. 6 pages plus one extra page only for bibliographic references (double-blind, PDF)",
-              "notes": "Research papers (D, A, T, E tracks). Mandatory abstract registration 13 Sep 2026 AoE; final paper 20 Sep 2026 AoE is a firm deadline (no extensions) and has already passed as of 2 Oct 2026. No author-response/rebuttal period listed. Optional short pitch video 22 Jan 2027 AoE. TPC may accept submissions as extended abstracts."
+              "page_limit": "max. 6 pages plus one extra page allowed only for bibliographic references (double-blind, IEEE conference format)",
+              "notes": "Research papers, D/A/T/E tracks. Mandatory abstract registration 13 Sep 2026 AoE; final paper 20 Sep 2026 AoE (23:59 GMT-12) is a firm deadline with no extensions and has already passed as of 1 Nov 2026. No author-response/rebuttal period is listed. Notification 23 Nov 2026, camera-ready 16 Dec 2026, optional short pitch video 22 Jan 2027 AoE. TPC may downgrade submissions to extended abstracts."
             },
             {
               "name": "Late Breaking Results",
@@ -751,7 +752,7 @@
               "cfp": "https://www.date-conference.com/call-for-papers",
               "submission_link": null,
               "page_limit": "max. 6 pages plus one extra page only for bibliographic references (same format as research papers)",
-              "notes": "Separate programme area of the same edition (not a main-track cycle); still open as of 2 Oct 2026. Optional short pitch video 22 Jan 2027 AoE; submission link not yet available."
+              "notes": "Separate programme area of the same edition (not a main-track cycle), but the only paper call of DATE 2027 still open as of 1 Nov 2026: final paper 29 Nov 2026 AoE, notification 13 Jan 2027, camera-ready 29 Jan 2027, optional short pitch video 22 Jan 2027 AoE. CFP table still shows the submission link as 'Not yet available'."
             },
             {
               "name": "Multi-Partner Projects",
@@ -770,11 +771,11 @@
           ],
           "source": "https://www.date-conference.com/call-for-papers",
           "confidence": "high",
-          "notes": "DATE 2027 = 30th edition, 22-24 March 2027, Internationales Congress Center Dresden (ICD), Dresden, Germany. General Chair: Robert Wille (TU Munich); Programme (PC) Chair: Lukas Sekanina (BUT, CZ), Vice Programme Chair: Nele Mentens (KU Leuven/Leiden). The main research-paper deadline (20 Sep 2026) has already passed as of 2 Oct 2026; other still-open calls of the same edition (separate programme areas, not main-track cycles) are: Late Breaking Results final paper 29 Nov 2026 AoE (notification 13 Jan 2027, camera-ready 29 Jan 2027), Multi-Partner Projects abstract 18 Oct / final paper 25 Oct 2026, focus session & workshop & tutorial proposals 18 Oct 2026, YPP PhD Forum 30 Nov 2026. All deadlines AoE; strict, no extensions.",
-          "last_checked": "2026-10-02"
+          "notes": "DATE 2027 = 30th edition, 22-24 March 2027, ICD International Congress Center Dresden, Dresden, Germany. General Chair Robert Wille (TU Munich); Programme (PC) Chair Lukas Sekanina (Brno Univ. of Technology, CZ); Vice Programme Chair Nele Mentens (KU Leuven/Leiden). All deadlines AoE (23:59 GMT-12), strict, no extensions. The main research-paper deadline (20 Sep 2026) has already passed; notification of acceptance 23 Nov 2026 and camera-ready 16 Dec 2026 are still upcoming. Other still-open/recent calls of the same edition (separate programme areas, not main-track cycles, therefore not listed as rounds): Multi-Partner Projects abstract 18 Oct / final paper 25 Oct 2026 (closed), focus session, workshop and tutorial proposals 18 Oct 2026 (closed), YPP PhD Forum submission 30 Nov 2026 AoE, Career/University Fair 15 Jan 2027. No author-response/rebuttal phase exists for DATE. No DATE 2028 edition, venue or CFP has been announced yet (official site still presents DATE 2027), so DATE 2027 is the most recently announced edition.",
+          "last_checked": "2026-11-01"
         }
       ],
-      "last_checked": "2026-10-02"
+      "last_checked": "2026-11-01"
     },
     {
       "id": "dlt",
@@ -957,7 +958,7 @@
       "name": "Foundations of Software Science and Computation Structures",
       "category": "Logic & theory",
       "homepage": "https://etaps.org/",
-      "last_checked": "2026-10-28",
+      "last_checked": "2026-11-01",
       "editions": [
         {
           "year": 2027,
@@ -974,10 +975,10 @@
               "cfp": "https://etaps.org/2027/cfp/",
               "submission_link": "https://easychair.org/conferences/?conf=fossacs2027",
               "page_limit": "max 18 pages in Springer LNCS format, excluding bibliography",
-              "notes": "Single-cycle conference; no abstract deadline. Double-blind reviewing with author rebuttal phase Dec 7-9, 2026. Voluntary artifact submission 2027-01-11, artifact notification 2027-02-11 (does not affect acceptance). All dates AoE; CFP states deadlines are firm and will not be extended. Submission deadline (15 Oct 2026 AoE) has already passed as of today (2026-10-28)."
+              "notes": "Single cycle; no abstract deadline. Double-blind reviewing with author rebuttal phase Dec 7-9, 2026. Voluntary artifact submission 2027-01-11, artifact notification 2027-02-11 (does not affect acceptance). All dates AoE; CFP states deadlines are firm and will not be extended. Submission deadline (15 Oct 2026 AoE) has already passed as of today (2026-11-01)."
             }
           ],
-          "last_checked": "2026-10-28",
+          "last_checked": "2026-11-01",
           "link": "https://etaps.org/2027/",
           "cfp": "https://etaps.org/2027/cfp/",
           "conference_start": "2027-04-12",
@@ -994,7 +995,7 @@
           ],
           "source": "https://etaps.org/2027/cfp/",
           "confidence": "high",
-          "notes": "FoSSaCS 2027 = 29th International Conference on Foundations of Software Science and Computation Structures, held within ETAPS 2027 (30th ETAPS), Copenhagen, Denmark, 10-15 April 2027 (satellite events 10-11 April; main conferences 12-15 April), organised by University of Copenhagen, IT University of Copenhagen and Aalborg University. Proceedings in Springer LNCS/ARCoSS, gold open access. No upcoming FoSSaCS deadline exists: the FoSSaCS 2027 submission deadline (15 Oct 2026 AoE) passed on 15 October 2026, and the next edition's CFP is not yet announced — ETAPS 2028 (hosting FoSSaCS 2028) is scheduled for 2-7 April 2028 in Karlsruhe, Germany (Karlsruhe Institute of Technology), but https://etaps.org/2028/ is only a placeholder homepage with no CFP or submission dates (https://etaps.org/2028/cfp/ and /2028/important-dates return 404, and no FoSSaCS 2028 PC chairs or dates are published anywhere). This entry therefore reports the most recently announced edition (FoSSaCS 2027), re-verified today (2026-10-28) on the official ETAPS 2027 joint CFP and the FoSSaCS 2027 conference page (https://etaps.org/2027/fossacs)."
+          "notes": "FoSSaCS 2027 = 29th International Conference on Foundations of Software Science and Computation Structures, held within ETAPS 2027 (30th ETAPS), Copenhagen, Denmark, 10-15 April 2027 (satellite events 10-11 April; main conferences 12-15 April), organised by University of Copenhagen, IT University of Copenhagen and Aalborg University. Proceedings in Springer LNCS/ARCoSS, gold open access. No upcoming FoSSaCS deadline exists: the FoSSaCS 2027 submission deadline (15 Oct 2026 AoE) passed on 15 October 2026, and the next edition's CFP is not yet announced — ETAPS 2028 (hosting FoSSaCS 2028) is scheduled for 2-7 April 2028 in Karlsruhe, Germany (Karlsruhe Institute of Technology), but https://etaps.org/2028/ is only a placeholder homepage with no CFP or submission dates (https://etaps.org/2028/cfp/ returns 404; no FoSSaCS 2028 PC chairs or dates published anywhere). This entry therefore reports the most recently announced edition (FoSSaCS 2027), re-verified today (2026-11-01) on the official ETAPS 2027 joint CFP (https://etaps.org/2027/cfp/) and the FoSSaCS 2027 conference page (https://etaps.org/2027/conferences/fossacs/)."
         }
       ]
     },
@@ -1597,7 +1598,7 @@
       "name": "Logic in Computer Science",
       "category": "Logic & theory",
       "homepage": "https://lics.siglog.org/",
-      "last_checked": "2026-10-27",
+      "last_checked": "2026-11-01",
       "editions": [
         {
           "year": 2027,
@@ -1627,15 +1628,15 @@
               "final_version": null,
               "cfp": "https://lics.siglog.org/lics27/cfp.php",
               "submission_link": "https://lics27.hotcrp.com/",
-              "page_limit": "22 pages (LIPIcs format) excluding references; clearly marked appendix read at reviewers' discretion",
-              "notes": "Titles and ~100-word short abstracts due 14 Jan 2027; full papers due 21 Jan 2027; all deadlines AoE and firm (late submissions not considered). Author response 25–28 March 2027; notification 15 April 2027; no camera-ready date stated. CFP says 'the submission link will be announced in due course'; the HotCRP site lics27.hotcrp.com is live but currently shows 'Submissions are currently closed'. New for 2027: single-blind (non-anonymous) submissions, max 3 submissions per author (max 1 where no author has previously published at LICS), submitted version must be posted on arXiv within one week of the deadline, and substantive LLM/generative-AI use must be disclosed. Proceedings published open access in LIPIcs with no publication charges.",
+              "page_limit": "22 pages in LIPIcs format, excluding references; clearly marked appendix allowed, read at reviewers' discretion",
+              "notes": "Single-cycle symposium (one round). Titles + ~100-word short abstracts due 14 Jan 2027; full papers due 21 Jan 2027; all deadlines AoE and firm (late submissions not considered). Author response 25–28 Mar 2027; notification 15 Apr 2027; no camera-ready date stated. CFP says 'the submission link will be announced in due course'; the HotCRP site lics27.hotcrp.com is live but currently shows 'Submissions are currently closed'. New for 2027: single-blind (non-anonymous) submissions, max 3 submissions per author (max 1 where no author has previously published at LICS), submitted version must be posted on arXiv within one week of the deadline, and substantive LLM/generative-AI use must be disclosed. Proceedings open access in LIPIcs, no publication charges. Workshops 19–20 June 2027.",
               "timezone": "AoE"
             }
           ],
           "source": "https://lics.siglog.org/lics27/cfp.php",
           "confidence": "high",
-          "notes": "LICS 2027 (42nd Annual ACM/IEEE Symposium on Logic in Computer Science), Montréal, 21–24 June 2027, workshops 19–20 June 2027. Re-verified on the official CFP page 2026-10-27; all dates unchanged. Single-cycle symposium, so one 'Main' round. Associate Chairs (Gilles Barthe, Michael Benedikt, Barbara König, Anca Muscholl) are PC members, not chairs, and are excluded.",
-          "last_checked": "2026-10-27"
+          "notes": "LICS 2027 = 42nd Annual ACM/IEEE Symposium on Logic in Computer Science, Montréal 21–24 June 2027 (workshops 19–20 June). Confirmed as the next edition by lics.siglog.org ('Next LICS Conference: LICS 2027'; LICS 2026 was held in Lisbon 20–23 July 2026 as part of FLoC). Re-verified on the official CFP page on 2026-11-01; all dates unchanged. Associate Chairs (Gilles Barthe, Michael Benedikt, Barbara König, Anca Muscholl) are PC members, not chairs, and are excluded.",
+          "last_checked": "2026-11-01"
         }
       ]
     },
@@ -1697,7 +1698,7 @@
       "name": "Mathematical Foundations of Computer Science",
       "category": "Logic & theory",
       "homepage": null,
-      "last_checked": "2026-10-27",
+      "last_checked": "2026-11-01",
       "editions": [
         {
           "year": 2026,
@@ -1729,13 +1730,13 @@
               "cfp": "https://mfcs2026.irif.fr/",
               "submission_link": "https://mfcs26.hotcrp.com/",
               "page_limit": "12 pages (LIPIcs class), excluding a separate title page, references and an optional appendix",
-              "notes": "Single cycle, single-blind reviewing, no abstract deadline; site states deadlines are firm. HotCRP server now marked closed; conference already held 24-28 Aug 2026 (LIPIcs Vol. 386). No rebuttal/author-response period announced. Camera-ready 2026-06-26 (AoE); early registration 2026-07-06 (AoE); YRF workshop 2026-08-23."
+              "notes": "Single cycle, single-blind reviewing, no abstract deadline; site states deadlines are firm ('late submissions will not be considered'). No rebuttal/author-response period announced for 2026 (MFCS 2025 did have one, June 3-6, 2025). HotCRP server now marked '(closed)'. Camera-ready 2026-06-26 (AoE); early registration 2026-07-06 (AoE); YRF workshop 2026-08-23. Conference already took place 24-28 Aug 2026; proceedings = LIPIcs Vol. 386."
             }
           ],
           "source": "https://mfcs2026.irif.fr/",
           "confidence": "high",
-          "notes": "No upcoming edition with an open/announced submission deadline as of 2026-10-27: the 52nd MFCS (2027) has not been announced. Checks today: no official MFCS 2027 site exists (searches for 'MFCS 2027' / '52nd MFCS' / 'mfcs2027' return only a LinkedIn job-aggregator spam page; mfcs2027.org does not resolve), WikiCFP series page (id=2043) lists only past editions and invites a first 2027 CFP post, conferences-computer.science covers 2014-2026 only, conf.friedetzky.org (last updated 27 October 2026) lists no MFCS 2027, the TCS planning list (tcs-conf.github.io planning.json, fetched today) is empty, and the official MFCS 2026 site lists previous editions only up to 2025/2026 with no next-edition announcement. Reported edition is therefore the most recently announced one, the 51st MFCS (Paris): submission deadline 2026-04-24 AoE has passed and the conference took place 2026-08-24 to 2026-08-28. All dates read directly from the official MFCS 2026 site.",
-          "last_checked": "2026-10-27"
+          "notes": "No upcoming MFCS edition with an open/announced submission deadline as of 2026-11-01: the 52nd MFCS (2027) has not been announced. Checks today: no official MFCS 2027 site exists (web searches for 'MFCS 2027', '52nd MFCS', 'mfcs2027 hotcrp/lipics' return only a LinkedIn job-aggregator spam page or irrelevant results; mfcs2027.org, mfcs2027.eu and mfcs-conference.org do not resolve), the MFCS 2026 official site (fetched today) lists previous editions only up to 2025/2026 with no next-edition announcement, WikiCFP's MFCS series page (id=2043) still shows only past editions and invites a first 2027 CFP post, conferences-computer.science covers 2014-2026 only, conf.friedetzky.org (last updated 1 November 2026, fetched today) lists 2027 TCS meetings (SODA, STACS, SOFSEM, STOC, SPAA, SAND, SIROCCO) but no MFCS 2027, and the TCS planning list (tcs-conf.github.io, fetched today) has empty deadline/planning sections. Reported edition is therefore the most recently announced one, the 51st MFCS (Paris): submission deadline 2026-04-24 AoE has passed and the conference was held 2026-08-24 to 2026-08-28. All dates read directly from the official MFCS 2026 site.",
+          "last_checked": "2026-11-01"
         }
       ]
     },
@@ -1745,7 +1746,7 @@
       "name": "Network and Distributed System Security Symposium",
       "category": "SE & security",
       "homepage": "https://www.ndss-symposium.org/",
-      "last_checked": "2026-10-27",
+      "last_checked": "2026-11-01",
       "editions": [
         {
           "year": 2027,
@@ -1777,7 +1778,7 @@
               "cfp": "https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/",
               "submission_link": "https://ndss27-summer.hotcrp.com/",
               "page_limit": "13 pages, US letter two-column layout, excluding Ethics Considerations section, references and appendices",
-              "notes": "CLOSED (deadline 6 May 2026 AoE). No separate abstract deadline. Round 1 reviews / early-reject & Round 2 notification 18 Jun 2026; author rebuttal 15-17 Jul and interactive discussion with reviewers 15-22 Jul 2026 (both marked tentative); notification 29 Jul 2026 (tentative); minor-revision shepherd approval 19 Aug 2026; major-revision resubmission 31 Aug 2026; major-revision notification 16 Sep 2026; camera-ready 30 Sep 2026. The CFP page now lists only the fall HotCRP site."
+              "notes": "CLOSED (deadline 6 May 2026 AoE). No separate abstract deadline; all deadlines 11:59 PM AoE (UTC-12). Other dates on CFP: Round 1 reviews / early-reject & Round 2 notification 18 Jun 2026; author rebuttal 15-17 Jul 2026 (tentative); interactive discussion with reviewers 15-22 Jul 2026 (tentative); notification 29 Jul 2026 (tentative); minor-revision shepherd approval 19 Aug 2026; major-revision resubmission 31 Aug 2026; major-revision notification 16 Sep 2026; camera-ready 30 Sep 2026. The CFP page now lists only the fall HotCRP site."
             },
             {
               "name": "Fall",
@@ -1791,13 +1792,13 @@
               "cfp": "https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/",
               "submission_link": "https://ndss27-fall.hotcrp.com/",
               "page_limit": "13 pages, US letter two-column layout, excluding Ethics Considerations section, references and appendices",
-              "notes": "Cycle opened 15 Aug 2026; submission deadline has PASSED (19 Aug 2026 AoE), so no NDSS submission window is currently open. Papers under review: Round 1 reviews 18 Sep-13 Oct 2026; Round 2 notification 16 Oct 2026; Round 2 reviews 19 Oct-10 Nov 2026 (ongoing as of 27 Oct 2026); author rebuttal 11-13 Nov 2026; interactive discussion 11-18 Nov 2026; TPC discussion 18-24 Nov 2026; notification 24 Nov 2026; major-revision resubmission / minor-revision decision 22 Dec 2026; major-revision notification 11 Jan 2027; camera-ready 1 Feb 2027."
+              "notes": "Cycle opened 15 Aug 2026; submission deadline has PASSED (19 Aug 2026 AoE) - HotCRP now says 'the deadline for registering submissions has passed', so no NDSS window is open. Review timeline per CFP: Round 1 reviews 18 Sep-13 Oct 2026; Round 2 notification 16 Oct 2026; Round 2 reviews 19 Oct-10 Nov 2026 (ongoing); author rebuttal 11-13 Nov 2026; interactive discussion 11-18 Nov 2026; TPC discussion 18-24 Nov 2026; notification 24 Nov 2026; major-revision resubmission / minor-revision decision 22 Dec 2026; major-revision notification 11 Jan 2027; camera-ready 1 Feb 2027."
             }
           ],
           "source": "https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/",
           "confidence": "high",
-          "notes": "Re-checked 2026-10-27 on the official site. NDSS 2027 (Seoul, 22-26 March 2027) is the most recently announced edition, and NO NDSS paper submission deadline is currently upcoming/open: NDSS runs exactly two review cycles per year and both NDSS 2027 cycles have closed (summer 6 May 2026; fall 19 Aug 2026). The fall cycle is mid-review (Round 2 reviews 19 Oct-10 Nov 2026; rebuttal 11-13 Nov; final notification 24 Nov 2026). NDSS 2028 has no official page or CFP yet (https://www.ndss-symposium.org/ndss2028/ still returns 404; the official news page https://www.ndss-symposium.org/news/ lists nothing newer than 18 Aug 2026 and site navigation stops at the 2027 symposium; web search finds no NDSS 2028 announcement), so no NDSS 2028 dates can be reported; third-party 'expected mid-Aug 2027' projections are not used. All NDSS deadlines are 11:59 PM AoE (UTC-12); double-blind; two review rounds per cycle; max 6 submissions per author per cycle (12 total); no separate abstract deadline. PC chairs appear as 'Program Chairs' on the official TPC page.",
-          "last_checked": "2026-10-27"
+          "notes": "Re-checked 2026-11-01 on the official site. NDSS 2027 (Seoul, 22-26 March 2027) is the most recently announced edition, and NO NDSS paper submission deadline is currently upcoming/open: NDSS runs exactly two review cycles per year and both NDSS 2027 cycles have closed (summer 6 May 2026; fall 19 Aug 2026). The fall cycle is mid-review (Round 2 reviews 19 Oct-10 Nov 2026; rebuttal 11-13 Nov; final notification 24 Nov 2026). NDSS 2028 is not yet announced: https://www.ndss-symposium.org/ndss2028/ returns 404, the official news page (https://www.ndss-symposium.org/news/) lists nothing newer than 18 Aug 2026, site navigation stops at the 2027 symposium, and web searches find no NDSS 2028 CFP; third-party 'projected' NDSS 2028 dates (e.g. summer ~5 May 2027, fall ~18 Aug 2027) are explicitly estimates from an unofficial calendar and are therefore not reported. All NDSS deadlines are 11:59 PM AoE (UTC-12); double-blind; two review rounds per cycle; max 6 submissions per author per cycle (12 total); no separate abstract deadline. PC chairs are listed as 'Program Chairs' on the official TPC page (https://www.ndss-symposium.org/ndss2027/leadership/technical-program-committee/).",
+          "last_checked": "2026-11-01"
         }
       ]
     },
