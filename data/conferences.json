@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "categories": [
     "Formal methods",
     "Programming languages",
@@ -152,7 +152,7 @@
       "name": "Automated Software Engineering",
       "category": "SE & security",
       "homepage": null,
-      "last_checked": "2026-11-10",
+      "last_checked": "2026-11-13",
       "editions": [
         {
           "year": 2026,
@@ -184,13 +184,13 @@
               "cfp": "https://conf.researchr.org/track/ase-2026/ase-2026-research-track",
               "submission_link": "https://ase26.hotcrp.com",
               "page_limit": "10 pages excl. references + up to 2 pages containing only references (ACM sigconf, review/anonymous)",
-              "notes": "Single-cycle research track; no separate published-abstract deadline (title/abstract registered in HotCRP before the paper deadline). Official important-dates page (re-read 10 Nov 2026): paper submission Thu 26 Mar 2026; early-rejection notification Mon 25 May 2026; author response Mon 25 - Wed 27 May 2026; initial notification Thu 18 Jun 2026; revision (major-revision) submission Thu 16 Jul 2026; notification for major revisions Wed 29 Jul 2026; camera-ready (all papers) Mon 3 Aug 2026. All research-track deadlines are closed and the conference has already taken place (12-16 Oct 2026, Munich)."
+              "notes": "Single-cycle research track; no separate published-abstract deadline (title/abstract registered in HotCRP before the paper deadline). Official important-dates page (re-read 13 Nov 2026): paper submission Thu 26 Mar 2026; early-rejection notification Mon 25 May 2026; author response Mon 25 - Wed 27 May 2026; initial notification Thu 18 Jun 2026; revision (major-revision) submission Thu 16 Jul 2026; notification for major revisions Wed 29 Jul 2026; camera-ready (all papers) Mon 3 Aug 2026. All research-track deadlines are closed and the conference has already taken place (12-16 Oct 2026, Munich; proceedings published in ACM DL, DOI 10.1145/3832783)."
             }
           ],
           "source": "https://conf.researchr.org/dates/ase-2026",
           "confidence": "high",
-          "notes": "No ASE edition with an upcoming submission deadline exists as of 10 Nov 2026: ASE 2027 (42nd edition) is still unannounced. Re-verified today: the official ASE homepage (ase-conferences.org) still lists only the 41st IEEE/ACM ASE 2026 (Munich, 12-16 Oct 2026) as the 'Upcoming Conference'; the official ASE series page on conf.researchr.org lists no 2027 edition (latest = ASE 2026); conf.researchr.org/home/ase-2027 and /dates/ase-2027 return 'Access denied' (a private/unpublished conference tag - ase-2099 by contrast returns 404), so an ASE 2027 tag exists but has no public content; 2027.aseconf.org does not resolve; SIGSOFT's ongoing-conferences page defers to the ACM calendar and gives no ASE 2027 dates; the ASE steering-committee page names no future venue; WikiCFP lists no ASE 2027 CFP. Searches for 'ASE 2027'/'42nd IEEE/ACM ASE' return only unreliable or unrelated sources (conferencelists.org: 'El Paso, USA, 24 Oct 2027' with no official link; a Glarity AI answer; the Springer 'Automated Software Engineering' journal special issues; the automotive 'ASE Workshop 2027' in Dortmund; the American Society of Echocardiography 'ASE 2027 Scientific Sessions' in Tampa) - none official, so not reported. Hence the most recently announced edition, ASE 2026, is reported; its research-track deadlines are all closed and the conference concluded 16 Oct 2026. Expect the ASE 2027 CFP (typically a March-May deadline) to appear in early 2027.",
-          "last_checked": "2026-11-10"
+          "notes": "No ASE edition with an upcoming submission deadline exists as of 13 Nov 2026: ASE 2027 (42nd edition) is still unannounced. Re-verified today: the official ASE homepage (ase-conferences.org) still lists only the 41st IEEE/ACM ASE 2026 (Munich, 12-16 Oct 2026) as the 'Upcoming Conference'; the official ASE series page on conf.researchr.org lists no 2027 edition (latest = ASE 2026); conf.researchr.org/home/ase-2027 and /dates/ase-2027 return 'Access denied' (a private/unpublished conference tag), so an ASE 2027 tag exists but has no public content; 2027.aseconf.org and ase2027.org do not resolve; SIGSOFT's ongoing-conferences page defers to the ACM calendar and gives no ASE 2027 dates; the ASE steering-committee page names no future venue; WikiCFP's ASE series page lists no 2027 CFP. Searches for 'ASE 2027' return only unreliable or unrelated sources (conferencelists.org: 'El Paso, USA, 24 Oct 2027' with no official link; the Springer 'Automated Software Engineering' journal; the automotive 'ASE Workshop 2027' in Dortmund; the American Society of Echocardiography 'ASE 2027 Scientific Sessions') - none official, so not reported. Hence the most recently announced edition, ASE 2026, is reported; its research-track deadlines are all closed and the conference concluded 16 Oct 2026. Expect the ASE 2027 CFP (typically a March-May deadline) to appear in early 2027.",
+          "last_checked": "2026-11-13"
         }
       ]
     },
@@ -424,7 +424,7 @@
       "name": "Implementation and Application of Automata",
       "category": "Logic & theory",
       "homepage": null,
-      "last_checked": "2026-11-10",
+      "last_checked": "2026-11-13",
       "editions": [
         {
           "year": 2026,
@@ -480,13 +480,13 @@
               "cfp": null,
               "submission_link": null,
               "page_limit": null,
-              "notes": "No call for papers or submission dates announced yet (re-checked 2026-11-10). Only the venue (Stellenbosch Institute for Advanced Study, STIAS) and conference dates 2027-09-20/23 are public, plus the local organizer Brink van der Merwe (Stellenbosch University). There is no CIAA 2027 conference website (the official series site links sites for 2025 and 2026 but not 2027), no EasyChair Smart CFP (https://easychair.org/cfp/CIAA2027 and /cfp/ciaa2027 both return 404, and the full EasyChair Smart CFP listing contains no CIAA entry), no WikiCFP entry (series page id 441 still ends at CIAA 2025), and PC chairs, submission system, page limit and all deadlines are not yet public."
+              "notes": "No call for papers or submission dates announced yet (re-checked 2026-11-13). Only the venue (Stellenbosch Institute for Advanced Study, STIAS) and conference dates 2027-09-20/23 are public, plus the local organizer Brink van der Merwe (Stellenbosch University). There is no CIAA 2027 conference website (the official series site links sites for 2025 and 2026 but not 2027), no EasyChair Smart CFP (https://easychair.org/cfp/CIAA2027 returns 404 and the EasyChair Smart CFP listing contains no CIAA entry), no WikiCFP entry (series page id 441 still ends at CIAA 2025), and PC chairs, submission system, page limit and all deadlines are not yet public."
             }
           ],
-          "source": "https://www.informatik.uni-giessen.de/ciaa/ (official CIAA series site: 'Next · 31st edition — CIAA 2027, Stellenbosch, South Africa, September 20–23, 2027, Stellenbosch Institute for Advanced Study (STIAS), Organized by Brink van der Merwe'; first announced at the CIAA 2026 business meeting and reported in the EATCS Bulletin No. 150, https://bulletin.eatcs.org/index.php/beatcs/article/view/899)",
+          "source": "https://www.informatik.uni-giessen.de/ciaa/ (official CIAA series site: 'Next · 31st edition — CIAA 2027, Stellenbosch, South Africa, September 20–23, 2027, Stellenbosch Institute for Advanced Study (STIAS), Organized by Brink van der Merwe'; also announced at the CIAA 2026 business meeting and reported in the EATCS Bulletin No. 150, https://bulletin.eatcs.org/index.php/beatcs/article/view/899)",
           "confidence": "high",
-          "notes": "CIAA 2027 (31st edition) is the next edition, but its paper submission deadline has not been announced, so it is reported as the most recently announced edition. Re-verified today (2026-11-10): the official series site (informatik.uni-giessen.de/ciaa) lists CIAA 2027 with venue/dates only and no conference-website link (its 'Most recent' card is still CIAA 2026); https://easychair.org/cfp/CIAA2027 (and lowercase) return 404 and the EasyChair Smart CFP listing shows no CIAA 2027 call; WikiCFP's CIAA series page (program id 441) still ends at CIAA 2025; the organizer's homepage (abvdm.pages.cs.sun.ac.za) has no CIAA 2027 page; the STIAS events calendar lists no CIAA event; the IFIP WG 1.02 'Related Events (future)' page (last updated 07.01.2026) still ends with CIAA 2026; EATCS Bulletin No. 150 (October 2026) contains only the CIAA 2026 report; web searches for 'CIAA 2027' / '31st Implementation and Application of Automata' return only the series site and the unrelated Central Intercollegiate Athletic Association. The previous edition, CIAA 2026 (30th, Queen's University, Kingston, Ontario, Canada, 2026-08-05/08, co-located with DCFS 2026; PC chair Taylor J. Smith, St. Francis Xavier University; paper deadline extended to 2026-03-27, notification 2026-05-01, camera-ready 2026-05-08), already took place with proceedings in Springer LNCS (https://link.springer.com/book/9783032311764); a TCS special issue from it has a 2027-01-31 submission deadline, but that is a journal, not the conference. Historically the CIAA CFP appears in autumn/winter with paper deadlines in Feb–May (LNCS format, 12 pages excluding title page and references), so re-check in the coming months.",
-          "last_checked": "2026-11-10"
+          "notes": "CIAA 2027 (31st edition) is the next edition, but its paper submission deadline has not been announced, so it is reported as the most recently announced edition. Re-verified today (2026-11-13): the official series site lists CIAA 2027 with venue/dates only and no conference-website link (its 'Most recent' card is still CIAA 2026); https://easychair.org/cfp/CIAA2027 returns 404 and the EasyChair Smart CFP listing shows no CIAA 2027 call; WikiCFP's CIAA series page (program id 441) still ends at CIAA 2025; the organizer's homepage (abvdm.pages.cs.sun.ac.za) has no CIAA 2027 page; the IFIP WG 1.02 'Future Events' and 'Related Events (future)' pages (last updated 07.01.2026) still end with DCFS 2026 / CIAA 2026; EATCS Bulletin No. 150 (October 2026) contains only the CIAA 2026 report (which is where the 2027 venue/dates were announced); web searches for 'CIAA 2027' / '31st Implementation and Application of Automata' return only the series site and the unrelated Central Intercollegiate Athletic Association. The previous edition, CIAA 2026 (30th, Queen's University, Kingston, Ontario, Canada, 2026-08-05/08, co-located with DCFS 2026; PC chair Taylor J. Smith, St. Francis Xavier University; paper deadline extended to 2026-03-27, notification 2026-05-01, camera-ready 2026-05-08), already took place with proceedings in Springer LNCS (https://link.springer.com/book/9783032311764); a TCS special issue from it has a 2027-01-31 submission deadline, but that is a journal, not the conference. Historically the CIAA CFP appears in autumn/winter with paper deadlines in Feb–May (LNCS format, 12 pages excluding title page and references), so re-check in the coming months.",
+          "last_checked": "2026-11-13"
         }
       ]
     },
@@ -1306,16 +1306,16 @@
               "cfp": "https://iclr.cc/Conferences/2027/CallForPapers",
               "submission_link": "https://openreview.net/group?id=ICLR.cc/2027/Conference",
               "page_limit": "9 pages main text at submission; 10 pages during discussion/rebuttal and camera-ready; references excluded (unlimited); appendices unlimited",
-              "notes": "Single-cycle conference; CFP states all key times are UTC-12h (AoE). Timeline per CFP/Dates/Author Guidelines: reviews released Nov 5, 2026; public author-reviewer discussion Nov 5-18, 2026 (papers revisable until Nov 18); reviewer-AC private discussion & meta-reviewing Nov 19-Dec 16, 2026; final decisions Dec 16, 2026. No camera-ready date published: instructions emailed mid-February 2027, 10-page main-text limit. Abstract deadline mandatory (no authors added/removed after it; author order editable until the full-paper deadline). Quotas: max 20 papers per author; max 1 paper per author where no author is a qualified reciprocal reviewer; authors on 3+ papers must review 6 papers; each submission needs at least one author registered to review 3 papers. As of today (2026-11-09) the main-track submission deadlines have passed; the author-response window (Nov 5-18, 2026) is currently open and decisions (Dec 16, 2026) are still upcoming. Adjacent (NOT main-track) workshop call: proposal deadline 9 Oct 2026 (passed; acceptance notice 29 Nov 2026), suggested workshop contributions 1 Feb 2027, workshop accepted-paper notification 26 Feb 2027."
+              "notes": "Single-cycle conference. CFP: all key times UTC-12h (AoE). Timeline per CFP/Dates/Author Guidelines: reviews released Nov 5, 2026; public author-reviewer discussion Nov 5-18, 2026 (papers revisable until Nov 18); reviewer-AC private discussion & meta-reviewing Nov 19-Dec 16, 2026; final decisions Dec 16, 2026. No camera-ready date published: instructions emailed mid-February 2027, 10-page main-text limit. Abstract deadline mandatory (no authors added/removed after it; author order editable until the full-paper deadline). Quotas: max 20 papers per author; max 1 paper per author where no author is a qualified reciprocal reviewer; authors on 3+ papers must review 6 papers; each submission needs at least one author registered to review 3 papers. As of today (2026-11-13) the main-track submission deadlines have passed; the author-response window (Nov 5-18, 2026) is currently open and decisions (Dec 16, 2026) are still upcoming. Adjacent (NOT main-track) workshop call: proposal deadline 9 Oct 2026 (passed; acceptance notice 29 Nov 2026), suggested workshop contributions 1 Feb 2027, workshop accepted-paper notification 26 Feb 2027."
             }
           ],
           "source": "https://iclr.cc/Conferences/2027/CallForPapers",
           "confidence": "high",
-          "notes": "Re-verified 2026-11-09 on the official site (iclr.cc/Conferences/2027/CallForPapers, /Dates, /index.html, /AuthorGuidelines, /Board, /CallForWorkshops, /Conferences/FutureMeetings). No edition with an upcoming submission deadline exists: ICLR 2028 is not announced (iclr.cc/Conferences/2028/CallForPapers -> 404; the official Future Meetings page lists only 'ICLR 2027: West Coast North America' and warns about predatory 'ICLR' listings; secondary trackers also report ICLR 2028 dates unannounced). Hence ICLR 2027 (15th edition) is reported as the most recently announced edition: abstract Sep 18, 2026 and full paper Sep 25, 2026 AoE have passed, while the public author-reviewer discussion (Nov 5-18, 2026, currently in progress) and decisions (Dec 16, 2026) are upcoming. Venue: index page says 'California' + April 26-30, 2027 while the Dates page says 'location and dates to be announced' (main conference Apr 26-28, workshops Apr 29-30); the Call for Workshops and the OpenReview group state San Francisco, California, US. PC chairs are named only in ICLR blog posts (blog.iclr.cc) without affiliations; the iclr.cc 2027 Board page lists only officers/board members (LeCun, Hofmann, Kim, et al.), so affiliations are left null.",
-          "last_checked": "2026-11-09"
+          "notes": "Re-verified 2026-11-13 on the official site (iclr.cc/Conferences/2027/CallForPapers, /Dates, /index.html, /AuthorGuidelines, /Board, /CallForWorkshops, /Conferences/FutureMeetings). No edition with an upcoming submission deadline exists: ICLR 2028 is not announced (iclr.cc/Conferences/2028 and /Conferences/2028/CallForPapers -> 404; OpenReview group ICLR.cc/2028/Conference -> 'Group Not Found'; the official Future Meetings page lists only 'ICLR 2027: West Coast North America' and warns about predatory 'ICLR' listings; secondary trackers likewise report ICLR 2028 dates unannounced). Hence ICLR 2027 (15th edition) is reported as the most recently announced edition: abstract Sep 18, 2026 and full paper Sep 25, 2026 AoE have passed, while the public author-reviewer discussion (Nov 5-18, 2026, currently in progress) and decisions (Dec 16, 2026) are upcoming. Venue: index page says 'California' + April 26-30, 2027 while the Dates page says 'location and dates to be announced' (main conference Apr 26-28, workshops Apr 29-30); the Call for Workshops states San Francisco, California, US. PC chairs are named only in ICLR blog posts (blog.iclr.cc) without affiliations; the iclr.cc 2027 Board page lists only officers/board members (LeCun, Hofmann, Kim, et al.), so affiliations are left null.",
+          "last_checked": "2026-11-13"
         }
       ],
-      "last_checked": "2026-11-09"
+      "last_checked": "2026-11-13"
     },
     {
       "id": "icse",
@@ -1323,7 +1323,7 @@
       "name": "International Conference on Software Engineering",
       "category": "SE & security",
       "homepage": "https://www.icse-conferences.org/",
-      "last_checked": "2026-11-09",
+      "last_checked": "2026-11-13",
       "editions": [
         {
           "year": 2027,
@@ -1362,6 +1362,44 @@
           "source": "https://conf.researchr.org/track/icse-2027/icse-2027-research-track",
           "confidence": "high",
           "notes": "ICSE 2027 (49th edition), Sun 25 Apr - Sat 1 May 2027, Convention Centre Dublin; core days Wed 28 - Fri 30 Apr 2027. Its single research-track deadline (30 Jun 2026; HotCRP final deadline 8 Jul 2026) has passed and no newer edition has an announced submission deadline, so ICSE 2027 is reported as the most recently announced edition. Re-verified 2026-11-09: conf.researchr.org/home/icse-2028 still redirects to 'Access denied' and there is no icse-2028-research-track page; the ICSE SC site (icse-conferences.org, last updated Jan 2026) still lists ICSE 2028 only as 'Apr 2028 Hawaii, USA' and its news page has no ICSE 2028 CFP - only the announced ICSE 2028 PC chairs (Yuanfang Cai, Drexel University; Lars Grunske, Humboldt-Universitaet zu Berlin) and SEIP chairs (Qinghua Lu, CSIRO; Jan Bosch, Chalmers). The community SE deadline tracker (se-deadlines.github.io, updated 3 Nov 2026) has no ICSE 2028 entry, only ICSE 2027 and its other tracks. ICSE 2028 (50th) is informally indicated for late April/early May 2028 at Hilton Waikoloa Village, Hawaii (IEEE Hawaii Section event listing: 30 Apr - 6 May 2028; Rick Kazman, University of Hawai'i at Manoa, General Chair), but there is no official conference site or CFP yet, so it is not reported. ICSE 2029 (Tokyo, General Chairs Hironori Washizaki and Jianjun Zhao) was announced Dec 2025 with no dates/CFP. Other ICSE 2027 tracks (SEIP, SEIS, NIER, SEET, Journal-first, DS, SRC, Industry Challenge, workshops) still have deadlines in Nov-Dec 2026 but are separate tracks, not cycles of the main research track, so they are not listed as rounds."
+        },
+        {
+          "year": 2028,
+          "link": "https://conf.researchr.org/home/icse-2028",
+          "cfp": "https://conf.researchr.org/track/icse-2028/icse-2028-papers",
+          "location": "Waikoloa, Hawaii, United States (Hilton Waikoloa Village)",
+          "conference_start": "2028-04-29",
+          "conference_end": "2028-05-07",
+          "pc_chairs": [
+            {
+              "name": "Yuanfang Cai",
+              "affiliation": "Drexel University, United States"
+            },
+            {
+              "name": "Lars Grunske",
+              "affiliation": "Humboldt University of Berlin, Germany"
+            }
+          ],
+          "rounds": [
+            {
+              "name": "Main",
+              "abstract_deadline": "2027-06-24T23:59",
+              "submission_deadline": "2027-07-01T23:59",
+              "timezone": "AoE",
+              "rebuttal_start": "2027-09-24",
+              "rebuttal_end": "2027-09-26",
+              "notification": "2027-10-21",
+              "final_version": "2027-11-25",
+              "cfp": "https://conf.researchr.org/track/icse-2028/icse-2028-papers",
+              "submission_link": null,
+              "page_limit": "10 pages for the main text, inclusive of all figures/tables/appendices, + 2 pages of references only (ACM Primary Article Template, \\documentclass[sigconf,review,anonymous]{acmart}); accepted papers get one extra page for the camera-ready main text",
+              "notes": "Single submission cycle. All dates 23:59:59 AoE (UTC-12h). Author response period is 3 days (Sep 24-26, 2027). Major-revision resubmission due 2027-11-18; camera-ready of directly accepted papers 2027-11-25; final decision on major-revision papers 2027-12-19; camera-ready of accepted major-revision papers 2028-01-26. Double-anonymous review; outcomes Accept / Major Revision / Reject. HotCRP submission site announced as 'available soon' — no URL yet (icse2028.hotcrp.com returns 404 as of 2026-11-13)."
+            }
+          ],
+          "source": "https://conf.researchr.org/track/icse-2028/icse-2028-papers",
+          "confidence": "high",
+          "notes": "ICSE 2028 (50th edition) is now the next edition with an upcoming paper submission deadline: official conf.researchr.org site is live, Sat 29 Apr - Sun 7 May 2028 at Hilton Waikoloa Village, Waikoloa, Hawaii, with the main conference May 3-5, 2028. Research Track CFP (checked 2026-11-13) states a single submission cycle: (mandatory) abstract Jun 24, 2027; submission Jul 1, 2027; author response Sep 24-26, 2027; notification Oct 21, 2027; revision due Nov 18, 2027; camera-ready of directly accepted papers Nov 25, 2027; final decision on major-revision papers Dec 19, 2027; camera-ready of accepted major-revision papers Jan 26, 2028 — all 23:59:59 AoE. PC chairs per the official Research Track committee page: Yuanfang Cai (Drexel University, US) and Lars Grunske (Humboldt University of Berlin, DE). Note the format changed from IEEE (ICSE 2027) to the ACM sigconf template for ICSE 2028. The previous edition, ICSE 2027 (Dublin, Apr 25 - May 1, 2027), has already passed its single research-track deadline (abstract Jun 23 / submission Jun 30, 2026; notification Oct 20, 2026); only its major-revision resubmission (Nov 17, 2026) and camera-ready milestones remain, which are not new submission rounds. ICSE 2029 (Tokyo) has no site or CFP yet.",
+          "last_checked": "2026-11-13"
         }
       ]
     },
@@ -1501,12 +1539,12 @@
           ],
           "source": "https://www.floc26.org/ijcar",
           "confidence": "high",
-          "notes": "No IJCAR edition with an upcoming submission deadline exists as of 2026-11-09, so the most recently announced edition (IJCAR 2026, already held 26-29 July 2026 in Lisbon within FLoC 2026) is reported. Re-verified today: ijcar.org still shows 'Next Conference: IJCAR 2026' and ijcar.org/conferences lists IJCAR 2026 as the only 'Future Conference' (no 2028 entry); the official FLoC 2026 IJCAR call-for-papers page (JS-rendered) gives abstracts 6 Feb 2026, papers 15 Feb 2026, rebuttal 31 Mar-3 Apr 2026, notification 14 Apr 2026, camera-ready 23 May 2026, conference 26-29 Jul 2026, all AoE; HotCRP at https://submissions.floc26.org/ijcar; 15 pages LNCS (regular) / 7 pages (short), single-blind with optional rebuttal; PC chairs Biere/Lutz/Negri. The TABLEAUX society mirror (tableaux-conf.github.io/web/ijcar-2026/) still shows an earlier snapshot (papers 13->15 Feb, rebuttal 30-31 Mar, camera-ready 15 Jun); the official FLoC page values are used. The next edition, IJCAR 2028 in Montpellier, France (conference chairs David Delahaye and Simon Robillard, LIRMM/Université de Montpellier), is known only from the CADE president's report presented at the IJCAR 2026 business meeting (https://ijcar.org/Reports/IJCAR-13_JuergenGiesl.pdf). Checked again today: no ijcar2028 web site resolves (ijcar2028.org / www.ijcar2028.org fail DNS), web searches for 'IJCAR 2028' return no CFP/dates/site, the latest AAR Newsletter (No. 151, Sept 2026, per aarinc.org) contains no IJCAR 2028 item (only the FSCD/CADE 2027 Nijmegen, 21-27 Aug 2027 workshop call, proposals due 4 Dec 2026), cadeinc.org/conferences lists CADE-31 (Nijmegen, Aug 2027) as the next CADE and no IJCAR 2028, and no FLoC 2028 host has been announced. Per the CADE/IJCAR management schedule (https://cadeinc.org/Schedule) an IJCAR 2028 CFP would be expected around May-June 2027 with abstracts early Feb 2028 and papers mid-Feb 2028 - unofficial, so not reported as dates.",
-          "last_checked": "2026-11-09",
+          "notes": "No IJCAR edition with an upcoming submission deadline exists as of 2026-11-13, so the most recently announced edition (IJCAR 2026, already held 26-29 July 2026 in Lisbon within FLoC 2026) is reported. Re-verified today: ijcar.org now reads 'Next Conference: IJCAR 2028, TBA, TBA' and ijcar.org/conferences lists IJCAR 2028 as the only future conference with everything TBA (location, dates, 'Program Chairs: TBA', 'Conference Chair: TBA'), i.e. no CFP, no site (ijcar2028.org does not resolve; ijcar.org/2028/ is 404). The official FLoC 2026 IJCAR CFP page (JS-rendered) gives abstracts 6 Feb 2026, papers 15 Feb 2026, rebuttal 31 Mar-3 Apr 2026, notification 14 Apr 2026, camera-ready 23 May 2026, conference 26-29 Jul 2026, all AoE; HotCRP at https://submissions.floc26.org/ijcar; 15 pages LNCS (regular) / 7 pages (short), single-blind with optional rebuttal; PC chairs Biere/Lutz/Negri. The abstract/paper dates and conference dates were cross-checked today against CCFDDL (https://ccfddl.com/venues/ct/ijcar-2026/, 6 and 15 Feb 2026 AoE, Lisbon 26-29 Jul 2026) and the Springer proceedings volume (LNCS/LNAI 16688-16689). The TABLEAUX society mirror (tableaux-conf.github.io/web/ijcar-2026/) still shows an earlier snapshot (papers 13->15 Feb, rebuttal 30-31 Mar, camera-ready 15 Jun); the official FLoC page values are used. IJCAR 2028 in Montpellier, France (conference chairs David Delahaye and Simon Robillard, LIRMM/Universite de Montpellier) is known only from the CADE president's report presented at the IJCAR 2026 business meeting (https://ijcar.org/Reports/IJCAR-13_JuergenGiesl.pdf); web searches for 'IJCAR 2028' still return no CFP/dates/site, the latest AAR Newsletter (No. 151, Sept 2026, aarinc.org) contains no IJCAR 2028 item (only the FSCD/CADE 2027 Nijmegen, 21-27 Aug 2027 workshop call, proposals due 4 Dec 2026), cadeinc.org/conferences lists CADE-31 (Nijmegen, Aug 2027) as the next CADE and no IJCAR 2028, and no FLoC 2028 host has been announced. Per the CADE/IJCAR management schedule (https://cadeinc.org/Schedule) an IJCAR 2028 CFP would be expected around mid-2027 with abstracts early Feb 2028 and papers mid-Feb 2028 - unofficial, so not reported as dates.",
+          "last_checked": "2026-11-13",
           "link": "https://www.floc26.org/ijcar"
         }
       ],
-      "last_checked": "2026-11-09"
+      "last_checked": "2026-11-13"
     },
     {
       "id": "kr",
@@ -2042,13 +2080,13 @@
       "name": "Programming Language Design and Implementation",
       "category": "Programming languages",
       "homepage": "https://www.sigplan.org/Conferences/PLDI/",
-      "last_checked": "2026-10-31",
+      "last_checked": "2026-11-13",
       "editions": [
         {
           "year": 2027,
           "link": "https://pldi27.sigplan.org/",
           "cfp": "https://pldi27.sigplan.org/track/pldi-2027-papers",
-          "location": "Atlanta, Georgia, United States",
+          "location": "Atlanta, Georgia, United States (Hyatt Regency Atlanta)",
           "conference_start": "2027-06-05",
           "conference_end": "2027-06-11",
           "pc_chairs": [
@@ -2061,22 +2099,22 @@
             {
               "name": "Main",
               "abstract_deadline": null,
-              "submission_deadline": "2026-11-12",
+              "submission_deadline": "2026-11-12T23:59",
               "timezone": "AoE",
               "rebuttal_start": "2027-02-16",
               "rebuttal_end": "2027-02-18",
               "notification": "2027-03-04",
               "final_version": "2027-04-15",
               "cfp": "https://pldi27.sigplan.org/track/pldi-2027-papers",
-              "submission_link": null,
-              "page_limit": null,
-              "notes": "Single submission cycle. Official important-dates list: submission 12 Nov 2026 (AoE); author response 16-18 Feb 2027; author notification 4 Mar 2027; revision deadline 23 Mar 2027; final acceptance notification 1 Apr 2027; camera-ready 15 Apr 2027. CFP text (page limit, submission site) not yet posted on the track page; PLDI Review Committee not yet listed."
+              "submission_link": "https://pldi2027.hotcrp.com",
+              "page_limit": "20 pages of text in ACM proceedings (acmsmall) format, excluding Data-Availability Statement, references and supplementary material",
+              "notes": "Single submission cycle (PACMPL Issue PLDI 2027). CFP: 'The submission deadline is 11:59 PM on Thursday, November 12, 2026 (anywhere on earth)'; explicitly no abstract deadline. Official dates page: submission deadline Thu 12 Nov 2026; author response period Tue 16 - Thu 18 Feb 2027; author notification Thu 4 Mar 2027; revision deadline Tue 23 Mar 2027; final acceptance notification Thu 1 Apr 2027; camera-ready Thu 15 Apr 2027. Two-round reviewing with conditional acceptance; new for 2027: reserve-reviewer policy (TPMS registration), Data-Availability Statement, mechanized-proof and AI-use requirements."
             }
           ],
           "source": "https://pldi27.sigplan.org/dates",
           "confidence": "high",
-          "notes": "Dates read from the official PLDI 2027 site (pldi27.sigplan.org/dates and the Research Papers track page). Call-for-papers details such as page limit and HotCRP link are not yet published; PLDI 2027 is co-located within ACM FCRC.",
-          "last_checked": "2026-10-01"
+          "notes": "Dates and CFP details read directly from the official PLDI 2027 site (pldi27.sigplan.org/dates, the Research Papers CFP page, and the PLDI Review Committee page). As of 2026-11-13 the 12 Nov 2026 AoE deadline is closing/closed and no PLDI 2028 edition has been announced (pldi28.sigplan.org does not resolve; SIGPLAN and the PLDI series page list nothing beyond 2027), so PLDI 2027 (48th edition, 5-11 June 2027, Hyatt Regency Atlanta, workshops 5-6 June) is the most recently announced edition. Zhendong Su is listed as PC Chair (the 'Associate Editor' role in PLDI's PACMPL setup); 10 Associate Chairs are also listed on the Review Committee page.",
+          "last_checked": "2026-11-13"
         }
       ]
     },
@@ -2165,7 +2203,7 @@
         {
           "year": 2027,
           "location": "Singapore — University Cultural Centre, National University of Singapore (hosted by the Centre for Quantum Technologies)",
-          "notes": "Verified on the official QIP 2027 site (home page key dates + Call for Submissions, re-checked 9 Nov 2026): 30th edition, single-track, Singapore 20–26 Feb 2027 (tutorials 20–21 Feb; the IAQI 'next QIP' page lists the technical programme as 22–26 Feb). All deadlines 23:59 AoE. Omar Fawzi is the sole PC chair; topic chairs and Technical Operations Chair Christian Schaffner are listed separately and are not PC co-chairs. Other key dates: early-bird registration closes 20 Dec 2026, registration closes 20 Jan 2027. QIP 2028 has not been announced (qip.iaqi.org/nextqip still lists Singapore 2027), so QIP 2027 remains the next edition with an upcoming (poster) deadline.",
+          "notes": "30th edition, Singapore 20–26 Feb 2027 (tutorials 20–21 Feb; the IAQI 'next QIP' page lists the technical programme as 22–26 Feb). Re-verified on the official home page key dates, Call for Submissions and Committees pages on 13 Nov 2026; all deadlines 23:59 AoE. Omar Fawzi is the sole PC chair — topic chairs and Technical Operations Chair Christian Schaffner are listed separately and are not PC co-chairs. QIP 2028 has not been announced (qip.iaqi.org/nextqip still lists Singapore 2027).",
           "rounds": [
             {
               "name": "Contributed talks (main track)",
@@ -2175,8 +2213,8 @@
               "notification": "2026-11-30",
               "cfp": "https://qipconference.org/2027/call/",
               "submission_link": "https://hotcrp.science.uva.nl/qip2027/",
-              "page_limit": "3 pages for the extended abstract, excluding references (single column, ≥11 pt); technical manuscript (arXiv PDF) uploaded separately, no page limit stated",
-              "notes": "Two-step process: talk registration (title, short abstract, final author list, 1–2 topics) by 28 Sep 2026, then completion (3-page extended abstract with no author names/affiliations, public versioned arXiv link(s), technical manuscript PDF, declarations, 'ready for review' checked) by 5 Oct 2026. Author list frozen at registration; public arXiv posting required by the submission deadline (arXiv moderation-delay protection cutoff 30 Sep 2026, 18:00 UTC). Single-track conference; no author-response/rebuttal period is mentioned. Work presented as a contributed talk at TQC 2026 is ineligible. Both deadlines have passed as of 9 Nov 2026; talk notifications on 30 Nov 2026."
+              "page_limit": "3 pages for the extended abstract, excluding references (single-column, font size ≥11 pt); the technical manuscript (arXiv PDF) is uploaded separately with no page limit stated",
+              "notes": "Two-step process: talk registration (title, short abstract, final author list, 1–2 topics) by 28 Sep 2026, then completion by 5 Oct 2026 (3-page extended abstract with no author names/affiliations, public versioned arXiv link(s), technical manuscript PDF, author-responsibility and generative-AI declarations, 'ready for review' checked). Author list frozen at the registration deadline; public arXiv posting required by the submission deadline (arXiv moderation-delay protection cutoff 30 Sep 2026, 18:00 UTC). QIP is single-track; the topic chairs only help organise reviewing. No author-response/rebuttal period is mentioned. Work presented as a contributed talk at TQC 2026 is ineligible. Both deadlines have passed as of 13 Nov 2026; talk notifications on 30 Nov 2026."
             },
             {
               "name": "Posters",
@@ -2187,10 +2225,10 @@
               "cfp": "https://qipconference.org/2027/call/",
               "submission_link": "https://hotcrp.science.uva.nl/qip2027_posteronly/",
               "page_limit": null,
-              "notes": "Separate HotCRP server and independent review; a talk submission is not automatically considered for a poster. Rolling review began 5 Oct 2026, with target notification within two weeks of a submission being marked complete (no fixed notification date). Requires title, authors (presenter listed first), abstract and technical manuscript PDF; no extended abstract or arXiv posting required. This is the only still-open submission deadline for the next edition."
+              "notes": "Separate HotCRP server and independent review; a talk submission is not automatically considered for a poster. Rolling review began 5 Oct 2026 with target notification within two weeks of a submission being marked complete (no fixed notification date). Requires title, authors (presenter listed first), abstract and technical manuscript PDF; no extended abstract or arXiv posting required. This is the only still-open submission deadline for the next edition (4 Dec 2026). Other key dates: early-bird registration closes 20 Dec 2026, registration closes 20 Jan 2027."
             }
           ],
-          "last_checked": "2026-11-09",
+          "last_checked": "2026-11-13",
           "link": "https://qipconference.org/2027/",
           "cfp": "https://qipconference.org/2027/call/",
           "conference_start": "2027-02-20",
@@ -2205,7 +2243,7 @@
           "confidence": "high"
         }
       ],
-      "last_checked": "2026-11-09"
+      "last_checked": "2026-11-13"
     },
     {
       "id": "sas",
@@ -2354,16 +2392,16 @@
               "cfp": null,
               "submission_link": null,
               "page_limit": null,
-              "notes": "No call for papers or submission dates announced yet (re-checked 2026-11-09). The official SAT27 site has a complete navigation structure (Home, Dates, CFP, Proceedings, Program, Speakers, Committees, Affiliated Events), but every content page is still a placeholder reading 'We are sorry to keep you waiting. Details will be announced as soon as possible.' The CFP page (https://satisfiability.org/SAT27/pages/cfp.html) shows only empty section headings (Scope, Paper Categories, Submission, Deadlines, Best Paper Awards, Proceedings, Contact); the Dates page lists no dates; Committees lists no names (only 'SAT Association / Chairs / Program Committee' headings); Speakers, Program, Proceedings and Affiliated Events are likewise empty (Affiliated Events shows only 'Summer School / Workshops / Competitions' headings). Hence no abstract/paper deadline, rebuttal, notification, camera-ready, submission link, page limit or PC chairs can be reported. The home page adds only 'The workshops will be announced soon...'"
+              "notes": "Re-checked 2026-11-13: still no call for papers and no submission dates. The official SAT27 site (https://satisfiability.org/SAT27/) has a full navigation structure (Home, Dates, CFP, Proceedings, Program, Speakers, Committees, Affiliated Events), but every content page is still a placeholder reading 'We are sorry to keep you waiting. Details will be announced as soon as possible.' Verified individually: CFP page (https://satisfiability.org/SAT27/pages/cfp.html) shows only empty headings (Scope, Paper Categories, Submission, Deadlines, Best Paper Awards, Proceedings, Contact); Dates page (pages/dates.html) lists no dates; Committees (pages/committees.html) lists no names (only 'SAT Association / Chairs / Program Committee' headings); Speakers and Affiliated Events (Summer School / Workshops / Competitions) are likewise empty. The home page only adds 'The workshops will be announced soon...'. Hence no abstract/paper deadline, rebuttal, notification, camera-ready, submission link, page limit or PC chairs can be reported; nothing was extrapolated from earlier cycles. Only the venue/dates are stated: 'The 30th International Conference on Theory and Applications of Satisfiability Testing (SAT 2027) will take place July 5-9 in Barcelona, Spain.'"
             }
           ],
           "source": "https://satisfiability.org/SAT27/",
           "confidence": "medium",
-          "notes": "SAT 2027 = 30th International Conference on Theory and Applications of Satisfiability Testing, the next edition after SAT 2026 (Lisbon, 20-23 July 2026, already held; LIPIcs vol. 377 published). Official site https://satisfiability.org/SAT27/ states: 'The 30th International Conference on Theory and Applications of Satisfiability Testing (SAT 2027) will take place July 5-9 in Barcelona, Spain.' Re-checked 2026-11-09: no change since 2026-11-04 - the site is structurally complete but all content pages (Dates, CFP, Committees, Speakers, Program, Proceedings, Affiliated Events) are still placeholders, so cfp is reported as null (the CFP URL exists but contains no call) and pc_chairs as null. No submission deadline is known, so this series currently has no upcoming deadline; nothing was extrapolated from past cycles (SAT 2026 abstracts/papers were due late Feb/early March 2026). Other sources add nothing: satisfiability.org still lists SAT 2026 as 'Next Meeting' and does not yet list SAT 2027 among future/past meetings; satassociation.org's banner still points to SAT 2026, its news page only carries the Fahiem Bacchus PhD Award 2026 call, and its steering-committee page lists conference chairs only up to 2026 (no SAT 2027 chairs); satlive.org's latest SAT conference CFP news is still the SAT 2026 second call (Jan 2026) and its upcoming-deadlines list contains no SAT 2027 entry; the only 'SAT 2027 deadline Mar 2, 2027' claim found is an aggregator's estimate from past cycles (whiterabbitai.org), which was not used. Note: satassociation.org's banner shows 'July 10-15 2026' for SAT 2026, conflicting with the official conference site (20-23 July 2026). Re-check once the CFP/Dates pages are populated (historically the SAT CFP appears around December-January before a March deadline, but this is unconfirmed).",
-          "last_checked": "2026-11-09"
+          "notes": "SAT 2027 = 30th International Conference on Theory and Applications of Satisfiability Testing, the next edition after SAT 2026 (Lisbon, ISCTE, 20-23 July 2026, part of FLoC 2026; already held, LIPIcs vol. 377 published). Since no submission deadline for SAT 2027 has been announced, this is the most recently announced edition and the series currently has no upcoming deadline. Re-check 2026-11-13 confirms no change since 2026-11-09: cfp reported as null (the CFP URL exists but contains no actual call) and pc_chairs as null. Corroborating sources add nothing: satisfiability.org's index still lists 'Next Meeting: SAT 2026' and does not yet list SAT 2027 among future/past meetings; satassociation.org's banner still points to SAT 2026, its news page carries only the Fahiem Bacchus PhD Award 2026 call (nominations due 15 May 2026), and its steering-committee page lists conference chairs only up to 2026 (Alexey Ignatiev, Monash University; Stefan Szeider, TU Wien) with no SAT 2027 organizers; satlive.org's newest news items are job CFPs and its latest SAT conference CFP news is still the SAT 2026 second call (9 Jan 2026), with upcoming deadlines listing no SAT 2027 entry; general web searches (Bing) return only standardized-test SAT results, and the only 'SAT 2027 deadline Mar 2, 2027' claim found earlier was an aggregator's estimate from past cycles, which was not used. Note: satassociation.org's banner shows 'July 10-15 2026' for SAT 2026, conflicting with the official conference site (20-23 July 2026). Re-check once the Dates/CFP/Committees pages are populated (historically the SAT CFP appears in winter before a late-Feb/March deadline, but this is unconfirmed).",
+          "last_checked": "2026-11-13"
         }
       ],
-      "last_checked": "2026-11-09"
+      "last_checked": "2026-11-13"
     },
     {
       "id": "smt",
@@ -2424,7 +2462,7 @@
               "cfp": null,
               "submission_link": null,
               "page_limit": null,
-              "notes": "Re-checked 2026-11-09: NO paper submission deadline (or any other date) has been announced for SMT 2027. The official workshop site (smt-workshop.cs.uiowa.edu/2027/index.shtml) contains only the workshop dates (July 19-20, 2027), venue (Amsterdam, NL), affiliation with CAV 2027, and scope/topics; committees.shtml lists the two program chairs and 'Program Committee: To be announced.' There is no CFP page (/2027/cfp.shtml, /2027/call.shtml, /2027/submission.shtml, /2027/submissions.shtml all return HTTP 404), no submission system link, no page limit, no notification or camera-ready date. The SMT series page meetings.shtml still lists SMT 2026 (Lisbon) as the most recent edition and does not list 2027; the smt-announce mailing list has no SMT 2027 CFP (newest posts are from Jul 2026, all about SMT 2026 / SMT-COMP '26). Context from CAV 2027's call for workshops (workshop organizers' obligations, all AoE): workshop webpage online by Nov 1, 2026 (done), 'Call for contributions' by Jan 1, 2027, and participant notifications 'TBD, likely by May 15, 2027' - so a CFP with a submission deadline is expected (historically around March-May) but is not yet published. Do not infer dates from prior years."
+              "notes": "Re-checked 2026-11-13: still NO CFP and NO submission deadline announced for SMT 2027. The official workshop site (smt-workshop.cs.uiowa.edu/2027/index.shtml) lists only the workshop dates (July 19-20, 2027), venue (Amsterdam, NL), affiliation with CAV 2027, and scope/topics; its navigation offers just 'Home' and 'Committees'. committees.shtml lists the two program chairs and 'Program Committee: To be announced.' No CFP page exists (/2027/cfp.shtml, /2027/call.shtml, /2027/callforpapers.shtml, /2027/submission.shtml, /2027/submissions.shtml, /2027/submit.shtml all return HTTP 404); no submission system link, page limit, notification or camera-ready date. The series page meetings.shtml still lists SMT 2026 (Lisbon) as the latest edition and does not yet list 2027. Context from CAV 2027's call for workshops (all deadlines AoE): accepted workshop organizers had to have their webpage online by Nov 1, 2026 (done), publish a 'Call for contributions' by Jan 1, 2027, and notify participants 'TBD, likely by May 15, 2027' - so a CFP with a submission deadline is expected (historically around March-May) but is not yet published. Do not infer dates from prior years."
             }
           ],
           "source": "https://smt-workshop.cs.uiowa.edu/2027/index.shtml",
@@ -2443,11 +2481,11 @@
               "affiliation": "Inria, LMF, France"
             }
           ],
-          "notes": "SMT 2027 = 25th International Workshop on Satisfiability Modulo Theories, July 19-20, 2027, Amsterdam, The Netherlands (KIT venue), co-located with CAV 2027 (CAV workshops Mon Jul 19 - Tue Jul 20; main conference Jul 21-23, 2027; CAV main-track deadline Jan 20, 2027 AoE). Confirmed as an accepted CAV 2027 workshop on the CAV 2027 program page, organized by Katalin Fazekas and Hans-Joerg Schurr. It is the next edition, but as of 2026-11-09 no CFP or submission deadline has been announced, so it is reported as the most recently announced edition with all deadline fields null. Previous edition SMT 2026 (24th, Lisbon, July 24-25, 2026, affiliated with IJCAR/FLoC 2026) closed submissions May 7, 2026 (AoE) and has already taken place.",
-          "last_checked": "2026-11-09"
+          "notes": "SMT 2027 = 25th International Workshop on Satisfiability Modulo Theories, July 19-20, 2027, Amsterdam, The Netherlands (KIT venue), co-located with CAV 2027 (CAV workshops Mon Jul 19 - Tue Jul 20; main conference Jul 21-23, 2027; CAV main-track deadline Jan 20, 2027 AoE). Confirmed as an accepted CAV 2027 workshop on the CAV 2027 program page (organized by Katalin Fazekas and Hans-Joerg Schurr, running on both Mon Jul 19 and Tue Jul 20). It is the next edition, but as of 2026-11-13 no CFP or submission deadline has been announced, so it is reported as the most recently announced edition with all deadline fields null. The previous edition SMT 2026 (24th, Lisbon, July 24-25, 2026, affiliated with IJCAR/FLoC 2026) closed submissions on May 7, 2026 (AoE) and has already taken place.",
+          "last_checked": "2026-11-13"
         }
       ],
-      "last_checked": "2026-11-09"
+      "last_checked": "2026-11-13"
     },
     {
       "id": "sp",
@@ -2660,8 +2698,8 @@
               "final_version": null,
               "cfp": "https://tqc-conference.org/2026/call/",
               "submission_link": "https://hotcrp.science.uva.nl/tqc2026/",
-              "page_limit": "Extended abstract max 3 pages (excl. references) + technical manuscript (no page limit); only the first 15 pages of the technical version appear in LIPIcs (excl. references)",
-              "notes": "Closed. Submission server opened 2026-01-10; early (poster) notification 2026-03-01; camera-ready deadline listed as TBA on the CFP. No author-response/rebuttal period. Switching between 'Without Proceedings' and 'With Proceedings' was possible until 2026-02-08."
+              "page_limit": "Extended abstract max 3 pages (excl. references) + technical manuscript (no page limit); first 15 pages of the technical version appear in LIPIcs (excl. references)",
+              "notes": "Closed. Submission server opened 2026-01-10; early (poster) notification 2026-03-01; camera-ready listed as TBA on the CFP. No author-response/rebuttal period. Switching between 'Without Proceedings' and 'With Proceedings' was possible until 2026-02-08."
             },
             {
               "name": "Poster-only",
@@ -2671,7 +2709,7 @@
               "cfp": "https://tqc-conference.org/2026/call/#poster-only-submissions",
               "submission_link": "https://hotcrp.science.uva.nl/tqc2026_posteronly/",
               "page_limit": "Short summary of 2 pages, or the talk-submission format",
-              "notes": "Closed. Separate poster-only track with its own HotCRP server (opened 2026-02-08); early notification 2026-03-01."
+              "notes": "Closed. Separate poster-only track with its own HotCRP server (opened 2026-02-08)."
             }
           ],
           "link": "https://tqc-conference.org/2026/",
@@ -2691,11 +2729,11 @@
           ],
           "source": "https://tqc-conference.org/2026/call/",
           "confidence": "high",
-          "notes": "Re-checked 2026-11-09: there is NO upcoming TQC submission deadline. The 21st TQC (Sherbrooke, Québec, Canada; 31 Aug–4 Sep 2026) already took place; both rounds closed (talks 2026-02-01 AoE, poster-only 2026-04-20 AoE). The next edition, TQC 2027, is announced on the official site only as 'will be held in Grenoble, France' (https://tqc-conference.org/2026/2027/) — no dates, no CFP, no submission site, no PC chairs; tqc-conference.org/2027/ and hotcrp.science.uva.nl/tqc2027/ both return 404, and the official Hugo repo IAQI/tqc-website still contains only content/2024, 2025, 2026. quantum.info (last updated 2026-11-03) still lists TQC 2027 as TBA. The community archive tqc.iaqi.org lists TQC 2027 as '30 Aug – 3 Sep 2027' (added 2026-09-28), but this is not confirmed on the official TQC site, so it is not used as the record. TQC 2028 = Sydney, Australia. Therefore the most recently announced edition with stated dates, TQC 2026, is reported. All TQC deadlines are 23:59 AoE; proceedings published in LIPIcs (Dagstuhl). PC chair = Rotem Arnon, PC co-chair = Aram Harrow.",
-          "last_checked": "2026-11-09"
+          "notes": "Re-checked 2026-11-13: there is NO upcoming TQC submission deadline. The 21st TQC (Sherbrooke, Québec, Canada; 31 Aug-4 Sep 2026) already took place; both rounds closed (talks 2026-02-01 AoE, poster-only 2026-04-20 AoE). The next edition, TQC 2027, is still announced on the official site only as 'will be held in Grenoble, France' (https://tqc-conference.org/2026/2027/) - no dates, no CFP, no submission site, no PC chairs; tqc-conference.org/2027/ and .../2027/call/ both return 404, and the official Hugo repo IAQI/tqc-website still contains only content/2024, 2025, 2026. quantum.info (last updated 2026-11-12) still lists TQC 2027 as TBA. The community archive tqc.iaqi.org lists TQC 2027 as '30 Aug - 3 Sep 2027', but this is not confirmed on the official TQC site, so it is not used as the record. TQC 2028 = Sydney, Australia. Therefore the most recently announced edition with stated dates, TQC 2026, is reported. All TQC deadlines are 23:59 AoE; proceedings published in LIPIcs (Dagstuhl). PC chair = Rotem Arnon, PC co-chair = Aram Harrow.",
+          "last_checked": "2026-11-13"
         }
       ],
-      "last_checked": "2026-11-09"
+      "last_checked": "2026-11-13"
     },
     {
       "id": "usenix-security",
