@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "categories": [
     "Formal methods",
     "Programming languages",
@@ -48,7 +48,7 @@
               "cfp": "https://aaai.org/conference/aaai/aaai-27/main-technical-track-call/",
               "submission_link": "https://openreview.net/group?id=AAAI.org/2027/Conference",
               "page_limit": "7 pages of main content, max 9 pages total (pages beyond 7 reserved exclusively for references), AAAI two-column style",
-              "notes": "Re-read on aaai.org 2026-11-24 (official 'Main Conference Timetable for Authors'; all deadlines AoE / UTC-12): OpenReview open for author registration 2026-06-17; submissions open 2026-06-30; abstracts due 2026-07-21 23:59; full papers due 2026-07-28 23:59; supplementary material & code due 2026-07-31 23:59; Phase 1 rejection notification 2026-09-24; author feedback window shown as ~~October 19-25, 2026~~ -> October 24-31, 2026 (CLOSED); final accept/reject notification 2026-11-30 (upcoming, 6 days away); camera-ready 2026-12-14; conference 2027-02-16 to 2027-02-23, Montreal. Two-phase reviewing (Phase 1 = two human reviews + one AI-generated, non-decisional supplementary review; author response only for papers not rejected in Phase 1). Max 10 submissions per author; reproducibility checklist mandatory. ALL PAPER SUBMISSION DEADLINES HAVE PASSED."
+              "notes": "Re-read on aaai.org 2026-11-27 (official 'Main Conference Timetable for Authors'; all deadlines AoE / UTC-12): OpenReview open for author registration 2026-06-17; submissions open 2026-06-30; abstracts due 2026-07-21 23:59; full papers due 2026-07-28 23:59; supplementary material & code due 2026-07-31 23:59; Phase 1 rejection notification 2026-09-24; author feedback window shown as ~~October 19-25, 2026~~ -> October 24-31, 2026 (CLOSED); final accept/reject notification 2026-11-30 (3 days away); camera-ready 2026-12-14; conference 2027-02-16 to 2027-02-23, Palais des congrès, Montréal. Two-phase reviewing (Phase 1 = two human reviews + one AI-generated, non-decisional supplementary review; author response only for papers not rejected in Phase 1). Max 10 submissions per author; reproducibility checklist mandatory. ALL PAPER SUBMISSION DEADLINES HAVE PASSED."
             },
             {
               "name": "Special Track on AI Alignment (AIA)",
@@ -81,11 +81,11 @@
           ],
           "source": "https://aaai.org/conference/aaai/aaai-27/main-technical-track-call/",
           "confidence": "high",
-          "notes": "Re-verified 2026-11-24 directly on aaai.org (AAAI Conference page 'Future Conferences'; AAAI-27 home page author timetable sidebar; Main Technical Track CFP; Conference Organizers). https://aaai.org/conference/aaai/ still lists ONLY the Forty-first Conference (AAAI-27, Montreal, Feb 16-23, 2027) as a future edition; https://aaai.org/conference/aaai/aaai-28/ returns HTTP 404 and the AAAI news page carries no AAAI-28 announcement (aggregators such as mldeadlines.com also report 'No upcoming AAAI deadline has been announced'), so AAAI-27 is the most recently announced edition and there is NO upcoming AAAI main-track paper submission deadline. Every AAAI-27 submission window has closed: main track & AISI abstracts 2026-07-21 / papers 2026-07-28 / supplementary+code 2026-07-31; AIA 2026-08-14 / 08-21 / 08-24; Demonstrations 2026-09-18; Senior Member Presentation Track 2026-09-23; Student Abstracts 2026-09-28; Journal Track 2026-10-30 (all AoE; Journal Track notification 2026-11-13 also passed). Remaining AAAI-27 milestones: final accept/reject notifications 2026-11-30 (Main, AIA, AISI); Journal Track camera-ready 2026-12-03; main/AIA/AISI camera-ready 2026-12-14; Senior Member camera-ready 2026-12-30; conference Feb 16-23, 2027. Author feedback windows have closed (Main/AISI 2026-10-24 to 10-31; AIA 2026-10-27 to 11-02). Program Co-Chairs Yan Liu (USC) and Balaraman Ravindran (IIT Madras) confirmed on the organizers page (AAAI Conference Committee Chair Kevin Leyton-Brown; General Chair Edith Elkind). Other AAAI-27 calls (Journal Track, Senior Member Track, Doctoral Consortium, Demonstrations, Student Abstracts, Workshops, Tutorials, Bridge Program, EAAI-27/IAAI-27) are separate programs, not cycles of the main track, so not listed as rounds. An AAAI-28 CFP would be expected around spring/summer 2027 based on historical cycles; recheck https://aaai.org/conference/aaai/ then.",
-          "last_checked": "2026-11-24"
+          "notes": "Re-verified 2026-11-27 directly on aaai.org (AAAI Conference page 'Future Conferences'; AAAI-27 home page author timetable sidebar; Main Technical Track, AIA and AISI CFPs; Conference Organizers). https://aaai.org/conference/aaai/ still lists ONLY the Forty-first Conference (AAAI-27, Montréal, Feb 16-23, 2027) as a future edition; https://aaai.org/conference/aaai/aaai-28/ returns HTTP 404, the AAAI news page carries no AAAI-28 announcement, and deadline trackers (reviewpaper.ai, whiterabbitai.org, journalcompass) all state the AAAI 2028 deadline is NOT announced (only guesses of ~late July 2027). So AAAI-27 is the most recently announced edition and there is NO upcoming AAAI main-track paper submission deadline. Every AAAI-27 submission window has closed: main track & AISI abstracts 2026-07-21 / papers 2026-07-28 / supplementary+code 2026-07-31; AIA 2026-08-14 / 08-21 / 08-24; Demonstrations 2026-09-18; Senior Member Track 2026-09-23; Student Abstracts 2026-09-28; Journal Track 2026-10-30 (notification 2026-11-13 also passed). Remaining AAAI-27 milestones: final accept/reject notifications 2026-11-30 (Main, AIA, AISI); Journal Track camera-ready 2026-12-03; main/AIA/AISI camera-ready 2026-12-14; Senior Member camera-ready 2026-12-30; conference Feb 16-23, 2027. Author feedback windows have closed (Main/AISI 2026-10-24 to 10-31; AIA 2026-10-27 to 11-02). Program Co-Chairs Yan Liu (USC) and Balaraman Ravindran (IIT Madras) confirmed on the organizers page (AAAI Conference Committee Chair Kevin Leyton-Brown; General Chair Edith Elkind). Other AAAI-27 calls (Journal Track, Senior Member Track, Doctoral Consortium, Demonstrations, Student Abstracts, Workshops, Tutorials, Bridge Program, EAAI-27/IAAI-27) are separate programs, not cycles of the main track, so not listed as rounds. An AAAI-28 CFP would be expected around spring/summer 2027 based on historical cycles; recheck https://aaai.org/conference/aaai/ then.",
+          "last_checked": "2026-11-27"
         }
       ],
-      "last_checked": "2026-11-24"
+      "last_checked": "2026-11-27"
     },
     {
       "id": "aamas",
@@ -386,7 +386,7 @@
       "name": "ACM Conference on Computer and Communications Security",
       "category": "SE & security",
       "homepage": "https://www.sigsac.org/ccs.html",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-27",
       "editions": [
         {
           "year": 2027,
@@ -728,17 +728,17 @@
               "cfp": "https://dac.com/2027/program/research-manuscript-submissions",
               "submission_link": "https://softconf.com/dac27/research",
               "page_limit": "6 pages (IEEE two-column template, 9 or 10-pt font, PDF) excluding references, plus 1 additional page for references only",
-              "notes": "Research Track, single cycle, double-blind. Stage One abstract (title, ~100-word abstract, all co-authors + COIs) due Nov 11, 2026 5:00 pm US Pacific; Stage Two manuscript due Nov 18, 2026 5:00 pm US Pacific (PST, UTC-8). Both deadlines have now passed (today = Nov 23, 2026); the CFP states there is no resubmission/correction opportunity after Nov 18. No author-response/rebuttal phase. Official 'Research Manuscripts Timeline' event calendar: accepted research manuscript IDs published on the DAC website Feb 22, 2027; accept/reject notification Mar 8, 2027; manuscript confirmation due Mar 22, 2027; proceedings (camera-ready) manuscript deadline Mar 31, 2027; author registration deadline Apr 10, 2027; draft slides due Apr 15, 2027; slide feedback May 14, 2027; DAC begins Jul 11, 2027."
+              "notes": "Research Track, single cycle, double-blind. Stage One abstract (title, ~100-word abstract, all co-authors + COIs) due Nov 11, 2026 5:00 pm US Pacific; Stage Two manuscript due Nov 18, 2026 5:00 pm US Pacific (PST, UTC-8). Both deadlines have passed (today = Nov 27, 2026); the CFP states there is no resubmission/correction opportunity after Nov 18 and no author-response/rebuttal phase. Official 'Research Manuscripts Timeline': accepted research manuscript IDs published on the DAC website Feb 22, 2027; accept/reject notification Mar 8, 2027; manuscript confirmation due Mar 22, 2027; proceedings (camera-ready) manuscript deadline Mar 31, 2027; author registration deadline Apr 10, 2027; draft slides due Apr 15, 2027; slide feedback May 14, 2027; DAC begins Jul 11, 2027."
             }
           ],
           "source": "https://dac.com/2027/program/research-manuscript-submissions",
           "confidence": "high",
-          "notes": "DAC 2027 = 64th IEEE/ACM Design Automation Conference, July 11-14, 2027, San Jose Convention Center, San Jose, CA (official 'Future Conferences' page, https://dac.com/event-type/future-conferences). Its single research submission deadline closed Nov 18, 2026, five days before today, and no later edition has an announced submission deadline, so DAC 2027 is reported as the most recently announced edition (its notification/camera-ready dates are still ahead). DAC 2028 (65th edition) is announced only by location/dates on the official site: June 25-28, 2028, San Jose Convention Center (dac.com/events/dac-2028); dac.com/2028 returns 404 and no DAC 2028 CFP exists yet (a June 2025 press release gave a wider June 24-30, 2028 window). DAC 2029 is listed as July 15-18, 2029, Austin Convention Center, Austin, TX. Site lists TPC leadership as TPC Chair Ambar Sarkar (Nvidia) with TPC Co-Chairs Jiang Hu (Texas A&M) and Rajiv Joshi (IBM); General Chair is David Z. Pan (UT Austin/DeepWeave), not included. Other calls (Engineering Track, Workshops/Tutorials, Panels, Special Sessions, DAC Pavilion, Exhibitor Forum) are separate tracks, not cycles of the main research track.",
-          "last_checked": "2026-11-23",
+          "notes": "DAC 2027 = 64th IEEE/ACM Design Automation Conference, July 11-14, 2027, San Jose Convention Center, San Jose, CA (official 'Future Conferences' page, https://dac.com/event-type/future-conferences). Re-checked Nov 27, 2026: the site still shows the Nov 11 (abstract) / Nov 18 (manuscript) 2026 research deadlines, and the DAC event calendar now lists the Nov 18 submission deadline as a 'Previous event', i.e. the single research-track cycle has closed. No later edition has an announced submission deadline, so DAC 2027 is reported as the most recently announced edition (its notification Mar 8, 2027 and camera-ready Mar 31, 2027 dates are still ahead). DAC 2028 (65th edition) is announced only by location/dates on the official site: June 25-28, 2028, San Jose Convention Center (https://dac.com/events/dac-2028); dac.com/2028 still returns 404 and no DAC 2028 CFP exists (the latest DAC press release about a call for contributions is '2027 DAC ... Opens Call for Contributions', Oct 6, 2026). DAC 2029 is listed as July 15-18, 2029, Austin Convention Center, Austin, TX. Site lists TPC leadership as TPC Chair Ambar Sarkar (Nvidia) with TPC Co-Chairs Jiang Hu (Texas A&M University) and Rajiv Joshi (IBM); General Chair David Pan (UT Austin/DeepWeave) is excluded. Other DAC 2027 calls (Engineering Track, Workshops/Tutorials, Panels, Special Sessions, DAC Pavilion [submission deadline Jan 11, 2027], Exhibitor Forum) are separate tracks, not cycles of the main research track.",
+          "last_checked": "2026-11-27",
           "link": "https://dac.com/2027"
         }
       ],
-      "last_checked": "2026-11-23"
+      "last_checked": "2026-11-27"
     },
     {
       "id": "date",
@@ -867,7 +867,7 @@
       "name": "European Symposium on Programming",
       "category": "Programming languages",
       "homepage": "https://etaps.org/",
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-27",
       "editions": [
         {
           "year": 2027,
@@ -901,14 +901,14 @@
               "final_version": "2027-01-25",
               "submission_link": "https://esop27.hotcrp.com/",
               "page_limit": "No page limit at submission (LNCS, PACMPL or TOPLAS format allowed); camera-ready research papers max 25 pages LNCS excl. bibliography (experience reports / fresh perspectives max 15 pp)",
-              "notes": "PASSED (Thu 15 Oct 2026 AoE, firm, no extensions); also the revision deadline for Round-1 'Revise' papers. Direct Round 2 submissions receive Accept/Reject only. Double-blind. Remaining upcoming milestones: rebuttal 7-9 Dec 2026; notification 22 Dec 2026; voluntary artifact submission 11 Jan 2027 (artifact notification 11 Feb 2027; optional 5-page artifact experience report); camera-ready 25 Jan 2027; conference 12-15 Apr 2027.",
+              "notes": "PASSED (Thu 15 Oct 2026 AoE, firm, no extensions); also the revision deadline for Round-1 'Revise' papers. Direct Round 2 submissions receive Accept/Reject only. Double-blind. Upcoming milestones: rebuttal 7-9 Dec 2026; notification 22 Dec 2026; voluntary artifact submission 11 Jan 2027 (artifact notification 11 Feb 2027; optional 5-page artifact experience report); camera-ready 25 Jan 2027; conference 12-15 Apr 2027.",
               "cfp": "https://etaps.org/2027/conferences/esop/"
             }
           ],
           "source": "https://etaps.org/2027/conferences/esop/",
           "confidence": "high",
-          "notes": "ESOP 2027 = 36th European Symposium on Programming, held within ETAPS 2027 (30th edition), Copenhagen, Denmark, 10-15 Apr 2027 (satellite events Apr 10-11; main conferences Apr 12-15), hosted by University of Copenhagen, IT University of Copenhagen and Aalborg University. All dates AoE and stated as firm (no extensions). ESOP-specific call: https://etaps.org/2027/esop (-> https://etaps.org/2027/conferences/esop/); joint ETAPS CFP with the full date table: https://etaps.org/2027/cfp (https://etaps.org/2027/important-dates redirects there). Single PC chair (Azalea Raad); no abstract deadline; submissions via HotCRP (esop27.hotcrp.com). RE-VERIFIED 2026-11-24 on the official site: both Round 1 (28 May 2026) and Round 2 (15 Oct 2026) submission deadlines have passed, so no ESOP paper-submission deadline is currently upcoming; ESOP 2027 is therefore the most recently announced edition (Round 2 review in progress: rebuttal 7-9 Dec 2026, notification 22 Dec 2026). The next edition, ESOP 2028 (ETAPS 2028, Karlsruhe, Germany, 2-7 Apr 2028, organised by Karlsruhe Institute of Technology), still has no CFP, no submission dates and no conference-level chair announcement: https://etaps.org/2028/ is a placeholder pointing to ETAPS 2027, and /2028/cfp, /2028/important-dates, /2028/organizers return 404. The ESOP steering-committee page (https://etaps.org/about/esop) lists Ugo Dal Lago (University of Bologna) as PC Chair 2028, but no ESOP 2028 dates exist yet. Other upcoming ESOP 2027 milestones (not paper-submission deadlines): voluntary artifact submission 11 Jan 2027, camera-ready 25 Jan 2027, and a Journal-After TOPLAS call planned to open in January 2027.",
-          "last_checked": "2026-11-24",
+          "notes": "ESOP 2027 = 36th European Symposium on Programming, held within ETAPS 2027 (30th edition), Copenhagen, Denmark, 10-15 Apr 2027 (satellite events Apr 10-11; main conferences Apr 12-15), hosted by University of Copenhagen, IT University of Copenhagen and Aalborg University. All dates AoE and stated as firm (no extensions). ESOP-specific call: https://etaps.org/2027/esop (-> https://etaps.org/2027/conferences/esop/); joint ETAPS CFP with the full date table: https://etaps.org/2027/cfp (https://etaps.org/2027/important-dates redirects there). Single PC chair (Azalea Raad); no abstract deadline; submissions via HotCRP (esop27.hotcrp.com). RE-VERIFIED 2026-11-27 on the official site: both Round 1 (28 May 2026) and Round 2 (15 Oct 2026) submission deadlines have passed, so NO ESOP paper-submission deadline is currently upcoming; ESOP 2027 is therefore the most recently announced edition (Round 2 under review: rebuttal 7-9 Dec 2026, notification 22 Dec 2026). The next edition, ESOP 2028 (ETAPS 2028, Karlsruhe, Germany, 2-7 Apr 2028, organised by Karlsruhe Institute of Technology), still has no CFP, no submission dates and no conference-level chair announcement: https://etaps.org/2028/ is a placeholder pointing to ETAPS 2027, and /2028/cfp, /2028/important-dates, /2028/organizers return 404; the ETAPS blog (latest post 4 Nov 2026) carries no ESOP 2028 CFP announcement. The ESOP steering-committee page (https://etaps.org/about/esop) lists Ugo Dal Lago (University of Bologna) as PC Chair 2028, but no ESOP 2028 dates exist yet. Other upcoming ESOP 2027 milestones (not paper-submission deadlines): voluntary artifact submission 11 Jan 2027, camera-ready 25 Jan 2027, and a Journal-After TOPLAS call planned to open in January 2027.",
+          "last_checked": "2026-11-27",
           "pc_chairs": [
             {
               "name": "Azalea Raad",
@@ -1018,7 +1018,7 @@
       "name": "Foundations of Software Science and Computation Structures",
       "category": "Logic & theory",
       "homepage": "https://etaps.org/",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "editions": [
         {
           "year": 2027,
@@ -1028,17 +1028,17 @@
               "name": "Main",
               "submission_deadline": "2026-10-15",
               "timezone": "AoE",
-              "rebuttal_start": "2026-12-07",
+              "rebuttal_start": "2026-26-07",
               "rebuttal_end": "2026-12-09",
               "notification": "2026-12-22",
               "final_version": "2027-01-25",
               "cfp": "https://etaps.org/2027/cfp/",
               "submission_link": "https://easychair.org/conferences/?conf=fossacs2027",
               "page_limit": "max 18 pages in Springer LNCS format, excluding bibliography",
-              "notes": "Single cycle, no abstract deadline. All dates AoE; CFP states deadlines are firm and will not be extended. Submission deadline (15 Oct 2026 AoE) has ALREADY PASSED as of 2026-12-... today (2026-11-23); the remaining upcoming steps are rebuttal 7-9 Dec 2026, notification 22 Dec 2026, camera-ready 25 Jan 2027. Voluntary artifact submission 11 Jan 2027, artifact notification 11 Feb 2027 (does not affect acceptance). Double-blind reviewing with author rebuttal."
+              "notes": "Single cycle, no abstract deadline. All dates AoE; the joint ETAPS CFP states deadlines are firm and will not be extended. The submission deadline (15 Oct 2026 AoE) has ALREADY PASSED as of today (2026-11-27); remaining upcoming steps: author rebuttal 7-9 Dec 2026, notification 22 Dec 2026, camera-ready 25 Jan 2027. Voluntary artifact submission 11 Jan 2027, artifact notification 11 Feb 2027 (does not affect acceptance). Double-blind reviewing with rebuttal; proceedings in Springer LNCS/ARCoSS, gold open access."
             }
           ],
-          "last_checked": "2026-11-23",
+          "last_checked": "2026-11-27",
           "link": "https://etaps.org/2027/",
           "cfp": "https://etaps.org/2027/cfp/",
           "conference_start": "2027-04-12",
@@ -1055,7 +1055,7 @@
           ],
           "source": "https://etaps.org/2027/cfp/",
           "confidence": "high",
-          "notes": "FoSSaCS 2027 = 29th International Conference on Foundations of Software Science and Computation Structures, held within ETAPS 2027 (30th ETAPS), Copenhagen, Denmark, 10-15 April 2027 (satellite events 10-11 April; main conferences incl. FoSSaCS 12-15 April), organised by Aalborg University, IT University of Copenhagen and University of Copenhagen; proceedings in Springer LNCS/ARCoSS, gold open access. NO UPCOMING FoSSaCS SUBMISSION DEADLINE EXISTS: the FoSSaCS 2027 deadline (15 Oct 2026 AoE) passed, so this entry reports the most recently announced edition, whose review process is still ongoing (rebuttal 7-9 Dec 2026, notification 22 Dec 2026). Re-verified today (2026-11-23) on the official ETAPS 2027 joint CFP (https://etaps.org/2027/cfp/), the FoSSaCS 2027 page (https://etaps.org/2027/conferences/fossacs/) and https://etaps.org/2027/. The next edition, FoSSaCS 2028 within ETAPS 2028 (Karlsruhe, Germany, 2-7 April 2028, hosted by Karlsruhe Institute of Technology), has no announced dates: https://etaps.org/2028/ is only a placeholder homepage explicitly pointing to ETAPS 2027 for current news, and https://etaps.org/2028/cfp/, /2028/important-dates, /2028/fossacs and /2028/organizers all return 404; no FoSSaCS 2028 CFP, dates or PC chairs are published anywhere (web search also returns nothing)."
+          "notes": "FoSSaCS 2027 = 29th International Conference on Foundations of Software Science and Computation Structures, held within ETAPS 2027 (30th ETAPS), Copenhagen, Denmark, 10-15 April 2027 (satellite events 10-11 April; main conferences incl. FoSSaCS 12-15 April), organised by University of Copenhagen, IT University of Copenhagen and Aalborg University.\n\nNO UPCOMING FoSSaCS SUBMISSION DEADLINE EXISTS. Re-verified today (2026-11-27) on the official ETAPS 2027 joint CFP (https://etaps.org/2027/cfp/), the FoSSaCS 2027 page (https://etaps.org/2027/conferences/fossacs/) and https://etaps.org/2027/important-dates (redirects to the CFP). The FoSSaCS 2027 deadline (15 Oct 2026 AoE) has passed, so this entry reports the most recently announced edition, whose review process is still ongoing (rebuttal 7-9 Dec 2026, notification 22 Dec 2026).\n\nThe next edition, FoSSaCS 2028 within ETAPS 2028 (Karlsruhe, Germany, 2-7 April 2028, hosted by Karlsruhe Institute of Technology), still has NO announced dates: https://etaps.org/2028/ remains a placeholder homepage whose 'Latest News' explicitly points to ETAPS 2027 for current news, and https://etaps.org/2028/cfp/, /2028/organizers/ and /2028/conferences/fossacs/ all return 404. No FoSSaCS 2028 CFP, dates or PC chairs are published (the ETAPS blog's latest post is from 4 Nov 2026 and contains no 2028 CFP announcement)."
         }
       ]
     },
@@ -1469,7 +1469,7 @@
       "name": "Integrated Formal Methods",
       "category": "Formal methods",
       "homepage": null,
-      "last_checked": "2026-11-24",
+      "last_checked": "2026-11-27",
       "editions": [
         {
           "year": 2027,
@@ -1486,7 +1486,7 @@
               "abstract_deadline": null,
               "rebuttal_start": null,
               "rebuttal_end": null,
-              "notes": "iFS'27 (1st edition; merger of iFM and FASE) at ETAPS 2027, Copenhagen. Single submission round, no abstract deadline. The joint ETAPS 2027 CFP date table lists '—' in the iFS rebuttal row (author response only for ESOP round 2, FoSSaCS, TACAS), so there is no author-response period. Voluntary artifact submission 2027-01-11, artifact notification 2027-02-11. All dates AoE; CFP states deadlines are firm and will not be extended. Double-blind reviewing for regular research papers only. Proceedings: Springer LNCS ARCoSS, gold open access. The 15 Oct 2026 AoE submission deadline has already passed (today 2026-11-24), so this is the most recently announced edition."
+              "notes": "iFS'27 (1st edition; merger of iFM and FASE) at ETAPS 2027, Copenhagen. Single submission round, no abstract deadline. The joint ETAPS 2027 CFP date table lists '—' in the iFS rebuttal row (author response only for ESOP round 2, FoSSaCS, TACAS), so there is no author-response period. Voluntary artifact submission 2027-01-11, artifact notification 2027-02-11. All dates AoE; CFP states deadlines are firm and will not be extended. Double-blind reviewing for regular research papers only. Proceedings: Springer LNCS ARCoSS, gold open access. The 15 Oct 2026 AoE submission deadline has already passed (today 2026-11-27), so this is the most recently announced edition."
             }
           ],
           "link": "https://etaps.org/2027/conferences/ifs/",
@@ -1506,8 +1506,8 @@
           ],
           "source": "https://etaps.org/2027/cfp",
           "confidence": "high",
-          "notes": "The standalone iFM series ended with iFM 2025 (20th edition, Inria Paris); per ifmconference.org (which now states 'iFM has merged with FASE to the new ETAPS conference iFS') and the ETAPS 'about iFS' page, iFM continues as iFS (International Conference on Foundations and Formal Methods for Software and Systems), first edition at ETAPS 2027 in Copenhagen (satellite events 10-11 April, main conferences 12-15 April 2027). Re-checked 2026-11-24 on the official ETAPS 2027 joint CFP, the iFS 2027 conference page (etaps.org/2027/conferences/ifs/), about/ifs and ifmconference.org: submission 15 Oct 2026, notification 22 Dec 2026, camera-ready 25 Jan 2027, page limits and PC chairs (Erika Ábrahám, Marsha Chechik) unchanged; single submission round, no rebuttal. Since the iFS'27 deadline has passed and the next edition (iFS at ETAPS 2028, Karlsruhe, Germany, 2-7 April 2028, hosted by KIT) still has no CFP, dates or PC chairs announced (etaps.org/2028 is only a placeholder homepage explicitly pointing to ETAPS 2027 for current news; etaps.org/2028/cfp, /2028/important-dates and /2028/ifs return 404; the ETAPS blog's latest post of 4 Nov 2026 contains no ETAPS/iFS 2028 CFP announcement), iFS 2027 is reported as the most recently announced edition.",
-          "last_checked": "2026-11-24"
+          "notes": "The standalone iFM series ended with iFM 2025 (20th edition, Inria Paris). Per ifmconference.org ('iFM has merged with FASE to the new ETAPS conference iFS') and the ETAPS 'about iFS' page, iFM continues as iFS (International Conference on Foundations and Formal Methods for Software and Systems), first edition at ETAPS 2027 in Copenhagen (satellite events 10-11 April, main conferences 12-15 April 2027). Re-checked 2026-11-27 on the official ETAPS 2027 joint CFP, the iFS 2027 page (etaps.org/2027/conferences/ifs/, to which etaps.org/2027/ifs redirects) and ifmconference.org: submission 15 Oct 2026, notification 22 Dec 2026, camera-ready 25 Jan 2027, page limits and PC chairs (Erika Ábrahám, Marsha Chechik) unchanged; single submission round, no rebuttal. The next edition (iFS at ETAPS 2028, Karlsruhe, Germany, 2-7 April 2028, hosted by KIT) still has no CFP, dates or PC chairs announced: etaps.org/2028 is only a placeholder homepage explicitly pointing to ETAPS 2027 for current news, and etaps.org/2028/cfp, /2028/important-dates and /2028/ifs all return 404; the ETAPS blog's latest post (4 Nov 2026) contains no ETAPS/iFS 2028 CFP announcement. Hence iFS 2027 is reported as the most recently announced edition.",
+          "last_checked": "2026-11-27"
         }
       ]
     },
@@ -1688,7 +1688,7 @@
           "last_checked": "2026-11-23"
         }
       ],
-      "last_checked": "2026-11-23"
+      "last_checked": "2026-11-27"
     },
     {
       "id": "lics",
@@ -1696,7 +1696,7 @@
       "name": "Logic in Computer Science",
       "category": "Logic & theory",
       "homepage": "https://lics.siglog.org/",
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "editions": [
         {
           "year": 2027,
@@ -1733,8 +1733,8 @@
           ],
           "source": "https://lics.siglog.org/lics27/cfp.php",
           "confidence": "high",
-          "notes": "LICS 2027 = 42nd Annual ACM/IEEE Symposium on Logic in Computer Science, Montréal 21-24 June 2027 (workshops 19-20 June). Confirmed as the next edition by lics.siglog.org ('Next LICS Conference: LICS 2027'; LICS 2026 was held in Lisbon 20-23 July 2026 as part of FLoC). Re-verified on the official CFP and home pages on 2026-11-23; all dates unchanged. Invited speakers announced: Łukasz Kaiser (OpenAI), Joël Ouaknine (MPI-SWS), Laura Kovács (TU Wien, tutorial), Szymon Toruńczyk (Univ. of Warsaw, tutorial). Associate Chairs (Gilles Barthe, Michael Benedikt, Barbara König, Anca Muscholl) are PC members, not PC chairs, and are excluded.",
-          "last_checked": "2026-11-23"
+          "notes": "LICS 2027 = 42nd Annual ACM/IEEE Symposium on Logic in Computer Science, Montréal 21-24 June 2027 (workshops 19-20 June). Confirmed as the next edition by lics.siglog.org ('Next LICS Conference: LICS 2027'; LICS 2026 was held in Lisbon 20-23 July 2026 as part of FLoC). Re-verified on the official CFP, home page and HotCRP on 2026-11-27; all dates unchanged. Invited speakers announced: Łukasz Kaiser (OpenAI), Joël Ouaknine (MPI-SWS), Laura Kovács (TU Wien, tutorial), Szymon Toruńczyk (Univ. of Warsaw, tutorial). Associate Chairs (Gilles Barthe, Michael Benedikt, Barbara König, Anca Muscholl) are PC members, not PC chairs, and are excluded.",
+          "last_checked": "2026-11-27"
         }
       ]
     },
@@ -1796,7 +1796,7 @@
       "name": "Mathematical Foundations of Computer Science",
       "category": "Logic & theory",
       "homepage": null,
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "editions": [
         {
           "year": 2026,
@@ -1833,8 +1833,8 @@
           ],
           "source": "https://mfcs2026.irif.fr/",
           "confidence": "high",
-          "notes": "As of 2026-11-23 no upcoming MFCS edition with an announced submission deadline: the 52nd MFCS (2027) has not yet been announced. Checks today: the official MFCS 2026 site (fetched today) lists previous editions only up to 2025/2026 and no next-edition announcement; MFCS 2025 site (mfcs2025.mimuw.edu.pl) likewise; WikiCFP series page id=2043 (fetched today) still shows 'Present CFP : 2026' and invites a first '2027 or later' CFP post; conf.friedetzky.org (last updated 23 November 2026) lists SAND 2027, SPAA 2027, FCT 2027 but no MFCS 2027; tcs-conf.github.io (fetched today) has empty deadline-ahead/running/upcoming/planning sections; EATCS home/news and EATCS Bulletin no. 150 (October 2026) TOC contain no MFCS 2027 announcement; EasyChair CFP alias /cfp/MFCS2027 is 404; DuckDuckGo/Bing searches for 'MFCS 2027' / '52nd MFCS' returned no official site. Reported edition is therefore the most recently announced one, the 51st MFCS (Paris): submission deadline 2026-04-24 AoE has passed and the conference was held 2026-08-24 to 2026-08-28. All dates read directly from the official MFCS 2026 site.",
-          "last_checked": "2026-11-23"
+          "notes": "As of 2026-11-27 no upcoming MFCS edition with an announced submission deadline: the 52nd MFCS (2027) has not yet been announced. Checks today: official MFCS 2026 site (fetched today) lists previous editions only up to 2025/2026 and no next-edition announcement; MFCS 2025 site likewise; WikiCFP series page id=2043 (fetched today) still shows 'Present CFP : 2026' and invites a first '2027 or later' CFP post; conf.friedetzky.org (last updated 27 November 2026) lists SAND 2027, SPAA 2027, PODC 2027, FCT 2027 but no MFCS 2027; tcs-conf.github.io (fetched today) has empty deadline-ahead/running/upcoming/planning sections; EATCS home/news and EATCS Bulletin no. 150 (October 2026) TOC contain no MFCS 2027 announcement; Bing searches for 'MFCS 2027' / 'mfcs2027' / '52nd MFCS' returned no official site. Reported edition is therefore the most recently announced one, the 51st MFCS (Paris): submission deadline 2026-04-24 AoE has passed and the conference was held 2026-08-24 to 2026-08-28. All dates read directly from the official MFCS 2026 site.",
+          "last_checked": "2026-11-27"
         }
       ]
     },
@@ -2563,7 +2563,7 @@
       "name": "IEEE Symposium on Security and Privacy",
       "category": "SE & security",
       "homepage": null,
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-27",
       "editions": [
         {
           "year": 2027,
